@@ -4,57 +4,46 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
+> A curated list of awesome Feather boards, add-ons (FeatherWings), guides, videos, libraries, software and resources.
 
-[CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython) is Adafruit's branch of MicroPython designed to simplify experimentation and education on low-cost microcontrollers. It makes it easier than ever to start prototyping by requiring no upfront desktop software downloads. With CircuitPython you can write clean and simple Python code to control hardware instead of having to use complex low-level languages like C or C++ (what Arduino uses for programming). It's great for beginners!
+The Adafruit [Feather](https://www.adafruit.com/category/943) are a complete line of development boards from [Adafruit](https://www,adafruit.com/) that are both standalone and stackable. They're able to be powered by LiPo batteries for on-the-go use or by their micro-USB plugs for stationary projects. Feathers are flexible, portable, and as light as their namesake. Feather Wings are stacking boards and add functionality and room for prototyping. At its core, the Adafruit Feather is a complete ecosystem of products - and the best way to get your project flying.
 
 ## Contents
 
 - [Guides](#guides)
 - [Community](#community)
-- [Books](#books)
 - [Code](#code)
 - [Frameworks](#frameworks)
 - [Hardware](#hardware)
-- [Newsletter](#newsletter)
 - [In the news](#news)
 - [Art, logos, graphics](#art)
 - [Social media](#social)
-- [Events](#events)
 - [Swag](#swag)
 - [Contributing](#contributing)
 
 ## Guides
 
-- [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) - An overview of CircuitPython and the community.
-- [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - Learning the essential functions of CircuitPython.
-- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - Adafruit Learning Guides on CircuitPython.
-- [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython) - Guides on both CircuitPython and MicroPython.
+- [Introducing Adafruit Feather](https://learn.adafruit.com/adafruit-feather/) - An overview of Feather and the Feather ecosystem.
+- [learn.adafruit.com Feather](https://learn.adafruit.com/category/feather) - Adafruit Learning Guides on Feather.
 
 ## Community
 
-- [Adafruit CircuitPython Discord channel #CircuitPython](https://discord.gg/EAeBY6x) - 24/7 chat and support on CircuitPython including a weekly podcast.
-- [Python on Hardware weekly VideoCast](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev) - The wonderful world of Python on hardware. Video-newsletter-podcast of all things Python and electronics.
-- [CircuitPython Weekly Meeting](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0) - Video archive of weekly community meeting via Discord, starting from September, 2017.
-- [Adafruit CircuitPython Forums](https://forums.adafruit.com/viewforum.php?f=60) - The Adafruit discussion forum on CircuitPython.
-
-## Books
-
-- [Getting started with Circuit Playground Express by Mike Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) (or purchase as part of your order from [the AdaFruit store](https://www.adafruit.com/product/3944)) - Discusses the Circuit Playground Express including programming via CircuitPython.
-- [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/) - This book helps you to get started with CircuitPython development. This book uses Adafruit ItsyBitsy M0 Express board for development testing board.
-- [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - Discusses the MicroPython language.
+- [Adafruit CircuitPython Discord channel #help-with-projects](https://discordapp.com/channels/327254708534116352/330406777009209346) - 24/7 chat and support on projects with Adafruit gear.
+- [Adafruit Feather Forums](https://forums.adafruit.com/viewforum.php?f=57) - The Adafruit discussion forum on Feather.
 
 ## Code
 
 - [CircuitPython (latest)](https://github.com/adafruit/circuitpython/releases/latest)
 - [CircuitPython 4.0.0 Beta](https://github.com/adafruit/circuitpython/releases/tag/4.0.0-beta.0) - [And the announcement](https://blog.adafruit.com/2019/01/23/circuitpython-4-0-0-beta-0-released/)
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
-- [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 - [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 130+ libraries available.
-- [Adafruit Blinka](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board Linux computers.
 
 ## Frameworks
+
+Feathers may be programmed in various languages which may vary by board. Here are language frameworks which may be used with specific Feather processor boards.
+
+### CircuitPython
 
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The documentation for Mu.
@@ -72,15 +61,7 @@ All supported boards can be located in the latest release builds - [GitHub](http
 - [Particle](https://www.particle.io/) - Particle Argon, Particle Boron, Particle Xenon.
 - [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini - Bluetooth Development Board, SparkFun SAMD21 Mini Breakout, SparkFun SAMD21 Dev Breakout. *Sparkfun LumiDrive LED Driver, and SparkFun RedBoard Turbo - SAMD21 Development Board, support CircuitPython but are not in releases until pull request is received to add.*
 
-[CircuitPython sensors and accessories](https://www.adafruit.com/category/956) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
-
-[python.digikey.com](http://python.digikey.com) - Digi-Key electronics has a listing of all Python-supported boards on their site in one location including CircuitPython and MicroPython boards.
-
-## Newsletter
-
-- [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython and CircuitPython, a spam-free list.
-- [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
-- [Archives of all newsletters](https://www.adafruitdaily.com/category/circuitpython/) - List of every newsletter published from the start, November 2016.
+[Feather boards, Feather Wings and accessories](https://www.adafruit.com/category/943) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
 ## News
 
@@ -101,25 +82,13 @@ All supported boards can be located in the latest release builds - [GitHub](http
 
 ## Social
 
-- [#CircuitPython tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23CircuitPython&src=tyah) - Twitter posts tagged CircuitPython.
-- [CircuitPython Twitter](https://twitter.com/circuitpython) - Twitter account aggregator for CircuitPython news and more.
-- [CircuitPython videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D&search_query=circuitpython) - YouTube posts tagged CircuitPython.
-- [#CircuitPython tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/circuitpython/) - Posts on Instagram tagged CircuitPython.
-- [CircuitPython on Google+ Makers, hackers, artists & engineers](https://plus.google.com/u/0/b/112526208786662512291/communities/112845006884148391862/stream/7235f94a-ceab-4a9a-90b2-a47438af0675) - Google Plus posts related to CircuitPython.
-- [CircuitPython - micropython.org forums](https://forum.micropython.org/search.php?keywords=adafruit&terms=all&author=&sc=1&sf=all&sr=posts&sk=t&sd=d&st=0&ch=300&t=0&submit=Search) - Articles on the MicroPython forums tagged for CircuitPython.
-- [CircuitPython tagged on Reddit](https://www.reddit.com/domain/adafruit.com/search?q=circuit+python&sort=new&t=week) - Reddit posts relating to CircuitPython.
-- [CircuitPython community on Reddit](https://www.reddit.com/r/circuitpython/) - Dedicated home of CircuitPython on reddit /r/circuitpython/
-- [CircuitPython on Hackaday.io](https://hackaday.io/list/163331-circuitpython) - Currated list of projects on hackaday.io
-- [CircuitPython on hackster.io](https://blog.adafruit.com/2019/01/15/python-on-hardware-community-hub-on-hackster-io-hacksterio/) - Python on hardware projects on hackster.io including CircuitPython.
-- [CircuitPython on Instructables](https://www.instructables.com/howto/circuitpython/) - How-tos, guides, and more, using CircuitPython on Autodesk's Instructables.
-
-## Events
-
-- [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x) - The Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET.
-- [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - The weekly Adafruit Show-and-tell program often has CircuitPython-related projects on display.
-- [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - The longest running Youtube live show about electronics, information on CircuitPython each week during "Python on hardware segment".
-- [PyCon 2019 conference](https://us.pycon.org/2019/about/) - May 1 - 9, 2019, Cleveland, Ohio.
-- [PyCascades 2019](https://2019.pycascades.com/) - February 23 — 24, 2019, Seattle. WA. 
+- [Adafruit Feather on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=adafruit%20feather) - Twitter posts tagged Adafruit Feather.
+- [Feather videos on YouTube, latest](https://www.youtube.com/results?search_query=adafruit+feather&sp=CAI%253D) - YouTube posts tagged Adafruit Feather.
+- [#AdafruitFeather tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/adafruitfeather/) - Posts on Instagram tagged #AdafruitFeather.
+- [Feather tagged on Reddit](https://www.reddit.com/search?q=adafruit%20feather) - Reddit posts relating to Adafruit Feather.
+- [Feather on Hackaday.io](https://hackaday.io/search?term=Adafruit+Feather) - List of projects on hackaday.io
+- [Feather on hackster.io](https://www.hackster.io/search?i=projects&q=Adafruit%20Feather) - Adafruit Feathere projects on hackster.io.
+- [Feather on Instructables](https://www.instructables.com/howto/Adafruit+Feather/) - How-tos, guides, and more, using Feather on Autodesk's Instructables.
 
 ## Swag
  - [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) - CircuitPython release version 4 poster featuring Nordic.
@@ -131,7 +100,7 @@ All supported boards can be located in the latest release builds - [GitHub](http
  
 ## Contributing
 
-Contributions and suggestions are always welcome! Please make pull requests to modify Awesome CircuitPython.
+Contributions and suggestions are always welcome! Please make pull requests to modify Awesome Feather.
 
 ## License & Trademarks
 
