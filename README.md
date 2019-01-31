@@ -51,22 +51,23 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 | Name | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | Wireless |
 |---|---|---|---|---|---|---|---|---|
-| Adafruit Feather 328P - Atmega328P 3.3V | Protoboard area | 32KB | 2KB | None | 8MHz | No | Yes |   |
+| Adafruit Feather 328P - Atmega328P 3.3V | Protoboard area | 32KB | 2KB | None | 8 MHz | No | Yes |   |
 | Adafruit Feather 32u4 Basic Proto | Built-in protoboard | 32 KB | 2 KB | None | 8 MHz | No | x  |    |
 | Adafruit Feather 32u4 Adalogger | SD card support | 32 KB | 2 KB | None | 8 MHz | No |   |   |
-| Adafruit Feather 32u4 Bluefruit LE | Bluetooth support | 32 KB | 2 KB | None | 8 MHz | No |   | Bluetooth |
-| Adafruit Feather HUZZAH with ESP8266 WiFi | Wi-Fi support | 4 MB | 32 KB SRAM 80 KB DRAM | None | 80 MHz | No |   | WiFi |
+| Adafruit Feather 32u4 Bluefruit LE | Bluetooth support | 32 KB | 2 KB | None | 8 MHz | No | Yes | BTLE |
+| Adafruit Feather HUZZAH with ESP8266 | WiFi support | 4 MB | 32 KB / 80 KB | None | 80 MHz | No |   | WiFi |
+| [Adafruit Feather HUZZAH32 with ESP32](https://www.adafruit.com/product/3405) | WiFi support | 4 MB | 520 KB | None } 240 MHz | No | Yes | Wi-Fi / BTLE |
 | Adafruit Feather M0 Basic Proto | Built-in protoboard | 256 KB | 32 KB | None |   |   |   |   |
-| Adafruit Feather M0 Adalogger | SD card support | 256 KB | 32 KB | None | 48MHz |   | Yes |   |
-| Adafruit Feather M0 Bluefruit LE | Bluetooth support | 256 KB | 32 KB |   |   |   |   | BTLE |
+| Adafruit Feather M0 Adalogger | SD card support | 256 KB | 32 KB | None | 48 MHz |   | Yes |   |
+| Adafruit Feather M0 Bluefruit LE | Bluetooth support | 256 KB | 32 KB | None | 48 MHz | No | Yes | BTLE |
 | Adafruit Feather M0 WiFi | Wi-Fi support | 256 KB | 32 KB |   |   |   |   | WiFi |
 | Adafruit Feather 32u4 FONA | cellular network support | 32 KB | 2 KB | None |   | No |   | Cellular |
-| Adafruit Feather M0 WiFi with uFL | Wi-Fi support | 256 KB | 32 KB |   |   |   |   | WiFi |
-| Adafruit Feather STM32F205 with WICED | WICED support | 1024 KB | 128 KB |   |   | No |   | WiFi |
+| Adafruit Feather M0 WiFi with uFL | WiFi support | 256 KB | 32 KB |   |   |   |   | WiFi |
+| Adafruit Feather STM32F205 with WICED | WICED WiFi | 1024 KB | 128 KB | 2 MB | 120 MHz | No | Yes | WiFi |
 | Adafruit Feather 32u4 RFM69HCW (868/915 MHz) | RF Radio Support | 2 KB | None |   |   |   |   | Radio |
 | Adafruit Feather 32u4 RFM69HCW (433 MHz) | RF Radio Support | 32 KB | 2 KB | None |   |   |   | Radio |
-| Adafruit Feather 32u4 32u4 RFM95W LoRa Radio (900 MHz) | RF Radio Support | 32 KB | 2KB | None |   |   | LoRa |
-| Adafruit Feather nRF52 Bluefruit LE - nRF52832 | Bluetooth support | 512KB | 64KB | None | 64MHz | No | Yes | BTLE |
+| Adafruit Feather 32u4 32u4 RFM95W LoRa Radio (900 MHz) | RF Radio Support | 32 KB | 2 KB | None |   |   | LoRa |
+| Adafruit Feather nRF52 Bluefruit LE - nRF52832 | Bluetooth support | 512 KB | 64 KB | None | 64 MHz | No | Yes | BTLE |
 | Adafruit Feather nRF52832 Pro with myNewt Bootloader | Bluetooth support |   |   |   |   |   |   | BTLE |
 | Adafruit Feather M4 Express  | - |   |   |   |   |   |   |   |
 | Adafruit Feather nRF52840 Express  | Bluetooth support |   |   |   |   |   |   | BTLE |
@@ -91,9 +92,12 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 | FeatherWing Tripler Mini Kit - Prototyping Add-on  | Three side-by-sidde feather sockets |
 | FeatherWing Proto - Prototyping Add-on | Singe Feather sized proto board, optional headers |
 | Adafruit FeatherWing OLED - 128x32 OLED  | OLED Display |
-|   |   |
-|   |   |
-|   |   |
+| Adafruit Prop-Maker FeatherWing | Multiple drivers for props |
+| Adafruit Ultimate GPS FeatherWing | GPS receiver with battery backup |
+| Adafruit CRICKIT FeatherWing | Multiple motor drivers, NeoPixel driver, amplifier, GPIO |
+| Adafruit TFT FeatherWing | LCD 480x320 3.5" with touchscreen |
+| Music Maker FeatherWing w/ Amp | MP3 OGG WAV MIDI Synth Player - Stereo 3W Amplifier |
+| Adafruit Music Maker FeatherWing | MP3 OGG WAV MIDI Synth Player |
 |   |   |
 
 ### Feather Wings (non-Adafruit)
