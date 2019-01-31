@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="853" src="https://github.com/adafruit/awesome-feather/blob/master/awesome_feather.png" alt="Awesome Feather"><br>
+  <img width="853" src="https://github.com/adafruit/awesome-feather/blob/master/awesome_feather.png" alt="Awesome Feather"><br>Awesome Feather
 </h1>
 
 > A curated list of awesome Feather boards, add-ons (FeatherWings), guides, videos, libraries, software and resources.
@@ -50,25 +50,28 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 [Feather boards, Feather Wings and accessories](https://www.adafruit.com/category/943) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
-| Name | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | B |
+| Name | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | Product Number |
 |---|---|---|---|---|---|---|---|---|---|
-| Adafruit Feather 32u4 Basic Proto | Built-in protoboard | 32 KB | 2 KB | None | 8 MHz | x  | x  | x  | x  |
-| Adafruit Feather 32u4 Adalogger | SD card support | 32 KB | 2 KB | None | 8 MHz |   |   |   |   |
-| Adafruit Feather 32u4 Bluefruit LE | Bluetooth support | 32 KB | 2 KB | None | 8 MHz |   |   |   |   |
-| Adafruit Feather HUZZAH with ESP8266 WiFi | Wi-Fi support | 4 MB | 32 KB SRAM 80 KB DRAM | None | 80 MHz |   |   |   |   |
+| Adafruit Feather 328P - Atmega328P 3.3V | Protoboard area | 32KB | 2KB | None | 8MHz | No | Yes | x | 3458 |
+| Adafruit Feather 32u4 Basic Proto | Built-in protoboard | 32 KB | 2 KB | None | 8 MHz | No | x  | x  | x  |
+| Adafruit Feather 32u4 Adalogger | SD card support | 32 KB | 2 KB | None | 8 MHz | No |   |   |   |
+| Adafruit Feather 32u4 Bluefruit LE | Bluetooth support | 32 KB | 2 KB | None | 8 MHz | No |   |   |   |
+| Adafruit Feather HUZZAH with ESP8266 WiFi | Wi-Fi support | 4 MB | 32 KB SRAM 80 KB DRAM | None | 80 MHz | No |   |   |   |
 | Adafruit Feather M0 Basic Proto | Built-in protoboard | 256 KB | 32 KB | None |   |   |   |   |   |
-| Adafruit Feather M0 Adalogger | SD card support | 256 KB | 32 KB |   |   |   |   |   |   |
+| Adafruit Feather M0 Adalogger | SD card support | 256 KB | 32 KB | None | 48MHz |   | Yes | x | 2796 |
 | Adafruit Feather M0 Bluefruit LE | Bluetooth support | 256 KB | 32 KB |   |   |   |   |   |   |
 | Adafruit Feather M0 WiFi | Wi-Fi support | 256 KB | 32 KB |   |   |   |   |   |   |
-| Adafruit Feather 32u4 FONA | cellular network support | 32 KB | 2 KB |   |   |   |   |   |   |
+| Adafruit Feather 32u4 FONA | cellular network support | 32 KB | 2 KB | None |   | No |   |   |   |
 | Adafruit Feather M0 WiFi with uFL | Wi-Fi support | 256 KB | 32 KB |   |   |   |   |   |   |
-| Adafruit Feather STM32F205 with WICED | WICED support | 1024 KB | 128 KB |   |   |   |   |   |   |
+| Adafruit Feather STM32F205 with WICED | WICED support | 1024 KB | 128 KB |   |   | No |   |   |   |
 | Adafruit Feather 32u4 RFM69HCW (868/915 MHz) | RF Radio Support | 2 KB | None |   |   |   |   |   |   |
 | Adafruit Feather 32u4 RFM69HCW (433 MHz) | RF Radio Support | 32 KB | 2 KB | None |   |   |   |   |   |
-| Adafruit Feather 32u4 32u4 RFM95W LoRa Radio (900 MHz) | RF Radio Support | 32 KB | 2KB | None |   |   |   |   | 
+| Adafruit Feather 32u4 32u4 RFM95W LoRa Radio (900 MHz) | RF Radio Support | 32 KB | 2KB | None |   |   |   |   |
+| Adafruit Feather nRF52 Bluefruit LE - nRF52832 | Bluetooth support | 512KB | 64KB | None | 64MHz | No | Yes | x | 3406 |
 | Adafruit Feather nRF52832 Pro with myNewt Bootloader | Bluetooth support |   |   |   |   |   |   |   |   |
 | Adafruit Feather M4 Express  | - |   |   |   |   |   |   |   |   |
 | Adafruit Feather nRF52840 Express  | Bluetooth support |   |   |   |   |   |   |   |   |
+
 | Other Company Boards | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | B |
 | Particle Xenon - nRF52840 with BLE and Mesh  |   |   |   |   |   |   |   |   |   |
 | Particle Argon - nRF52840 with Mesh and WiFi |   |   |   |   |   |   |   |   |   |
@@ -77,6 +80,19 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
+
+# Feather Wings
+
+| Name  | Features  | Prodict Numnber |
+|---|---|---|
+| FeatherWing Doubler - Prototyping Add-on | Two side-by-side Feather sockets | 2890 |
+| FeatherWing Tripler Mini Kit - Prototyping Add-on  | Three side-by-sidde feather sockets | 3417 |
+| FeatherWing Proto - Prototyping Add-on | Singe Feather sized proto board, optional headers | 2884 |
+| Adafruit FeatherWing OLED - 128x32 OLED  | OLED Display | 2900 |
+|   |   |  |
+|   |   |  |
+|   |   |  |
+|   |   |  |
 
 - [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Express, Adafruit Feather M4 Express, Adafruit Feather nRF52840 Express, Adafruit GEMMA M0, Adafruit Grand Central M4 Express featuring the SAMD51, Adafruit HalloWing M0 Express, Adafruit ItsyBitsy M0, Adafruit ItsyBitsy M4, Adafruit METRO M0 Express, Adafruit Metro M4, Adafruit NeoTrellis M4, Adafruit Trinket M0.
 - [Arduino](https://www.arduino.cc/) - Arduino MKR 1300, Arduino MKR ZERO, Arduino ZERO.
@@ -118,14 +134,6 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 - [Feather on hackster.io](https://www.hackster.io/search?i=projects&q=Adafruit%20Feather) - Adafruit Feathere projects on hackster.io.
 - [Feather on Instructables](https://www.instructables.com/howto/Adafruit+Feather/) - How-tos, guides, and more, using Feather on Autodesk's Instructables.
 
-## Swag
- - [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) - CircuitPython release version 4 poster featuring Nordic.
- - [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) - CircuitPython release version 3 poster.
-- [Blinka the CircuitPython Limited Edition Enamel Pin](https://www.adafruit.com/product/3680) - An enamel pin with the CircuitPython mascot.
-- [Blinka the CircuitPython Sticker](https://www.adafruit.com/product/3725) - A sticker featuring Blinka, the CircuitPython mascot.
-- [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - A temporary tattoo featuring the Blinka character.
- - [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - CircuitPlayground lanyard featuring Blinka.
- 
 ## Contributing
 
 Contributions and suggestions are always welcome! Please make pull requests to modify Awesome Feather.
