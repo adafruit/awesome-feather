@@ -52,24 +52,24 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 | Name | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | B |
 |---|---|---|---|---|---|---|---|---|---|
-| Adafruit Feather 32u4 Basic Proto | x  | x  | x  | x  | x  | x  | x  | x  | x  |
-| Adafruit Feather 32u4 Adalogger |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather 32u4 Bluefruit LE |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather HUZZAH with ESP8266 WiFi |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather M0 Basic Proto |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather M0 Adalogger |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather M0 Bluefruit LE |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather M0 WiFi |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather 32u4 FONA |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather M0 WiFi with uFL |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather STM32F205 with WICED |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather 32u4 RFM69HCW (868/915 MHz) |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather 32u4 RFM69HCW (433 MHz) |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather 32u4 32u4 RFM95W LoRa Radio (900 MHz) |   |   |   |   |   |   |   |   | 
-| Adafruit Feather nRF52832 Pro with myNewt Bootloader |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather M4 Express  |   |   |   |   |   |   |   |   |   |
-| Adafruit Feather nRF52840 Express  |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|
+| Adafruit Feather 32u4 Basic Proto | Built-in protoboard | 32 KB | 2 KB | None | 8 MHz | x  | x  | x  | x  |
+| Adafruit Feather 32u4 Adalogger | SD card support | 32 KB | 2 KB | None | 8 MHz |   |   |   |   |
+| Adafruit Feather 32u4 Bluefruit LE | Bluetooth support | 32 KB | 2 KB | None | 8 MHz |   |   |   |   |
+| Adafruit Feather HUZZAH with ESP8266 WiFi | Wi-Fi support | 4 MB | 32 KB SRAM 80 KB DRAM | None | 80 MHz |   |   |   |   |
+| Adafruit Feather M0 Basic Proto | Built-in protoboard | 256 KB | 32 KB | None |   |   |   |   |   |
+| Adafruit Feather M0 Adalogger | SD card support | 256 KB | 32 KB |   |   |   |   |   |   |
+| Adafruit Feather M0 Bluefruit LE | Bluetooth support | 256 KB | 32 KB |   |   |   |   |   |   |
+| Adafruit Feather M0 WiFi | Wi-Fi support | 256 KB | 32 KB |   |   |   |   |   |   |
+| Adafruit Feather 32u4 FONA | cellular network support | 32 KB | 2 KB |   |   |   |   |   |   |
+| Adafruit Feather M0 WiFi with uFL | Wi-Fi support | 256 KB | 32 KB |   |   |   |   |   |   |
+| Adafruit Feather STM32F205 with WICED | WICED support | 1024 KB | 128 KB |   |   |   |   |   |   |
+| Adafruit Feather 32u4 RFM69HCW (868/915 MHz) | RF Radio Support | 2 KB | None |   |   |   |   |   |   |
+| Adafruit Feather 32u4 RFM69HCW (433 MHz) | RF Radio Support | 32 KB | 2 KB | None |   |   |   |   |   |
+| Adafruit Feather 32u4 32u4 RFM95W LoRa Radio (900 MHz) | RF Radio Support | 32 KB | 2KB | None |   |   |   |   | 
+| Adafruit Feather nRF52832 Pro with myNewt Bootloader | Bluetooth support |   |   |   |   |   |   |   |   |
+| Adafruit Feather M4 Express  | - |   |   |   |   |   |   |   |   |
+| Adafruit Feather nRF52840 Express  | Bluetooth support |   |   |   |   |   |   |   |   |
+| Other Company Boards | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | B |
 | Particle Xenon - nRF52840 with BLE and Mesh  |   |   |   |   |   |   |   |   |   |
 | Particle Argon - nRF52840 with Mesh and WiFi |   |   |   |   |   |   |   |   |   |
 | Particle Boron LTE - nRF52840 with Mesh and LTE Cellular Modem |   |   |   |   |   |   |   |   |   |
