@@ -2,8 +2,6 @@
   <img width="400" src="https://github.com/adafruit/awesome-circuitpython/blob/master/awesome_circuitpython.png" alt="Awesome CircuitPython"><br>
 </h1>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 > A curated list of awesome Feather boards, add-ons (FeatherWings), guides, videos, libraries, software and resources.
 
 The Adafruit [Feather](https://www.adafruit.com/category/943) are a complete line of development boards from [Adafruit](https://www,adafruit.com/) that are both standalone and stackable. They're able to be powered by LiPo batteries for on-the-go use or by their micro-USB plugs for stationary projects. Feathers are flexible, portable, and as light as their namesake. Feather Wings are stacking boards and add functionality and room for prototyping. At its core, the Adafruit Feather is a complete ecosystem of products - and the best way to get your project flying.
@@ -48,7 +46,9 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The documentation for Mu.
 
-## Hardware
+## Feather Hardware
+
+[Feather boards, Feather Wings and accessories](https://www.adafruit.com/category/943) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
 All supported boards can be located in the latest release builds - [GitHub](https://github.com/adafruit/circuitpython/releases). If your board support CircuitPython, please do a pull request for it to be added.
 
@@ -61,7 +61,9 @@ All supported boards can be located in the latest release builds - [GitHub](http
 - [Particle](https://www.particle.io/) - Particle Argon, Particle Boron, Particle Xenon.
 - [SparkFun](https://www.sparkfun.com/) - SparkFun Pro nRF52840 Mini - Bluetooth Development Board, SparkFun SAMD21 Mini Breakout, SparkFun SAMD21 Dev Breakout. *Sparkfun LumiDrive LED Driver, and SparkFun RedBoard Turbo - SAMD21 Development Board, support CircuitPython but are not in releases until pull request is received to add.*
 
-[Feather boards, Feather Wings and accessories](https://www.adafruit.com/category/943) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
+### Feather Wings (non-Adafruit)
+
+[SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp) - An accurate and flexible four-channel temperature sensor for instrumenting electronics.
 
 ## News
 
