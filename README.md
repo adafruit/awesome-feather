@@ -49,27 +49,27 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 [Feather boards, Feather Wings and accessories](https://www.adafruit.com/category/943) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
-| Name | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | Product Number |
+| Name | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | Wireless |
 |---|---|---|---|---|---|---|---|---|---:|
-| Adafruit Feather 328P - Atmega328P 3.3V | Protoboard area | 32KB | 2KB | None | 8MHz | No | Yes | x | 3458 |
-| Adafruit Feather 32u4 Basic Proto | Built-in protoboard | 32 KB | 2 KB | None | 8 MHz | No | x  | x  | x  |
-| Adafruit Feather 32u4 Adalogger | SD card support | 32 KB | 2 KB | None | 8 MHz | No |   |   |   |
-| Adafruit Feather 32u4 Bluefruit LE | Bluetooth support | 32 KB | 2 KB | None | 8 MHz | No |   |   |   |
-| Adafruit Feather HUZZAH with ESP8266 WiFi | Wi-Fi support | 4 MB | 32 KB SRAM 80 KB DRAM | None | 80 MHz | No |   |   |   |
-| Adafruit Feather M0 Basic Proto | Built-in protoboard | 256 KB | 32 KB | None |   |   |   |   |   |
-| Adafruit Feather M0 Adalogger | SD card support | 256 KB | 32 KB | None | 48MHz |   | Yes | x | 2796 |
-| Adafruit Feather M0 Bluefruit LE | Bluetooth support | 256 KB | 32 KB |   |   |   |   |   |   |
-| Adafruit Feather M0 WiFi | Wi-Fi support | 256 KB | 32 KB |   |   |   |   |   |   |
-| Adafruit Feather 32u4 FONA | cellular network support | 32 KB | 2 KB | None |   | No |   |   |   |
-| Adafruit Feather M0 WiFi with uFL | Wi-Fi support | 256 KB | 32 KB |   |   |   |   |   |   |
-| Adafruit Feather STM32F205 with WICED | WICED support | 1024 KB | 128 KB |   |   | No |   |   |   |
-| Adafruit Feather 32u4 RFM69HCW (868/915 MHz) | RF Radio Support | 2 KB | None |   |   |   |   |   |   |
-| Adafruit Feather 32u4 RFM69HCW (433 MHz) | RF Radio Support | 32 KB | 2 KB | None |   |   |   |   |   |
-| Adafruit Feather 32u4 32u4 RFM95W LoRa Radio (900 MHz) | RF Radio Support | 32 KB | 2KB | None |   |   |   |   |
-| Adafruit Feather nRF52 Bluefruit LE - nRF52832 | Bluetooth support | 512KB | 64KB | None | 64MHz | No | Yes | x | 3406 |
-| Adafruit Feather nRF52832 Pro with myNewt Bootloader | Bluetooth support |   |   |   |   |   |   |   |   |
-| Adafruit Feather M4 Express  | - |   |   |   |   |   |   |   |   |
-| Adafruit Feather nRF52840 Express  | Bluetooth support |   |   |   |   |   |   |   |   |
+| Adafruit Feather 328P - Atmega328P 3.3V | Protoboard area | 32KB | 2KB | None | 8MHz | No | Yes | x |
+| Adafruit Feather 32u4 Basic Proto | Built-in protoboard | 32 KB | 2 KB | None | 8 MHz | No | x  | x  |
+| Adafruit Feather 32u4 Adalogger | SD card support | 32 KB | 2 KB | None | 8 MHz | No |   |   |
+| Adafruit Feather 32u4 Bluefruit LE | Bluetooth support | 32 KB | 2 KB | None | 8 MHz | No |   | Bluetooth |
+| Adafruit Feather HUZZAH with ESP8266 WiFi | Wi-Fi support | 4 MB | 32 KB SRAM 80 KB DRAM | None | 80 MHz | No |   | WiFi |
+| Adafruit Feather M0 Basic Proto | Built-in protoboard | 256 KB | 32 KB | None |   |   |   |   |
+| Adafruit Feather M0 Adalogger | SD card support | 256 KB | 32 KB | None | 48MHz |   | Yes |   |
+| Adafruit Feather M0 Bluefruit LE | Bluetooth support | 256 KB | 32 KB |   |   |   |   | BTLE |
+| Adafruit Feather M0 WiFi | Wi-Fi support | 256 KB | 32 KB |   |   |   |   | WiFi |
+| Adafruit Feather 32u4 FONA | cellular network support | 32 KB | 2 KB | None |   | No |   | Cellular |
+| Adafruit Feather M0 WiFi with uFL | Wi-Fi support | 256 KB | 32 KB |   |   |   |   | WiFi |
+| Adafruit Feather STM32F205 with WICED | WICED support | 1024 KB | 128 KB |   |   | No |   | WiFi |
+| Adafruit Feather 32u4 RFM69HCW (868/915 MHz) | RF Radio Support | 2 KB | None |   |   |   |   | Radio |
+| Adafruit Feather 32u4 RFM69HCW (433 MHz) | RF Radio Support | 32 KB | 2 KB | None |   |   |   | Radio |
+| Adafruit Feather 32u4 32u4 RFM95W LoRa Radio (900 MHz) | RF Radio Support | 32 KB | 2KB | None |   |   | LoRa |
+| Adafruit Feather nRF52 Bluefruit LE - nRF52832 | Bluetooth support | 512KB | 64KB | None | 64MHz | No | Yes | BTLE |
+| Adafruit Feather nRF52832 Pro with myNewt Bootloader | Bluetooth support |   |   |   |   |   |   | BTLE |
+| Adafruit Feather M4 Express  | - |   |   |   |   |   |   |   |
+| Adafruit Feather nRF52840 Express  | Bluetooth support |   |   |   |   |   |   | BTLE |
 
 ## Feather Compatible Processor Boards
 
@@ -85,16 +85,16 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 ## Feather Wings
 
-| Name  | Features  | Product Numnber |
+| Name  | Features  |
 |---|---|---:|
-| FeatherWing Doubler - Prototyping Add-on | Two side-by-side Feather sockets | 2890 |
-| FeatherWing Tripler Mini Kit - Prototyping Add-on  | Three side-by-sidde feather sockets | 3417 |
-| FeatherWing Proto - Prototyping Add-on | Singe Feather sized proto board, optional headers | 2884 |
-| Adafruit FeatherWing OLED - 128x32 OLED  | OLED Display | 2900 |
-|   |   |  |
-|   |   |  |
-|   |   |  |
-|   |   |  |
+| FeatherWing Doubler - Prototyping Add-on | Two side-by-side Feather sockets |
+| FeatherWing Tripler Mini Kit - Prototyping Add-on  | Three side-by-sidde feather sockets |
+| FeatherWing Proto - Prototyping Add-on | Singe Feather sized proto board, optional headers |
+| Adafruit FeatherWing OLED - 128x32 OLED  | OLED Display |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
 
 ### Feather Wings (non-Adafruit)
 
