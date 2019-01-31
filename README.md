@@ -51,8 +51,8 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 | Name | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | Wireless |
 |---|---|---|---|---|---|---|---|---|
-| Adafruit Feather 328P - Atmega328P 3.3V | Protoboard area | 32KB | 2KB | None | 8MHz | No | Yes | x |
-| Adafruit Feather 32u4 Basic Proto | Built-in protoboard | 32 KB | 2 KB | None | 8 MHz | No | x  | x  |
+| Adafruit Feather 328P - Atmega328P 3.3V | Protoboard area | 32KB | 2KB | None | 8MHz | No | Yes |   |
+| Adafruit Feather 32u4 Basic Proto | Built-in protoboard | 32 KB | 2 KB | None | 8 MHz | No | x  |    |
 | Adafruit Feather 32u4 Adalogger | SD card support | 32 KB | 2 KB | None | 8 MHz | No |   |   |
 | Adafruit Feather 32u4 Bluefruit LE | Bluetooth support | 32 KB | 2 KB | None | 8 MHz | No |   | Bluetooth |
 | Adafruit Feather HUZZAH with ESP8266 WiFi | Wi-Fi support | 4 MB | 32 KB SRAM 80 KB DRAM | None | 80 MHz | No |   | WiFi |
@@ -75,9 +75,9 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 | Company | Board | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | Part Number |
 |---|---|---|---|---|---|---|---|---|---:|
-| Particle | Xenon - nRF52840 with BLE and Mesh  |   |   |   |   |   |   |   |   |   |
-| Particle | Argon - nRF52840 with Mesh and WiFi |   |   |   |   |   |   |   |   |   |
-| Particle | Boron LTE - nRF52840 with Mesh and LTE Cellular Modem |   |   |   |   |   |   |   |   |   |
+| Particle | Xenon | nRF52840 with BLE and Mesh  |   |   |   |   |   |   |   |   |
+| Particle | Argon | nRF52840 with Mesh and WiFi |   |   |   |   |   |   |   |   |
+| Particle | Boron LTE | nRF52840 with Mesh and LTE Cellular Modem |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
