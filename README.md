@@ -16,7 +16,6 @@ The Adafruit [Feather](https://www.adafruit.com/category/943) are a complete lin
 - [In the news](#news)
 - [Art, logos, graphics](#art)
 - [Social media](#social)
-- [Swag](#swag)
 - [Contributing](#contributing)
 
 ## Guides
@@ -72,7 +71,8 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 | Adafruit Feather M4 Express  | - |   |   |   |   |   |   |   |   |
 | Adafruit Feather nRF52840 Express  | Bluetooth support |   |   |   |   |   |   |   |   |
 
-# Feather Compatible Processor Boards
+## Feather Compatible Processor Boards
+
 | Company | Board | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | Part Number |
 |---|---|---|---|---|---|---|---|---|---|
 | Particle | Xenon - nRF52840 with BLE and Mesh  |   |   |   |   |   |   |   |   |   |
@@ -83,7 +83,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
 
-# Feather Wings
+## Feather Wings
 
 | Name  | Features  | Prodict Numnber |
 |---|---|---|
