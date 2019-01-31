@@ -89,27 +89,29 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 | Name  | Features  |
 |---|---|
-| FeatherWing Doubler - Prototyping Add-on | Two side-by-side Feather sockets |
+| [FeatherWing Proto - Prototyping Add-on](https://www.adafruit.com/product/2884) | Singe Feather sized proto board, optional headers |
+| [FeatherWing Doubler - Prototyping Add-on](https://www.adafruit.com/product/2890) | Two side-by-side Feather sockets |
 | [FeatherWing Tripler Mini Kit - Prototyping Add-on](https://www.adafruit.com/product/3417)  | Three side-by-sidde feather sockets |
-| FeatherWing Proto - Prototyping Add-on | Singe Feather sized proto board, optional headers |
-| Adafruit FeatherWing OLED - 128x32 OLED | OLED Display |
+| [Assembled Terminal Block Breakout FeatherWing](https://www.adafruit.com/product/2890) | Fully assembled |
 | [Adafruit Prop-Maker FeatherWing](https://www.adafruit.com/product/3988) | Multiple drivers for props |
 | [Adafruit Ultimate GPS FeatherWing](https://www.adafruit.com/product/3133) | GPS receiver with battery backup |
-| Adafruit CRICKIT FeatherWing | Multiple motor drivers, NeoPixel driver, amplifier, GPIO |
-| [Adafruit TFT FeatherWing](https://www.adafruit.com/product/3315) | LCD 320x200 2.4" with touchscreen |
-| [Adafruit TFT FeatherWing](https://www.adafruit.com/product/3651) | LCD 480x320 3.5" with touchscreen |
+| [Adafruit CRICKIT FeatherWing](https://www.adafruit.com/product/3343) | Multiple motor drivers, NeoPixel driver, amplifier, GPIO |
 | [Adafruit Music Maker FeatherWing with Amplifier](https://www.adafruit.com/product/3436) | MP3 OGG WAV MIDI Synth Player - Stereo 3W Amplifier |
 | [Adafruit Music Maker FeatherWing](https://www.adafruit.com/product/3988) | MP3 OGG WAV MIDI Synth Player |
 | [Adafruit Music Maker FeatherWing](https://www.adafruit.com/product/3357) | MicroSD Card, MP3 OGG WAV MIDI Synth Player |
 | [Adafruit DC Motor + Stepper FeatherWing](https://www.adafruit.com/product/2927) | 4 DC Motors or 2 Steppers |
 | [Adafruit INA219 FeatherWing](https://www.adafruit.com/product/3650) | Power monitoring |
-| [Adafruit Power Relay FeatherWing](Adafruit Power Relay FeatherWing) | Relay rated to 250V AC |
+| [Adafruit Power Relay FeatherWing](https://www.adafruit.com/product/3191) | Relay rated to 250V AC |
 | [Adafruit Non-Latching Mini Relay](https://www.adafruit.com/product/2895) | Non-latching relat 250V AC |
 | [Adafruit 8-Channel PWM or Servo FeatherWing Add-on](https://www.adafruit.com/product/2928) | 8 x 12-bit PWM outputs |
 | [Adafruit LoRa Radio FeatherWing - RFM95W 433 MHz - RadioFruit](https://www.adafruit.com/product/3232) | LoRa Radio at 433 MHz |
 | [Adafruit LoRa Radio FeatherWing - RFM95W 900 MHz - RadioFruit](https://www.adafruit.com/product/3231) | LoRa Radio at 900 MHz |
 | [Adafruit Radio FeatherWing - RFM69HCW 433MHz - RadioFruit](https://www.adafruit.com/product/3230) | RFM69 radio at 433 MHz |
 | [Adafruit Radio FeatherWing - RFM69HCW 900MHz - RadioFruit](https://www.adafruit.com/product/3229) | RFM69 radio at 900 MHz |
+| [Adafruit FeatherWing OLED - Loose Headers](https://www.adafruit.com/product/2900) | 128x32 OLED Display |
+| [Adafruit FeatherWing OLED - Soldered Headers](https://www.adafruit.com/product/3045) | 128x32 OLED Display |
+| [Adafruit TFT FeatherWing](https://www.adafruit.com/product/3315) | LCD 320x200 2.4" with touchscreen |
+| [Adafruit TFT FeatherWing](https://www.adafruit.com/product/3651) | LCD 480x320 3.5" with touchscreen |
 | [Adafruit NeoPixel FeatherWing - 4x8 RGB LED](https://www.adafruit.com/product/2945) | 4x8 matrix of RGB NeoPixels |
 | [Adafruit RGB Matrix Featherwing Kit](https://www.adafruit.com/product/3036) | For M0 or M4, drive 16 or 32-pixel tall matrix boards |
 | [Adafruit NeoPXL8 FeatherWing for Feather M0](https://www.adafruit.com/product/3249) | DMA 8 strands of NeoPixels concurrently (8x250) | 
@@ -123,8 +125,6 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 | [Adafruit 14-Segment Alphanumeric LED Driver](https://www.adafruit.com/product/3089) | Add a 4-digit 14-segment alphanumeric display |
 | [Adafruit AMG8833 IR Thermal Camera FeatherWing](https://www.adafruit.com/product/3622) | Panasonic AMG8833 8x8 GridEYE sensor |
 | [Adafruit Joy FeatherWing](https://www.adafruit.com/product/3632) | 2-axis joystick, 5 momentary button controller |
-
-|   |   |
 
 ### Feather Wings (non-Adafruit)
 
