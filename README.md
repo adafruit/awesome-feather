@@ -72,10 +72,12 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 | Adafruit Feather M4 Express  | - |   |   |   |   |   |   |   |   |
 | Adafruit Feather nRF52840 Express  | Bluetooth support |   |   |   |   |   |   |   |   |
 
-| Other Company Boards | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | B |
-| Particle Xenon - nRF52840 with BLE and Mesh  |   |   |   |   |   |   |   |   |   |
-| Particle Argon - nRF52840 with Mesh and WiFi |   |   |   |   |   |   |   |   |   |
-| Particle Boron LTE - nRF52840 with Mesh and LTE Cellular Modem |   |   |   |   |   |   |   |   |   |
+# Feather Compatible Processor Boards
+| Company | Board | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | Part Number |
+|---|---|---|---|---|---|---|---|---|---|
+| Particle | Xenon - nRF52840 with BLE and Mesh  |   |   |   |   |   |   |   |   |   |
+| Particle | Argon - nRF52840 with Mesh and WiFi |   |   |   |   |   |   |   |   |   |
+| Particle | Boron LTE - nRF52840 with Mesh and LTE Cellular Modem |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |   |   |
