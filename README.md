@@ -50,7 +50,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 [Feather boards, Feather Wings and accessories](https://www.adafruit.com/category/943) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
 | Name | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | Product Number |
-|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---:|
 | Adafruit Feather 328P - Atmega328P 3.3V | Protoboard area | 32KB | 2KB | None | 8MHz | No | Yes | x | 3458 |
 | Adafruit Feather 32u4 Basic Proto | Built-in protoboard | 32 KB | 2 KB | None | 8 MHz | No | x  | x  | x  |
 | Adafruit Feather 32u4 Adalogger | SD card support | 32 KB | 2 KB | None | 8 MHz | No |   |   |   |
@@ -74,7 +74,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 ## Feather Compatible Processor Boards
 
 | Company | Board | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | Part Number |
-|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---:|
 | Particle | Xenon - nRF52840 with BLE and Mesh  |   |   |   |   |   |   |   |   |   |
 | Particle | Argon - nRF52840 with Mesh and WiFi |   |   |   |   |   |   |   |   |   |
 | Particle | Boron LTE - nRF52840 with Mesh and LTE Cellular Modem |   |   |   |   |   |   |   |   |   |
@@ -85,8 +85,8 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 ## Feather Wings
 
-| Name  | Features  | Prodict Numnber |
-|---|---|---|
+| Name  | Features  | Product Numnber |
+|---|---|---:|
 | FeatherWing Doubler - Prototyping Add-on | Two side-by-side Feather sockets | 2890 |
 | FeatherWing Tripler Mini Kit - Prototyping Add-on  | Three side-by-sidde feather sockets | 3417 |
 | FeatherWing Proto - Prototyping Add-on | Singe Feather sized proto board, optional headers | 2884 |
