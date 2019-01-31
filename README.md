@@ -50,7 +50,33 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 [Feather boards, Feather Wings and accessories](https://www.adafruit.com/category/943) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
-All supported boards can be located in the latest release builds - [GitHub](https://github.com/adafruit/circuitpython/releases). If your board support CircuitPython, please do a pull request for it to be added.
+| Name | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | B |
+|---|---|---|---|---|---|---|---|---|---|
+| Adafruit Feather 32u4 Basic Proto | x  | x  | x  | x  | x  | x  | x  | x  | x  |
+| Adafruit Feather 32u4 Adalogger |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather 32u4 Bluefruit LE |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather HUZZAH with ESP8266 WiFi |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather M0 Basic Proto |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather M0 Adalogger |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather M0 Bluefruit LE |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather M0 WiFi |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather 32u4 FONA |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather M0 WiFi with uFL |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather STM32F205 with WICED |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather 32u4 RFM69HCW (868/915 MHz) |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather 32u4 RFM69HCW (433 MHz) |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather 32u4 32u4 RFM95W LoRa Radio (900 MHz) |   |   |   |   |   |   |   |   | 
+| Adafruit Feather nRF52832 Pro with myNewt Bootloader |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather M4 Express  |   |   |   |   |   |   |   |   |   |
+| Adafruit Feather nRF52840 Express  |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|
+| Particle Xenon - nRF52840 with BLE and Mesh  |   |   |   |   |   |   |   |   |   |
+| Particle Argon - nRF52840 with Mesh and WiFi |   |   |   |   |   |   |   |   |   |
+| Particle Boron LTE - nRF52840 with Mesh and LTE Cellular Modem |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
 
 - [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) - Adafruit Circuit Playground Express, Adafruit Feather M0 Express, Adafruit Feather M4 Express, Adafruit Feather nRF52840 Express, Adafruit GEMMA M0, Adafruit Grand Central M4 Express featuring the SAMD51, Adafruit HalloWing M0 Express, Adafruit ItsyBitsy M0, Adafruit ItsyBitsy M4, Adafruit METRO M0 Express, Adafruit Metro M4, Adafruit NeoTrellis M4, Adafruit Trinket M0.
 - [Arduino](https://www.arduino.cc/) - Arduino MKR 1300, Arduino MKR ZERO, Arduino ZERO.
