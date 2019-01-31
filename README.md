@@ -73,7 +73,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 ## Feather Compatible Processor Boards
 
-| Company | Board | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | A | Part Number |
+| Company | Board | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | Part Number |
 |---|---|---|---|---|---|---|---|---|---|
 | Particle | Xenon - nRF52840 with BLE and Mesh  |   |   |   |   |   |   |   |   |   |
 | Particle | Argon - nRF52840 with Mesh and WiFi |   |   |   |   |   |   |   |   |   |
