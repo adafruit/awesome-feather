@@ -75,15 +75,15 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 ## Feather Compatible Processor Boards
 
-| Company | Board | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | Part Number |
-|---|---|---|---|---|---|---|---|---|---:|
-| Particle | Xenon | nRF52840 with BLE and Mesh  |   |   |   |   |   |   |   |   |
-| Particle | Argon | nRF52840 with Mesh and WiFi |   |   |   |   |   |   |   |   |
-| Particle | Boron LTE | nRF52840 with Mesh and LTE Cellular Modem |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
+| Company | Board | Features |
+|---|---|---|
+| Particle | [Xenon](https://www.adafruit.com/product/3999) | nRF52840 with BLE and Mesh  |
+| Particle | [Argon](https://www.adafruit.com/product/3997) | nRF52840 with Mesh and WiFi |
+| Particle | [Boron LTE](https://www.adafruit.com/product/3998) | nRF52840 with Mesh and LTE Cellular Modem |
+| SD4Projects | [MiniMega2560 Adapter](https://github.com/Sd4Projects/MiniMega2560_Adapter) | Adapt the MiniMega256 to Feather for Wing compatibility |
+| Groboards  | [Giant Board](https://groboards.com/giant-board/) | ATSAMA5D27C-D1G Linux system in Feather form factor |
+| Wilderness Labs | [Meadow](https://www.kickstarter.com/projects/meadow/meadow-full-stack-net-standard-iot-platform) | STM32F7 .NET with WiFi and Bluetooth |
+| Maxim | [MAX32620FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32620FTHR.html) | Cortex M4 Darwin MCU |
 
 ## FeatherWings
 
@@ -128,9 +128,13 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 ### Feather Wings (non-Adafruit)
 
-[SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp) - An accurate and flexible four-channel temperature sensor for instrumenting electronics.
-
-Particle Ethernet FeatherWing https://www.adafruit.com/product/4003
+| Company | Board | Features |
+|...|...|...|
+| Capable Robot Components | [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp) | four-channel temperature sensor for instrumenting electronics |
+| Particle | [Ethernet FeatherWing](https://www.adafruit.com/product/4003) | Ethernet with two Feather slots |
+| Particle | [Particle Classic Adapter](https://store.particle.io/) | Use classic Photon accessories with Feather Footprint |
+| davedarko | [USB Host FeatherWing](https://hackaday.io/project/161845-max3421e-featherwing) | USB Host add-on for MAX3421E |
+  
 
 ## News
 
