@@ -70,7 +70,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 | [Adafruit Feather STM32F205 with WICED](https://www.adafruit.com/product/3056) | WICED WiFi | 1024 KB | 128 KB | 2 MB | 120 MHz | - | Yes | WiFi |
 | [Adafruit Feather 32u4 with RFM69HCW Packet Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3077) | RF Radio Support | 32 KB | 2 KB | - | 8 MHz | - | Yes | Packet |
 | [Adafruit Feather 32u4 RFM69HCW Packet Radio - 868/915 MHz - RadioFruit](https://www.adafruit.com/product/3076) | RF Radio Support | 32 KB | 2 KB | - | 8 MHz | - | Yes | Packet |
-| [Adafruit Feather 32u4 RFM96 LoRa Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3079) | RF Radio Support | 32 KB | 2 KB | 2 KB | - | 8 MHz | - | Yes | LoRa |
+| [Adafruit Feather 32u4 RFM96 LoRa Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3079) | RF Radio Support | 32 KB | 2 KB | - | 8 MHz | - | Yes | LoRa |
 | [Adafruit Feather 32u4 RFM95 LoRa Radio - 868/915 MHz - RadioFruit](https://www.adafruit.com/product/3078) | RF Radio Support | 32 KB  | 2 KB | - | 8 MHz | - | Yes | LoRa |
 | [Adafruit Feather M0 RFM69HCW Packet Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3177) |  RF Radio Support | 32 KB | 2 KB | - | 48 MHz | - | Yes | Packet |
 | [Adafruit Feather M0 RFM69HCW Packet Radio - 868 or 915 MHz - RadioFruit](https://www.adafruit.com/product/3176) | RF Radio Support | 32 KB | 2 KB | - | 48 MHz | - | Yes | Packet |
