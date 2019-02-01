@@ -129,7 +129,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 ### Feather Wings (non-Adafruit)
 
 | Company | Board | Features |
-|...|...|...|
+|---|---|--------|
 | Capable Robot Components | [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp) | four-channel temperature sensor for instrumenting electronics |
 | Particle | [Ethernet FeatherWing](https://www.adafruit.com/product/4003) | Ethernet with two Feather slots |
 | Particle | [Particle Classic Adapter](https://store.particle.io/) | Use classic Photon accessories with Feather Footprint |
