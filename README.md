@@ -73,7 +73,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 | [Adafruit Feather nRF52832 Pro with myNewt Bootloader](https://www.adafruit.com/product/3574) | Bluetooth support |    |    | None |   |   |   | BTLE |
 | [Adafruit Feather M4 Express](https://www.adafruit.com/product/3857)  | - |   |   |   |   |   |   |   |
 | [Adafruit Feather nRF52840 Express](https://www.adafruit.com/product/4062) | Bluetooth support | 1 MB  | 256 KB | None | Yes | Yes |   | BTLE |
-| Adafruit HalloWing M0 Express | 1.44" 128x128 display, sensors, amp | 256 KB | 32 KB | 8 MB | Yes | Yes |   |
+| [Adafruit HalloWing M0 Express](https://www.adafruit.com/product/3900) | 1.44" 128x128 display, sensors, amp | 256 KB | 32 KB | 8 MB | Yes | Yes |   |
 
 ### Feather Compatible Processor Boards
 
