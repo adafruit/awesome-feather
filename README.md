@@ -79,8 +79,9 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 | [Adafruit Feather nRF52 Bluefruit LE - nRF52832](https://www.adafruit.com/product/3406) | Bluetooth support | 512 KB | 64 KB | - | 64 MHz | - | Yes | BTLE |
 | [Adafruit Feather nRF52832 Pro with myNewt Bootloader](https://www.adafruit.com/product/3574) | Bluetooth support | 512 KB | 64 KB |  | 64 MHz | - | Yes | BTLE |
 | [Adafruit Feather nRF52840 Express](https://www.adafruit.com/product/4062) | Bluetooth support | 1 MB  | 256 KB | - | 64 MHz | Yes | Yes | BTLE |
-| [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area |512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes |   | 
+| [Adafruit M0 Express](https://www.adafruit.com/product/3403) | 1.44" display, sensors, amp | 256 KB | 32 KB | 2 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit HalloWing M0 Express](https://www.adafruit.com/product/3900) | 1.44" display, sensors, amp | 256 KB | 32 KB | 8 MB | 48 MHz | Yes | Yes | - |
+| [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes |   | 
 
 ### Feather Compatible Processor Boards
 
@@ -108,13 +109,16 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 | [Adafruit CRICKIT FeatherWing](https://www.adafruit.com/product/3343) | Multiple motor drivers, NeoPixel driver, amplifier, GPIO |
 | [Adafruit Music Maker FeatherWing](https://www.adafruit.com/product/3357) | MicroSD Card, MP3 OGG WAV MIDI Synth Player |
 | [Adafruit Music Maker FeatherWing with Amplifier](https://www.adafruit.com/product/3436) | MP3 OGG WAV MIDI Synth Player - Stereo 3W Amplifier |
+| [Adafruit Ethernet FeatherWing](https://www.adafruit.com/product/3201) | WIZ5500 Ethernet Client |
 | [Adafruit DC Motor + Stepper FeatherWing](https://www.adafruit.com/product/2927) | 4 DC Motors or 2 Steppers |
 | [Adafruit INA219 FeatherWing](https://www.adafruit.com/product/3650) | Power monitoring |
 | [Adafruit Power Relay FeatherWing](https://www.adafruit.com/product/3191) | Relay rated to 250V AC |
-| [Adafruit Non-Latching Mini Relay](https://www.adafruit.com/product/2895) | Non-latching relat 250V AC |
+| [Adafruit Latching Mini Relay FeatherWing](https://www.adafruit.com/product/2923) |  Latching Relay 250V AC |
+| [Adafruit Non-Latching Mini Relay FeatherWing](https://www.adafruit.com/product/2895) | Non-latching relay 250V AC |
 | [Adafruit 8-Channel PWM or Servo FeatherWing Add-on](https://www.adafruit.com/product/2928) | 8 x 12-bit PWM outputs |
 | [Adafruit AMG8833 IR Thermal Camera FeatherWing](https://www.adafruit.com/product/3622) | Panasonic AMG8833 8x8 GridEYE sensor |
 | [Adafruit Joy FeatherWing](https://www.adafruit.com/product/3632) | 2-axis joystick, 5 momentary button controller |
+| [DS3231 Precision RTC FeatherWing - RTC Add-on](https://www.adafruit.com/product/3028) | I2C-integrated Real Time Clock (RTC) |
 | [Adalogger FeatherWing - RTC + SD Add-on](https://www.adafruit.com/product/2922) | Adds a SD card slot and real-time clock |
 | [Adafruit Teensy 3.x Feather Adapter](https://www.adafruit.com/product/3200) | Use Teensy 3 with all FeatherWings / Feather accessories |
 | [Adafruit LoRa Radio FeatherWing - RFM95W 433 MHz - RadioFruit](https://www.adafruit.com/product/3232) | LoRa Radio at 433 MHz |
@@ -123,6 +127,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 | [Adafruit Radio FeatherWing - RFM69HCW 900MHz - RadioFruit](https://www.adafruit.com/product/3229) | RFM69 radio at 900 MHz | 
 | [Adafruit FeatherWing OLED - Loose Headers](https://www.adafruit.com/product/2900) | 128x32 OLED Display |
 | [Adafruit FeatherWing OLED - Soldered Headers](https://www.adafruit.com/product/3045) | 128x32 OLED Display |
+| [Adafruit Mini Color TFT with Joystick FeatherWing](https://www.adafruit.com/product/3321) | 0.96" 160x80 Color TFT Display with 16-bit full color |
 | [Adafruit TFT FeatherWing](https://www.adafruit.com/product/3315) | LCD 320x200 2.4" with touchscreen |
 | [Adafruit TFT FeatherWing](https://www.adafruit.com/product/3651) | LCD 480x320 3.5" with touchscreen |
 | [Adafruit NeoPixel FeatherWing - 4x8 RGB LED](https://www.adafruit.com/product/2945) | 4x8 matrix of RGB NeoPixels |
@@ -135,8 +140,25 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 | [Adafruit 15x7 CharliePlex LED Matrix Display - Yellow](https://www.adafruit.com/product/3135) | Yellow LEDs in a 15x7 matrix |
 | [Adafruit 15x7 CharliePlex LED Matrix Display - Cool White](https://www.adafruit.com/product/3138) | Cool white LEDs in a 15x7 matrix |
 | [Adafruit 15x7 CharliePlex LED Matrix Display - Warm White](https://www.adafruit.com/product/3163) | Warm white LEDs in a 15x7 matrix |
+| [Adafruit 0.8" 8x16 LED Matrix FeatherWing Display - Red](https://www.adafruit.com/product/3152) | 8x16 LED matrix display |
+| [Adafruit 0.8" 8x16 LED Matrix FeatherWing Display - White](https://www.adafruit.com/product/3149) | 8x16 LED matrix display |
+| [Adafruit 0.8" 8x16 LED Matrix FeatherWing Display - Blue](https://www.adafruit.com/product/3150) | 8x16 LED matrix display |
+| [Adafruit 0.8" 8x16 LED Matrix FeatherWing Display - Green](https://www.adafruit.com/product/3151) | 8x16 LED matrix display |
+| [Adafruit 0.8" 8x16 LED Matrix FeatherWing Display - Yellow](https://www.adafruit.com/product/3153) | 8x16 LED matrix display |
+| [Adafruit 0.8" 8x16 LED Matrix FeatherWing Display - Yellow/Green](https://www.adafruit.com/product/3154) | 8x16 LED matrix display |
 | [Adafruit 4-Digit 7-Segment LED Matrix Display Driver](https://www.adafruit.com/product/3088) | Add a 4-digit 7-segment numeric display |
+| [Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Red](https://www.adafruit.com/product/3108) | 0.56" 4-Digit 7-Segment Display w/Wing Combo Pack |
+| [Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Blue](https://www.adafruit.com/product/3106) | 0.56" 4-Digit 7-Segment Display w/Wing Combo Pack |
+| [Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Green](https://www.adafruit.com/product/3107) | 0.56" 4-Digit 7-Segment Display w/Wing Combo Pack |
+| [Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - Yellow](https://www.adafruit.com/product/3110) | 0.56" 4-Digit 7-Segment Display w/Wing Combo Pack |
+| [Adafruit 0.56" 4-Digit 7-Segment FeatherWing Display - White](https://www.adafruit.com/product/3109) | 0.56" 4-Digit 7-Segment Display w/Wing Combo Pack |
 | [Adafruit 14-Segment Alphanumeric LED Driver](https://www.adafruit.com/product/3089) | Add a 4-digit 14-segment alphanumeric display |
+| [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - Red](https://www.adafruit.com/product/3130) | Red Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
+| [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - Blue](https://www.adafruit.com/product/3128) | Blue Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
+| [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - Yellow/Green](https://www.adafruit.com/product/3132) | Yellow/Green Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
+| [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - Green](https://www.adafruit.com/product/3129) | Green Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
+| [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - Yellow](https://www.adafruit.com/product/3131) | Yellow Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
+| [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - White](https://www.adafruit.com/product/3127) | White Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
 
 ### Feather Wings (non-Adafruit)
 
