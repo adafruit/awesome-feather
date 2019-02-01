@@ -27,7 +27,7 @@ The Adafruit [Feather](https://www.adafruit.com/category/943) are a complete lin
 
 ## Community
 
-- [Adafruit CircuitPython Discord channel #help-with-projects](https://discordapp.com/channels/327254708534116352/330406777009209346) - 24/7 chat and support on projects with Adafruit gear.
+- [Adafruit Discord channel #help-with-projects](https://discordapp.com/channels/327254708534116352/330406777009209346) - 24/7 chat and support on projects with Adafruit gear.
 - [Adafruit Feather Forums](https://forums.adafruit.com/viewforum.php?f=57) - The Adafruit discussion forum on Feather.
 
 ## Code
