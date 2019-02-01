@@ -51,8 +51,8 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 [Feather boards, Feather Wings and accessories](https://www.adafruit.com/category/943) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
-| Name | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | Wireless |
-|---|---|---|---|---|---|---|---|---|
+| Name | Features | Flash | RAM  | SPI Flash | Speed | Circuit Python | Arduino | Wireless |
+|-------|------|---|---|---|---|---|---|---|
 | [Adafruit Feather 328P - Atmega328P 3.3V](https://www.adafruit.com/product/3458) | Protoboard area | 32KB | 2KB | None | 8 MHz | No | Yes |   |
 | [Adafruit Feather 32u4 Basic Proto](https://www.adafruit.com/product/2771) | Built-in protoboard | 32 KB | 2 KB | None | 8 MHz | No | x  |    |
 | [Adafruit Feather 32u4 Adalogger](https://www.adafruit.com/product/2795) | SD card support | 32 KB | 2 KB | None | 8 MHz | No |   |   |
