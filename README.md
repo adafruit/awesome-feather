@@ -66,7 +66,6 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 | [Adafruit Feather M0 WiFi with uFL](https://www.adafruit.com/product/3061) | WiFi support | 256 KB | 32 KB |   |   |   |   | WiFi |
 | [Adafruit Feather 32u4 FONA](https://www.adafruit.com/product/3027) | cellular network support | 32 KB | 2 KB | None |   | No |   | Cellular |
 | [Adafruit Feather STM32F205 with WICED](https://www.adafruit.com/product/3056) | WICED WiFi | 1024 KB | 128 KB | 2 MB | 120 MHz | No | Yes | WiFi |
-
 | [Adafruit Feather 32u4 with RFM69HCW Packet Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3077) | RF Radio Support | 32 KB | 2 KB | 8 MHz | - | Yes | Packet |
 | [Adafruit Feather 32u4 RFM69HCW Packet Radio - 868/915 MHz - RadioFruit](https://www.adafruit.com/product/3076) | RF Radio Support | 32 KB | 2 KB | 8 MHz | - | Yes | Packet |
 | [Adafruit Feather 32u4 RFM96 LoRa Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3079) | RF Radio Support | 32 KB | 2 KB | 8 MHz | - | Yes | LoRa |
