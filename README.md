@@ -12,8 +12,7 @@ All Adafruit products are open source. Adafruit encourages other companies to ut
 
 - [Guides](#guides)
 - [Community](#community)
-- [Code](#code)
-- [Frameworks](#frameworks)
+- [Code Frameworks](#code)
 - [Feather Hardware](#feather)
 - [FeatherWings](#featherwings)
 - [Accessories](#accessories)
@@ -50,10 +49,11 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 Setup of Arduino for:
 
-- Feather 328P
-- Feather 32u4 Boards
+- [Feather 328P](https://learn.adafruit.com/adafruit-feather-328p-atmega328-atmega328p/arduino-ide-setup)
+- [Feather 32u4 Boards](https://learn.adafruit.com/adafruit-feather-m0-basic-proto/setup)
 - [Feather M0 Boards](https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython/arduino-ide-setup)
-- Feather M4
+- [Feather M4](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/setup)
+- [Feather nRF52832 and 40](https://learn.adafruit.com/introducing-the-adafruit-nrf52840-feather/arduino-bsp-setup)
 
 ## Feather Hardware
 
