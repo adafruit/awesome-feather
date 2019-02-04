@@ -68,26 +68,28 @@ Setup of Arduino for:
 | [Adafruit Feather 32u4 FONA](https://www.adafruit.com/product/3027) | Cellular network support | 32 KB | 2 KB | - | 8 MHz | - | Yes | Cellular |
 | [Adafruit Feather HUZZAH with ESP8266](https://www.adafruit.com/product/2821) | WiFi support | 4 MB | 32KB 80KB | - | 80 MHz | - | Yes | WiFi |
 | [Adafruit Feather HUZZAH32 with ESP32](https://www.adafruit.com/product/3405) | WiFi support | 4 MB | 520 KB | - | 240 MHz | - | Yes | Wi-Fi / BTLE |
-| [Adafruit Feather M0 Basic Proto](https://www.adafruit.com/product/2772) | Built-in protoboard | 256 KB | 32 KB | - | 48 MHz | - | Yes | - |
-| [Adafruit Feather M0 Adalogger](https://www.adafruit.com/product/2796) | SD card support | 256 KB | 32 KB | - | 48 MHz | - | Yes | - |
-| [Adafruit Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995) | Bluetooth support | 256 KB | 32 KB | - | 48 MHz | - | Yes | BTLE |
-| [Adafruit Feather M0 WiFi](https://www.adafruit.com/product/3010) | ATWINC1500 Wi-Fi support | 256 KB | 32 KB | - | 48 MHz | - | Yes | WiFi |
-| [Adafruit Feather M0 WiFi with uFL](https://www.adafruit.com/product/3061) | WiFi support | 256 KB | 32 KB | - | 48 MHz | - | Yes | WiFi |
+| [Adafruit Feather M0 Basic Proto](https://www.adafruit.com/product/2772) | Built-in protoboard | 256 KB | 32 KB | - | 48 MHz | Reduced  | Yes | - |
+| [Adafruit Feather M0 Adalogger](https://www.adafruit.com/product/2796) | SD card support | 256 KB | 32 KB | - | 48 MHz | Reduced | Yes | - |
+| [Adafruit Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995) | Bluetooth support | 256 KB | 32 KB | - | 48 MHz | Reduced  | Yes | BTLE |
+| [Adafruit Feather M0 WiFi](https://www.adafruit.com/product/3010) | ATWINC1500 Wi-Fi support | 256 KB | 32 KB | - | 48 MHz | Reduced  | Yes | WiFi |
+| [Adafruit Feather M0 WiFi with uFL](https://www.adafruit.com/product/3061) | WiFi support | 256 KB | 32 KB | - | 48 MHz | Reduced  | Yes | WiFi |
 | [Adafruit Feather STM32F205 with WICED](https://www.adafruit.com/product/3056) | WICED WiFi | 1024 KB | 128 KB | 2 MB | 120 MHz | - | Yes | WiFi |
 | [Adafruit Feather 32u4 with RFM69HCW Packet Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3077) | RF Radio Support | 32 KB | 2 KB | - | 8 MHz | - | Yes | Packet |
 | [Adafruit Feather 32u4 RFM69HCW Packet Radio - 868/915 MHz - RadioFruit](https://www.adafruit.com/product/3076) | RF Radio Support | 32 KB | 2 KB | - | 8 MHz | - | Yes | Packet |
 | [Adafruit Feather 32u4 RFM96 LoRa Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3079) | RF Radio Support | 32 KB | 2 KB | - | 8 MHz | - | Yes | LoRa |
 | [Adafruit Feather 32u4 RFM95 LoRa Radio - 868/915 MHz - RadioFruit](https://www.adafruit.com/product/3078) | RF Radio Support | 32 KB  | 2 KB | - | 8 MHz | - | Yes | LoRa |
-| [Adafruit Feather M0 RFM69HCW Packet Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3177) |  RF Radio Support | 32 KB | 2 KB | - | 48 MHz | - | Yes | Packet |
-| [Adafruit Feather M0 RFM69HCW Packet Radio - 868 or 915 MHz - RadioFruit](https://www.adafruit.com/product/3176) | RF Radio Support | 32 KB | 2 KB | - | 48 MHz | - | Yes | Packet |
-| [Adafruit Feather M0 with RFM95 LoRa Radio - 900MHz - RadioFruit](https://www.adafruit.com/product/3178) | RF Radio Support | 32 KB | 2 KB | - | 48 MHz | - | Yes | LoRa |
-| [Adafruit Feather M0 RFM96 LoRa Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3179) | RF Radio Support | 32 KB | 2 KB | - | 48 MHz | - | Yes | LoRa |
+| [Adafruit Feather M0 RFM69HCW Packet Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3177) |  RF Radio Support | 32 KB | 2 KB | - | 48 MHz | Reduced | Yes | Packet |
+| [Adafruit Feather M0 RFM69HCW Packet Radio - 868 or 915 MHz - RadioFruit](https://www.adafruit.com/product/3176) | RF Radio Support | 32 KB | 2 KB | - | 48 MHz | Reduced  | Yes | Packet |
+| [Adafruit Feather M0 with RFM95 LoRa Radio - 900MHz - RadioFruit](https://www.adafruit.com/product/3178) | RF Radio Support | 32 KB | 2 KB | - | 48 MHz | Reduced  | Yes | LoRa |
+| [Adafruit Feather M0 RFM96 LoRa Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3179) | RF Radio Support | 32 KB | 2 KB | - | 48 MHz | Reduced  | Yes | LoRa |
 | [Adafruit Feather nRF52 Bluefruit LE - nRF52832](https://www.adafruit.com/product/3406) | Bluetooth support | 512 KB | 64 KB | - | 64 MHz | - | Yes | BTLE |
 | [Adafruit Feather nRF52832 Pro with myNewt Bootloader](https://www.adafruit.com/product/3574) | Bluetooth support | 512 KB | 64 KB |  | 64 MHz | - | Yes | BTLE |
 | [Adafruit Feather nRF52840 Express](https://www.adafruit.com/product/4062) | Bluetooth support | 1 MB  | 256 KB | - | 64 MHz | Yes | Yes | BTLE |
 | [Adafruit M0 Express](https://www.adafruit.com/product/3403) | 1.44" display, sensors, amp | 256 KB | 32 KB | 2 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit HalloWing M0 Express](https://www.adafruit.com/product/3900) | 1.44" display, sensors, amp | 256 KB | 32 KB | 8 MB | 48 MHz | Yes | Yes | - |
-| [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - | 
+| [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
+
+Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafruit-feather/circuitpython) on Reduced CircuitPython Capability boards (without off-board Flash).
 
 ### Feather Compatible Processor Boards
 
