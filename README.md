@@ -61,7 +61,7 @@ Setup of Arduino for:
 
 | Name | Features | Flash | RAM  | SPI Flash | Speed | Circuit Python | Arduino | Wireless |
 |-------|------|---|---|---|---|---|---|---|
-| [Adafruit Feather 328P - Atmega328P 3.3V](https://www.adafruit.com/product/3458) | Protoboard area | 32KB | 2KB | - | 8 MHz | - | Yes | - |
+| [Adafruit Feather 328P - Atmega328P 3.3V](https://www.adafruit.com/product/3458) | Protoboard area | 32 KB | 2 KB | - | 8 MHz | - | Yes | - |
 | [Adafruit Feather 32u4 Basic Proto](https://www.adafruit.com/product/2771) | Built-in protoboard | 32 KB | 2 KB | - | 8 MHz | - | Yes | - |
 | [Adafruit Feather 32u4 Adalogger](https://www.adafruit.com/product/2795) | SD card support | 32 KB | 2 KB | - | 8 MHz | - | Yes | - |
 | [Adafruit Feather 32u4 Bluefruit LE](https://www.adafruit.com/product/2829) | Bluetooth support | 32 KB | 2 KB | - | 8 MHz | - | Yes | BTLE |
