@@ -32,15 +32,7 @@ All Adafruit products are open source. Adafruit encourages other companies to ut
 - [Adafruit Discord channel #help-with-projects](https://discordapp.com/channels/327254708534116352/330406777009209346) - 24/7 chat and support on projects with Adafruit gear.
 - [Adafruit Feather Forums](https://forums.adafruit.com/viewforum.php?f=57) - The Adafruit discussion forum on Feather.
 
-## Code
-
-- [CircuitPython (latest)](https://github.com/adafruit/circuitpython/releases/latest)
-- [CircuitPython 4.0.0 Beta](https://github.com/adafruit/circuitpython/releases/tag/4.0.0-beta.0) - [And the announcement](https://blog.adafruit.com/2019/01/23/circuitpython-4-0-0-beta-0-released/)
-- [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
-- [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
-- [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 130+ libraries available.
-
-## Frameworks
+## Code Frameworks
 
 Feathers may be programmed in various languages which may vary by board. Here are language frameworks which may be used with specific Feather processor boards.
 
@@ -48,6 +40,20 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The documentation for Mu.
+- [CircuitPython (latest)](https://github.com/adafruit/circuitpython/releases/latest)
+- [CircuitPython 4.0.0 Beta](https://github.com/adafruit/circuitpython/releases/tag/4.0.0-beta.0) - [And the announcement](https://blog.adafruit.com/2019/01/23/circuitpython-4-0-0-beta-0-released/)
+- [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
+- [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
+- [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 130+ libraries available.
+
+### Arduino
+
+Setup of Arduino for:
+
+- Feather 328P
+- Feather 32u4 Boards
+- [Feather M0 Boards](https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython/arduino-ide-setup)
+- Feather M4
 
 ## Feather Hardware
 
