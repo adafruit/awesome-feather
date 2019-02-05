@@ -176,6 +176,13 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Particle | [Ethernet FeatherWing](https://www.adafruit.com/product/4003) | Ethernet with two Feather slots |
 | Particle | [Particle Classic Adapter](https://store.particle.io/) | Use classic Photon accessories with Feather Footprint |
 | davedarko | [USB Host FeatherWing](https://hackaday.io/project/161845-max3421e-featherwing) | USB Host add-on for MAX3421E |
+| armin.von_collrepp | [CAN Bus FeatherWing](https://easyeda.com/armin.von_collrepp/Adafruit_CAN_FeatherWing-0YRL3lfxP) | MCP2515 based CAN controller with an 3.3V CAN transceiver |
+| Tisham Dhar | [ADS1115 Featherwing](http://whatnicklife.blogspot.com/2016/01/extending-energy-monitoring-ads1115.html) | Energy monitoring specific ADS1115 breakout |
+| Tisham Dhar | [ATM90E26 FeatherWing](https://www.tindie.com/products/whatnick/atm90e26-featherwing/) | ATM90E26 Utility Grade Energy Monitor |
+| Justin Jordan | [1-Wire Wing Data Logger](https://www.hackster.io/justin-jordan/1-wire-wing-data-logger-w-max32630fthr-ada46a?ref=part&ref_id=31815&offset=1) | DS2484 I2C to 1-Wire master, RJ-11 Connector, Sharp LS012B7DD01 LCD, 4 push buttons |
+| Radomir Dopieralski | [PewPew FeatherWing](https://hackaday.io/project/21578-pewpew-featherwing) | Buttons and a LED matrix display for simple games |
+| Dan Watson | [LoRaWAN FeatherWing](https://syncchannel.blogspot.com/2016/06/lorawan-featherwing-for-adafruit-feather.html) |  MicroChip RN2483/RN2903 LoRaWAN module |
+| Dan Watson | [LoRa FeatherWing IOX](http://syncchannel.blogspot.com/2016/03/lora-featherwing-iox-for-adafruit.html) | RFM95/96(W) with MCP23008 8-bit I/O expander |
 
 ## Accessories
 
