@@ -172,7 +172,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 | Company | Board | Features |
 |---|---|--------|
-| Capable Robot Components | [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp) | four-channel temperature sensor for instrumenting electronics |
+| Capable Robot Components | [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp) | Four-channel temperature sensor for instrumenting electronics |
 | Particle | [Ethernet FeatherWing](https://www.adafruit.com/product/4003) | Ethernet with two Feather slots |
 | Particle | [Particle Classic Adapter](https://store.particle.io/) | Use classic Photon accessories with Feather Footprint |
 | davedarko | [USB Host FeatherWing](https://hackaday.io/project/161845-max3421e-featherwing) | USB Host add-on for MAX3421E |
