@@ -12,8 +12,8 @@ All Adafruit products are open source. Adafruit encourages other companies to ut
 
 - [Guides](#guides)
 - [Community](#community)
-- [Code Frameworks](#code)
-- [Feather Hardware](#feather)
+- [Code Frameworks](#code_frameworks)
+- [Feather Hardware](#featherhardware)
 - [FeatherWings](#featherwings)
 - [Accessories](#accessories)
 - [In the news](#news)
