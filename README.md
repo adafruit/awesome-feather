@@ -183,6 +183,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Radomir Dopieralski | [PewPew FeatherWing](https://hackaday.io/project/21578-pewpew-featherwing) | Buttons and a LED matrix display for simple games |
 | Dan Watson | [LoRaWAN FeatherWing](https://syncchannel.blogspot.com/2016/06/lorawan-featherwing-for-adafruit-feather.html) |  MicroChip RN2483/RN2903 LoRaWAN module |
 | Dan Watson | [LoRa FeatherWing IOX](http://syncchannel.blogspot.com/2016/03/lora-featherwing-iox-for-adafruit.html) | RFM95/96(W) with MCP23008 8-bit I/O expander |
+| Dan Cogliano | [e-Paper FeatherWing](https://danthegeek.com/2019/02/04/iot-calendar-creating-a-custom-featherwing/) | Add a Waveshare e=Paper display and two buttons |
 
 ## Accessories
 
