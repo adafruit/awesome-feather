@@ -103,6 +103,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Wilderness Labs | [Meadow](https://www.kickstarter.com/projects/meadow/meadow-full-stack-net-standard-iot-platform) | STM32F7 .NET with WiFi and Bluetooth |
 | Maxim | [MAX32620FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32620FTHR.html) | Cortex M4 Darwin MCU |
 | Maxim | [MAX32630FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32630FTHR.html) | Cortex M4F with PMIC |
+| minh7a6 | [MINHF4](https://hackaday.io/project/163853-minhf4-an-stm32f4-arduino-compatible-board) | STM32F411CE, Cortex M4F, Arduino Compatible |
 
 ## FeatherWings
 
