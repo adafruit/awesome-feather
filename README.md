@@ -189,6 +189,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Dan Cogliano | [e-Paper FeatherWing](https://danthegeek.com/2019/02/04/iot-calendar-creating-a-custom-featherwing/) | Add a Waveshare e-Paper display and two buttons |
 | PatternAgents | [Agent-DRV2605](http://www.patternagents.com/store/index.html#!/FeatherWing-Haptic-DRV2605L/p/130591584/category=33456145) | TI DRV2605L Haptic Driver and ADI ADXL345 Accelerometer |
 | PatternAgents | [Agent-DA7280](http://www.patternagents.com/store/index.html#!/FeatherWing-Haptic-DA7280/p/130591623/category=33456145) | DialogSemi DA7280L Haptic Driver and ADI ADXL345 Accelerometer |
+| [Justin Nesselrotte](https://twitter.com/jnesselr/status/1097276091901726720) | [Snack Machine Controller](https://github.com/Jnesselr/Vending-Machine) | Wireless snack machine controller board |
 
 ## Accessories
 
