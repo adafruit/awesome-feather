@@ -111,7 +111,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 | Name  | Features  |
 |---|---|
-| [FeatherWing Proto - Prototyping Add-on](https://www.adafruit.com/product/2884) | Singe Feather sized proto board, optional headers |
+| [FeatherWing Proto - Prototyping Add-on](https://www.adafruit.com/product/2884) | Single Feather sized proto board, optional headers |
 | [FeatherWing Doubler - Prototyping Add-on](https://www.adafruit.com/product/2890) | Two side-by-side Feather sockets |
 | [FeatherWing Tripler Mini Kit - Prototyping Add-on](https://www.adafruit.com/product/3417)  | Three side-by-sidde feather sockets |
 | [Assembled Terminal Block Breakout FeatherWing](https://www.adafruit.com/product/2890) | Fully assembled |
