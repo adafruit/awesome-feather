@@ -113,8 +113,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 |---|---|
 | [FeatherWing Proto - Prototyping Add-on](https://www.adafruit.com/product/2884) | Single Feather sized proto board, optional headers |
 | [FeatherWing Doubler - Prototyping Add-on](https://www.adafruit.com/product/2890) | Two side-by-side Feather sockets |
-| [FeatherWing Tripler Mini Kit - Prototyping Add-on](https://www.adafruit.com/product/3417)  | Three side-by-sidde feather sockets |
-| [Assembled Terminal Block Breakout FeatherWing](https://www.adafruit.com/product/2890) | Fully assembled |
+| [FeatherWing Tripler Mini Kit - Prototyping Add-on](https://www.adafruit.com/product/3417)  | Three side-by-side feather sockets |
+| [Assembled Terminal Block Breakout FeatherWing](https://www.adafruit.com/product/2926) | Fully assembled |
 | [Adafruit Prop-Maker FeatherWing](https://www.adafruit.com/product/3988) | Multiple drivers for props |
 | [Adafruit Ultimate GPS FeatherWing](https://www.adafruit.com/product/3133) | GPS receiver with battery backup |
 | [Adafruit CRICKIT FeatherWing](https://www.adafruit.com/product/3343) | Multiple motor drivers, NeoPixel driver, amplifier, GPIO |
