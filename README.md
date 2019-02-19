@@ -205,7 +205,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 ## Art
 
-- [Feather Art](https://www.adafruit.com/) - Adafruit art relating to Feather (TBD).
+- [Feather Art](https://www.dropbox.com/sh/w98kneh9skq581y/AAAWWp3WNwsdtUrUPna9Wehka?dl=0) - Adafruit art/images relating to Feather.
 
 ## Social
 
