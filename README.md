@@ -200,7 +200,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 ## Accessories
 
 - [3D Printed Case for the Adafruit Feather](https://learn.adafruit.com/3d-printed-case-for-adafruit-feather/overview) - Adafruit tutorial for a 3D printed case.
-- [MCCI Feather-box](https://www.shapeways.com/shops/mcci-reg-iot-enclosures) - confgurable Feather Enclosure, design by Mike Doell, Shapeways.
+- [MCCI Feather-box](https://www.shapeways.com/shops/mcci-reg-iot-enclosures) - confgurable Feather Enclosure, design by Mike Doell, listed on Shapeways.
 - [AT Makers](https://www.thingiverse.com/thing:3212895) - Feather Snap Case (Thingiverse)
 - [AdLab](https://www.thingiverse.com/thing:1367270) - Simple Feather Case (Thingiverse)
 - [Adafruit Feather Tripler Enclosure](https://www.thingiverse.com/thing:3147564) - by mohit (Thingiverse)
