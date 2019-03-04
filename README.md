@@ -105,7 +105,10 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Maxim | [MAX32630FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32630FTHR.html) | Cortex M4F with PMIC |
 | minh7a6 | [MINHF4](https://hackaday.io/project/163853-minhf4-an-stm32f4-arduino-compatible-board) | STM32F411CE, Cortex M4F, Arduino Compatible |
 | [Accumulatos](https://www.accumulatos.com/) | [AWS Re:Invent Lanyard](https://github.com/accumulatos/lanyard/tree/master/hardware) | Mongoose OS, AWS, ESP32 ([info](https://twitter.com/accumulatos/status/936156099484442624)) |
-
+| Max Holliday | [SAM32](https://github.com/maholli/SAM32) | SAMD51, ESP32, SD Card, Camera Interface |
+| MCCI | [Catena 4610](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4610-integrated-node-for-lorawan-technology) | Murata CMWX1ZZABZ-078, LoRaWAN 1.0/1.1 865-923 MHz |
+| MCCI | [Catena 4612](https://mcci.com/lorawan/products/catena-4612/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.0/1.1 865-923 MHz, FRAM |
+| MCCI | [Catena 4801](https://mcci.com/lorawan/products/catena-4801/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.02/1.1 865-923 MHz, RS-485/Modbus |
 
 ## FeatherWings
 
@@ -190,6 +193,11 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | PatternAgents | [Agent-DRV2605](http://www.patternagents.com/store/index.html#!/FeatherWing-Haptic-DRV2605L/p/130591584/category=33456145) | TI DRV2605L Haptic Driver and ADI ADXL345 Accelerometer |
 | PatternAgents | [Agent-DA7280](http://www.patternagents.com/store/index.html#!/FeatherWing-Haptic-DA7280/p/130591623/category=33456145) | DialogSemi DA7280L Haptic Driver and ADI ADXL345 Accelerometer |
 | [Justin Nesselrotte](https://twitter.com/jnesselr/status/1097276091901726720) | [Snack Machine Controller](https://github.com/Jnesselr/Vending-Machine) | Wireless snack machine controller board |
+| [MCCI](https://mcci.com/) | [Catena 4450](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4450-lorawan-iot-device) | FRAM, BME-280 Sensor, lux sensor, I2C multiplexer, LoRaWAN |
+| MCCI | [Catena 4460](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4460-sensor-wing-w-bme680) | LoRaWAN 1.0/1.1, BME680 Sensor, lux sensor, FRAM, I2C Multiplexer |
+| MCCI | [Catena 4470](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4470-modbus-node-for-lorawan-technology) | LoRaWAN 1.0.2/1.1, RS-485, BME-280 Sensor, lux sensor, FRAM, SPI Flash |
+
+
 
 ## Accessories
 
