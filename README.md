@@ -201,6 +201,17 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 - [3D Printed Case for the Adafruit Feather](https://learn.adafruit.com/3d-printed-case-for-adafruit-feather/overview) - Adafruit tutorial for a 3D printed case.
 - [MCCI Feather-box](https://www.shapeways.com/shops/mcci-reg-iot-enclosures) - confgurable Feather Enclosure, design by Mike Doell, Shapeways.
+- [AT Makers](https://www.thingiverse.com/thing:3212895) - Feather Snap Case (Thingiverse)
+- [AdLab](https://www.thingiverse.com/thing:1367270) - Simple Feather Case (Thingiverse)
+- [Adafruit Feather Tripler Enclosure](https://www.thingiverse.com/thing:3147564) - by mohit (Thingiverse)
+- [Adafruit Feather mountable case](https://www.thingiverse.com/thing:2591165) | - by cschmitz81 (Thingiverse)
+- [Adafruit Huzzah Feather Case](https://www.thingiverse.com/thing:2627086) - by peeter123 (Thingiverse)
+- [Adafruit Feather HUZZAH + Neopixel FeatherWing enclosure](https://www.thingiverse.com/thing:1509869) - by seajseven (Thingiverse)
+- [Feather and 1200 mAh Feather Battery Pack](https://www.thingiverse.com/thing:1776743) - by Powernet19xx (Thingiverse)
+- [Adafruit Feather ESP8266 / ESP32 cases](https://www.thingiverse.com/thing:2581394) - by keyglitch (Thingiverse)
+- [Adafruit Featherbox](https://www.thingiverse.com/thing:2139358) - by pouyak (Thingiverse)
+- [Tall Adafruit Feather Box Components](https://www.thingiverse.com/thing:2438577) - by rcolbert (Thingiverse)
+- [Additional items on Thingiverse](https://www.thingiverse.com/search?q=Feather&dwh=175c7d2f63b0faf)
 
 ## News
 
