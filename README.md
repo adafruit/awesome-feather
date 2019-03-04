@@ -106,7 +106,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | minh7a6 | [MINHF4](https://hackaday.io/project/163853-minhf4-an-stm32f4-arduino-compatible-board) | STM32F411CE, Cortex M4F, Arduino Compatible |
 | [Accumulatos](https://www.accumulatos.com/) | [AWS Re:Invent Lanyard](https://github.com/accumulatos/lanyard/tree/master/hardware) | Mongoose OS, AWS, ESP32 ([info](https://twitter.com/accumulatos/status/936156099484442624)) |
 | Max Holliday | [SAM32](https://github.com/maholli/SAM32) | SAMD51, ESP32, SD Card, Camera Interface |
-| MCCI | [Catena 4610](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4610-integrated-node-for-lorawan-technology) | Murata CMWX1ZZABZ-078, LoRaWAN 1.0/1.1 865-923 MHz |
+| [MCCI](https://store.mcci.com/) | [Catena 4610](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4610-integrated-node-for-lorawan-technology) | Murata CMWX1ZZABZ-078, LoRaWAN 1.0/1.1 865-923 MHz |
 | MCCI | [Catena 4612](https://mcci.com/lorawan/products/catena-4612/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.0/1.1 865-923 MHz, FRAM |
 | MCCI | [Catena 4801](https://mcci.com/lorawan/products/catena-4801/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.02/1.1 865-923 MHz, RS-485/Modbus |
 
@@ -197,11 +197,10 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | MCCI | [Catena 4460](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4460-sensor-wing-w-bme680) | LoRaWAN 1.0/1.1, BME680 Sensor, lux sensor, FRAM, I2C Multiplexer |
 | MCCI | [Catena 4470](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4470-modbus-node-for-lorawan-technology) | LoRaWAN 1.0.2/1.1, RS-485, BME-280 Sensor, lux sensor, FRAM, SPI Flash |
 
-
-
 ## Accessories
 
 - [3D Printed Case for the Adafruit Feather](https://learn.adafruit.com/3d-printed-case-for-adafruit-feather/overview) - Adafruit tutorial for a 3D printed case.
+- [MCCI Feather-box](https://www.shapeways.com/shops/mcci-reg-iot-enclosures) - confgurable Feather Enclosure, design by Mike Doell, Shapeways.
 
 ## News
 
