@@ -109,6 +109,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [MCCI](https://store.mcci.com/) | [Catena 4610](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4610-integrated-node-for-lorawan-technology) | Murata CMWX1ZZABZ-078, LoRaWAN 1.0/1.1 865-923 MHz |
 | MCCI | [Catena 4612](https://mcci.com/lorawan/products/catena-4612/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.0/1.1 865-923 MHz, FRAM |
 | MCCI | [Catena 4801](https://mcci.com/lorawan/products/catena-4801/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.02/1.1 865-923 MHz, RS-485/Modbus |
+| SparkFun | [ESP32 Thing Plus](https://www.sparkfun.com/products/14689) | Espressif ESP32 WROOM, WiFi, Bluetooth |
 
 ## FeatherWings
 
