@@ -55,6 +55,11 @@ Setup of Arduino for:
 - [Feather M4](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/setup)
 - [Feather nRF52832 and 40](https://learn.adafruit.com/introducing-the-adafruit-nrf52840-feather/arduino-bsp-setup)
 
+## MakeCode
+
+- [Maker editor](https://maker.makecode.com) - blocks/javascript coding for Feather M0 and Feather M4
+- [Maker GitHub repository](https://github.com/microsoft/pxt-maker) - The source code to rebuild the editor.
+
 ## Feather Hardware
 
 [Feather boards, Feather Wings and accessories](https://www.adafruit.com/category/943) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
