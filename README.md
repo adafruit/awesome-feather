@@ -219,9 +219,9 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 ## News
 
 - ["...adopting Adafruit’s Feather as the next standard"](https://blog.hackster.io/a-sparkfun-feather-board-65cddf5b7a98) - Hackster article on Adafruit's Feather becoming the defacto standard as well as CircuitPython adoption.
-- [Feather on the Adafruit blog](https://blog.adafruit.com/category/feather/) - Adafruit Blog posts discussing Feather.
 - [The Adafruit Feather is a Thing](https://hackaday.com/2018/05/06/the-adafruit-feather-is-a-thing/) - Hackaday article on the Adafruit Feather ecosystem.
 - [A Quick Rundown on Adafruit’s Feather Ecosystem](https://makezine.com/2016/11/02/a-quick-rundown-on-adafruits-feather-ecosystem/) - Make article on the Feather products.
+- [Feather on the Adafruit blog](https://blog.adafruit.com/category/feather/) - Adafruit Blog posts discussing Feather.
 - [Feather on Hackaday](https://hackaday.com/?s=feather) - Hackaday posts related to Feather.
 - [Feather on MAKE](https://makezine.com/?s=feather) - Feather related content on MAKE.
 
