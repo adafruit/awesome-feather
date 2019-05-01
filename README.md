@@ -111,6 +111,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | MCCI | [Catena 4801](https://mcci.com/lorawan/products/catena-4801/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.02/1.1 865-923 MHz, RS-485/Modbus |
 | SparkFun | [ESP32 Thing Plus](https://www.sparkfun.com/products/14689) | Espressif ESP32 WROOM, WiFi, Bluetooth |
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
+| Ingenuity | [Micro Kea](http://www.ingenuity.co.nz/) | STM32F411 plus flash and ESP32 Pico-D-4 |
 
 ## FeatherWings
 
