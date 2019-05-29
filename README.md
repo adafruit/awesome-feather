@@ -144,6 +144,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [DS3231 Precision RTC FeatherWing - RTC Add-on](https://www.adafruit.com/product/3028) | I2C-integrated Real Time Clock (RTC) |
 | [Adalogger FeatherWing - RTC + SD Add-on](https://www.adafruit.com/product/2922) | Adds a SD card slot and real-time clock |
 | [Adafruit Teensy 3.x Feather Adapter](https://www.adafruit.com/product/3200) | Use Teensy 3 with all FeatherWings / Feather accessories |
+| [Adafruit AirLift FeatherWing – ESP32 WiFi Co-Processor](https://www.adafruit.com/product/4264) | ESP32 WiFi and Bluetooth |
 | [Adafruit LoRa Radio FeatherWing - RFM95W 433 MHz - RadioFruit](https://www.adafruit.com/product/3232) | LoRa Radio at 433 MHz |
 | [Adafruit LoRa Radio FeatherWing - RFM95W 900 MHz - RadioFruit](https://www.adafruit.com/product/3231) | LoRa Radio at 900 MHz |
 | [Adafruit Radio FeatherWing - RFM69HCW 433MHz - RadioFruit](https://www.adafruit.com/product/3230) | RFM69 radio at 433 MHz |
