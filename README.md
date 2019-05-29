@@ -124,6 +124,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [FeatherWing Proto - Prototyping Add-on](https://www.adafruit.com/product/2884) | Single Feather sized proto board, optional headers |
 | [FeatherWing Doubler - Prototyping Add-on](https://www.adafruit.com/product/2890) | Two side-by-side Feather sockets |
 | [FeatherWing Tripler Mini Kit - Prototyping Add-on](https://www.adafruit.com/product/3417)  | Three side-by-side feather sockets |
+| [Adafruit Quad 2x2 FeatherWing Kit with Headers](https://www.adafruit.com/product/4253) | Base holding 4 FeatherWings 2x2 |
+| [Adafruit Quad Side-By-Side FeatherWing Kit with Headers](https://www.adafruit.com/product/4254) | Base  holding 4 FeatherWings 1x4 |
 | [Assembled Terminal Block Breakout FeatherWing](https://www.adafruit.com/product/2926) | Fully assembled |
 | [Adafruit Prop-Maker FeatherWing](https://www.adafruit.com/product/3988) | Multiple drivers for props |
 | [Adafruit Ultimate GPS FeatherWing](https://www.adafruit.com/product/3133) | GPS receiver with battery backup |
@@ -180,8 +182,6 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - Green](https://www.adafruit.com/product/3129) | Green Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
 | [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - Yellow](https://www.adafruit.com/product/3131) | Yellow Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
 | [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - White](https://www.adafruit.com/product/3127) | White Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
-| [Adafruit Quad 2x2 FeatherWing Kit with Headers](https://www.adafruit.com/product/4253) | Base holding 4 FeatherWings 2x2 |
-| [Adafruit Quad Side-By-Side FeatherWing Kit with Headers](https://www.adafruit.com/product/4254) | Base  holding 4 FeatherWings 1x4 |
 
 ### FeatherWings (non-Adafruit)
 
