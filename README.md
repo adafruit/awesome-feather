@@ -90,6 +90,7 @@ Setup of Arduino for:
 | [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
 | [Adafruit PyBadge](https://www.adafruit.com/product/4200) | 1.8" Display, sensors, badge | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
 | [Adafruit PyBadge LC](https://www.adafruit.com/product/3939) | 1.8" Display, badge, budget | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
+| [Adafruit PyGamer](https://www.adafruit.com/product/4242) | 1.8" Display, sensors, gaming | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
 
 Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafruit-feather/circuitpython) on Reduced CircuitPython Capability boards (without off-processor Flash).
 
