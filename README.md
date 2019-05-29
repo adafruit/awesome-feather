@@ -88,8 +88,9 @@ Setup of Arduino for:
 | [Adafruit M0 Express](https://www.adafruit.com/product/3403) | 1.44" display, sensors, amp | 256 KB | 32 KB | 2 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit HalloWing M0 Express](https://www.adafruit.com/product/3900) | 1.44" display, sensors, amp | 256 KB | 32 KB | 8 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
+| [Adafruit PyBadge](https://www.adafruit.com/product/4200) | 1.8" Display, sensors, badge | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
 
-Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafruit-feather/circuitpython) on Reduced CircuitPython Capability boards (without off-board Flash).
+Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafruit-feather/circuitpython) on Reduced CircuitPython Capability boards (without off-processor Flash).
 
 ### Feather Compatible Processor Boards
 
@@ -177,6 +178,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - Green](https://www.adafruit.com/product/3129) | Green Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
 | [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - Yellow](https://www.adafruit.com/product/3131) | Yellow Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
 | [Adafruit 0.54" Quad Alphanumeric FeatherWing Display - White](https://www.adafruit.com/product/3127) | White Adafruit 0.54" Dual Alpha Display w/Wing Combo Pack |
+| [Adafruit Quad 2x2 FeatherWing Kit with Headers](https://www.adafruit.com/product/4253) | Base holding 4 FeatherWings 2x2 |
+| [Adafruit Quad Side-By-Side FeatherWing Kit with Headers](https://www.adafruit.com/product/4254) | Base  holding 4 FeatherWings 1x4 |
 
 ### FeatherWings (non-Adafruit)
 
