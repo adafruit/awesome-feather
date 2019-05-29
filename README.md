@@ -88,9 +88,9 @@ Setup of Arduino for:
 | [Adafruit M0 Express](https://www.adafruit.com/product/3403) | 1.44" display, sensors, amp | 256 KB | 32 KB | 2 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit HalloWing M0 Express](https://www.adafruit.com/product/3900) | 1.44" display, sensors, amp | 256 KB | 32 KB | 8 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
-| [Adafruit PyBadge](https://www.adafruit.com/product/4200) | 1.8" Display, sensors, badge | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
-| [Adafruit PyBadge LC](https://www.adafruit.com/product/3939) | 1.8" Display, badge, budget | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
-| [Adafruit PyGamer](https://www.adafruit.com/product/4242) | 1.8" Display, sensors, gaming | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
+| [Adafruit PyBadge](https://www.adafruit.com/product/4200) | 1.8" display, sensors, badge | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
+| [Adafruit PyBadge LC](https://www.adafruit.com/product/3939) | 1.8" display, badge, budget | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
+| [Adafruit PyGamer](https://www.adafruit.com/product/4242) | 1.8" display, sensors, gaming | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
 
 Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafruit-feather/circuitpython) on Reduced CircuitPython Capability boards (without off-processor Flash).
 
