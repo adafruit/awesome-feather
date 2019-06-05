@@ -227,6 +227,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 ## News
 
+- [Adafruit’s Feather nRF52840 Express Board and Developing with CircuitPython](https://blog.nordicsemi.com/getconnected/adafruits-feather-nrf52840-express-board-and-developing-with-circuitpython) - by John Leonard, the Nordic [Connected] blog, June 5, 2019
 - ["...adopting Adafruit’s Feather as the next standard"](https://blog.hackster.io/a-sparkfun-feather-board-65cddf5b7a98) - Hackster article on Adafruit's Feather becoming the defacto standard as well as CircuitPython adoption.
 - [The Adafruit Feather is a Thing](https://hackaday.com/2018/05/06/the-adafruit-feather-is-a-thing/) - Hackaday article on the Adafruit Feather ecosystem.
 - [A Quick Rundown on Adafruit’s Feather Ecosystem](https://makezine.com/2016/11/02/a-quick-rundown-on-adafruits-feather-ecosystem/) - Make article on the Feather products.
