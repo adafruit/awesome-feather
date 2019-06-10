@@ -208,7 +208,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | MCCI | [Catena 4470](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4470-modbus-node-for-lorawan-technology) | LoRaWAN 1.0.2/1.1, RS-485, BME-280 Sensor, lux sensor, FRAM, SPI Flash |
 | SparkFun | [ESP32 Thing Plus DMX to LED Shield](https://www.sparkfun.com/products/15110) | DMX board with XLR-3 and ArtNet jacks |
 | Steiert Solutions | [Feather Qwiing](https://www.crowdsupply.com/steiert-solutions/qwiikit#qwiing) | Adds 2 Quiic connectors, MicroSD and locations for UEXT and SAO headers |
-| JTinker | [6 Channel, 24 bit ADC Full Bridge Sensor FeatherWing](https://www.tindie.com/products/jtinker/6-ch-24-bit-full-bridge-sensor-featherwing/) | 6 Channel 24bit ADC FeatherWing for full bridge sensors | 
+| JTinker | [6 Channel, 24 bit ADC Full Bridge Sensor FeatherWing](https://www.tindie.com/products/jtinker/6-ch-24-bit-full-bridge-sensor-featherwing/) | 6 Channel 24bit ADC FeatherWing for full bridge sensors |
+| Sean Hodgins | [WIND Project Development Board](https://github.com/IdleHandsProject/wind_breakout) | Breakout board for Feather, sensor, and 18650 battery |
 
 ## Accessories
 
