@@ -210,6 +210,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Steiert Solutions | [Feather Qwiing](https://www.crowdsupply.com/steiert-solutions/qwiikit#qwiing) | Adds 2 Quiic connectors, MicroSD and locations for UEXT and SAO headers |
 | JTinker | [6 Channel, 24 bit ADC Full Bridge Sensor FeatherWing](https://www.tindie.com/products/jtinker/6-ch-24-bit-full-bridge-sensor-featherwing/) | 6 Channel 24bit ADC FeatherWing for full bridge sensors |
 | Sean Hodgins | [WIND Project Development Board](https://github.com/IdleHandsProject/wind_breakout) | Breakout board for Feather, sensor, and 18650 battery |
+| John Sartzetakis | [Scale FeatherWing](https://gitlab.com/jousis/scale-featherwing) | RC Filter and LDO for Load Cell Excitation (ADS1232 24-bit ADC) |
 
 ## Accessories
 
