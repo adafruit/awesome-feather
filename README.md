@@ -116,7 +116,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SparkFun | [SparkFun Thing Plus - SAMD51](https://www.sparkfun.com/products/14713) | SAMD51 in a Feather size board with Quiic |
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
 | Ingenuity | [Micro Kea](http://www.ingenuity.co.nz/) | STM32F411 plus flash and ESP32 Pico-D-4 |
-| [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [SAMR34 based LoRA DevBoard](https://www.tindie.com/products/makertronika-labs/tinylora-samr34-based-lora-devboard/) | ATSAMR34J18 based LoRA DevBoard |
+| [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [TinyLoRa SAMR34 LoRA](https://www.tindie.com/products/makertronika-labs/tinylora-samr34-based-lora-devboard/) | ATSAMR34J18 based LoRA DevBoard |
 
 ## FeatherWings
 
