@@ -102,7 +102,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Particle | [Argon](https://www.adafruit.com/product/3997) | nRF52840 with Mesh and WiFi |
 | Particle | [Boron LTE](https://www.adafruit.com/product/3998) | nRF52840 with Mesh and LTE Cellular Modem |
 | SD4Projects | [MiniMega2560 Adapter](https://github.com/Sd4Projects/MiniMega2560_Adapter) | Adapt the MiniMega256 to Feather for Wing compatibility |
-| Groboards  | [Giant Board](https://groboards.com/giant-board/) | ATSAMA5D27C-D1G Linux system in Feather form factor |
+| [Groboards](https://groboards.com/) | [Giant Board](https://www.crowdsupply.com/groboards/giant-board) | ATSAMA5D27C-D1G Linux system in Feather form factor |
 | Wilderness Labs | [Meadow](https://www.kickstarter.com/projects/meadow/meadow-full-stack-net-standard-iot-platform) | STM32F7 .NET with WiFi and Bluetooth |
 | Maxim | [MAX32620FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32620FTHR.html) | Cortex M4 Darwin MCU |
 | Maxim | [MAX32630FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32630FTHR.html) | Cortex M4F with PMIC |
