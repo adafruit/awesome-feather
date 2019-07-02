@@ -214,7 +214,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Sean Hodgins | [WIND Project Development Board](https://github.com/IdleHandsProject/wind_breakout) | Breakout board for Feather, sensor, and 18650 battery |
 | John Sartzetakis | [Scale FeatherWing](https://gitlab.com/jousis/scale-featherwing) | RC Filter and LDO for Load Cell Excitation (ADS1232 24-bit ADC) |
 | [Dan O'Shea (uXe)](https://twitter.com/uXeBoy) | [uXeBoy GBA Cartridge FeatherWing](https://community.arduboy.com/t/arduino-gameboy-cartridge/7057/90) | Lattice FPGA interface from a Feather to the GameBoy Advance. [Code](https://github.com/uXeBoy/GBArduboy). |
-| Pier42 Designs | [Watt-a-Live](https://www.tindie.com/products/pier42/watt-a-live-currentpowervoltage-monitor-sensor/) | INA209 Power Monitoring FeatherWing |
+| [Pier42 Design](https://www.tindie.com/stores/pier42/) | [Watt-a-Live](https://www.tindie.com/products/pier42/watt-a-live-currentpowervoltage-monitor-sensor/) | INA209 Power Monitoring FeatherWing |
 
 ## Accessories
 
