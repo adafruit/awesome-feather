@@ -118,7 +118,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Ingenuity | [Micro Kea](http://www.ingenuity.co.nz/) | STM32F411 plus flash and ESP32 Pico-D-4 |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [TinyLoRa SAMR34 LoRA](https://www.tindie.com/products/makertronika-labs/tinylora-samr34-based-lora-devboard/) | ATSAMR34J18 based LoRA DevBoard |
 | [Actinius](https://www.actinius.com/) | [Icarus IoT Board](https://www.actinius.com/icarus) | nRF91: ARM Cortex M33, modem, low power, GPS and Cellular data (LTE-M / NB-IoT), accelerometer | 
-[ [Seeed](https://www.seeedstudio.com/) | [Wio Lite W600](https://www.seeedstudio.com/Wio-Lite-W600-p-4155.html) | W600 module and SAMD21, WiFi, Arduino compatible |
+| [Seeed](https://www.seeedstudio.com/) | [Wio Lite W600](https://www.seeedstudio.com/Wio-Lite-W600-p-4155.html) | W600 module and SAMD21, WiFi, Arduino compatible |
 
 ## FeatherWings
 
