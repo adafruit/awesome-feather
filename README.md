@@ -220,6 +220,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Argo](https://twitter.com/olygineer) | [CANbus FeatherWing](https://twitter.com/olygineer/status/1146133929235308544) | CAN Bus, regulated DC in, I2C STEMMA/Grove/Qwiic connection |
 | Cedar Grove Studios | [Classic MIDI FeatherWing](https://github.com/CedarGroveStudios/Classic_MIDI_FeatherWing) | MIDI interface with provisions for DIN-5 and TRS Type B connectors |
 | Cedar Grove Studios | [AD9833 FeatherWing](https://github.com/CedarGroveStudios/AD9833_FeatherWing) | Precision Waveform Generator using the Analog Devices AD9833, 0 to 300 kHz, 0.1Hz resolution |
+| EmotiBit | [EmotiBit Sensor Module](https://www.emotibit.com/) | Multisensor FeatherWIng compatible |
 
 ## Accessories
 
