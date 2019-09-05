@@ -227,7 +227,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Cedar Grove Studios | [AD9833 FeatherWing](https://github.com/CedarGroveStudios/AD9833_FeatherWing) | Precision Waveform Generator using the Analog Devices AD9833, 0 to 300 kHz, 0.1Hz resolution |
 | EmotiBit | [EmotiBit Sensor Module](https://www.emotibit.com/) | Multisensor FeatherWing compatible |
 | Brian Lough | [Huzzah 32 Matrix FeatherWing](https://www.tindie.com/products/brianlough/huzzah-32-matrix-featherwing/) | Connect an Adafruit HUZZAH 32 Feather to an RGB LED matrix display |
-| Joey Castillo | [The E-Book FeatherWing](https://github.com/joeycastillo/The-Open-Book} | e-paper display and optional peripherals in an eReader form factor |
+| Joey Castillo | [The E-Book FeatherWing](https://github.com/joeycastillo/The-Open-Book) | e-paper display and optional peripherals in an eReader form factor |
 
 ## Accessories
 
