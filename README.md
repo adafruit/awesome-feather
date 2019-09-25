@@ -228,6 +228,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | EmotiBit | [EmotiBit Sensor Module](https://www.emotibit.com/) | Multisensor FeatherWing compatible |
 | Brian Lough | [Huzzah 32 Matrix FeatherWing](https://www.tindie.com/products/brianlough/huzzah-32-matrix-featherwing/) | Connect an Adafruit HUZZAH 32 Feather to an RGB LED matrix display |
 | Joey Castillo | [The E-Book FeatherWing](https://github.com/joeycastillo/The-Open-Book) | e-paper display and optional peripherals in an eReader form factor |
+| [Connected Future Labs](http://connectedfuturelabs.com/) | [Emotibit](https://www.emotibit.com/) | Multi-sensor board with SD Card |
 
 ## Accessories
 
