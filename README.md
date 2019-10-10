@@ -232,6 +232,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Joey Castillo | [The E-Book FeatherWing](https://github.com/joeycastillo/The-Open-Book) | e-paper display and optional peripherals in an eReader form factor |
 | [Connected Future Labs](http://connectedfuturelabs.com/) | [Emotibit](https://www.emotibit.com/) | Multi-sensor board with SD Card |
 | Jared Wolff | [Particle Squared](https://groupgets.com/campaigns/614-particle-squared) | Temperature, humidity, organic compounds, and dust sensors |
+| [Loop Research](https://www.tindie.com/stores/loopresearch/) | [PowerWIng](https://www.tindie.com/products/loopresearch/powerwing-6-36v-power-supply-featherwing/) | Can power Feather devices, 5V up to 1A, from 6-36V |
+| Loop Research | SwitchWing(https://www.tindie.com/products/loopresearch/switchwing-high-side-driver-featherwing-kit/) | Switch 5 to 28 volts at up to 20A |
 
 ## Accessories
 
