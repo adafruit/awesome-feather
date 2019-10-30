@@ -235,6 +235,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Loop Research](https://www.tindie.com/stores/loopresearch/) | [PowerWing](https://www.tindie.com/products/loopresearch/powerwing-6-36v-power-supply-featherwing/) | Can power Feather devices, 5V up to 1A, from 6-36V |
 | Loop Research | [SwitchWing](https://www.tindie.com/products/loopresearch/switchwing-high-side-driver-featherwing-kit/) | Switch 5 to 28 volts at up to 20A |
 | [Maker Buoy](https://www.makerbuoy.com/) | [Maker Buoy](https://www.makerbuoy.com/products-1) | PCB for an Adafruit Feather M0 Basic + Ultimate GPS and an Iridium radio for GPS tracking |
+| [BORKA](https://www.tindie.com/stores/bokra/) | [Adapter for Adafruit Feather](https://www.tindie.com/products/bokra/adapter-for-adafruit-feather/) | Board combining a Feather footprint, a MikroBUS module connector, temperature sensor, STEMMA and power regulation |
 
 ## Accessories
 
