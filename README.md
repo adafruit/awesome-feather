@@ -12,7 +12,7 @@ All Adafruit products are open source. Adafruit encourages other companies to ut
 
 ## Take Flight with Feather - Hackaday and Digi-Key NOV and DEC CONTEST!
 
-[![Take Flight with Feather](https://github.com/adafruit/awesome-feather/blob/master/11519takeflight.png)](https://hackaday.io/contest/168107-take-flight-with-feather)
+[![Take Flight with Feather](https://github.com/adafruit/circuitpython-weekly-newsletter/raw/gh-pages/assets/11052019/11519takeflight.png)](https://hackaday.io/contest/168107-take-flight-with-feather)
 
 The Adafruit Feather is the latest platform for microcontroller development, and companies like Particle, Sparkfun, and Seeed Studios are producing Feather-compatible devices for development and prototyping. Now it’s your turn. Design a board to fit in the Feather ecosystem and we’ll manufacture it. The best project in the Take Flight With Feather contest will be sent off to pick and place machines and head straight to the Digi-Key warehouse!
 
