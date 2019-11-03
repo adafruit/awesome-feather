@@ -10,6 +10,28 @@ FeatherWings are stacking boards and add functionality and room for prototyping.
 
 All Adafruit products are open source. Adafruit encourages other companies to utilize this form factor to maximize compatibility with dozens of pre-existing boards.
 
+## Take Flight with Feather - Hackaday and Digi-Key NOV and DEC CONTEST!
+
+[![Take Flight with Feather](https://github.com/adafruit/awesome-feather/blob/master/11519takeflight.png)](https://hackaday.io/contest/168107-take-flight-with-feather)
+
+The Adafruit Feather is the latest platform for microcontroller development, and companies like Particle, Sparkfun, and Seeed Studios are producing Feather-compatible devices for development and prototyping. Now it’s your turn. Design a board to fit in the Feather ecosystem and we’ll manufacture it. The best project in the Take Flight With Feather contest will be sent off to pick and place machines and head straight to the Digi-Key warehouse!
+
+To get started, take a look at the current [Feather ecosystem](https://learn.adafruit.com/adafruit-feather/community-feathers-wings) and get acquainted with the [GitHub repo filled with examples and tutorials](https://github.com/adafruit/awesome-feather).
+
+For the Take Flight With Feather contest, we’re looking for the cool, the useful, the insane, and the practical. Most of all, we’re looking for manufacturability. Electron savant Lady Ada will be judging each board on the basis of manufacturability, with the best board moving on to the assembly line where it will be stocked at Digi-Key.
+
+**What’s a good design? We’re looking for submissions in the following categories:**
+
+*   The Weirdest Feather — What’s the most ridiculous expansion board you can come up with?
+*   You’ll Cut Yourself On That Edge — We’re surrounded with bleeding-edge tech, what’s the coolest use of new technology?
+*   Retro Feather — Old tech lives on, but can you design a Feather to interact with it? Is it even possible to build a vampire Ethernet tap or an old acoustically-coupled modem?
+*   Assistive Tech — Build a Feather to help others. Use technology to improve lives.
+*   Wireless Feather — Add a new wireless technology to the Feather ecosystem.
+
+The winning entry overall will be chosen for manufacturability, and will win a small manufacturing run of 100 boards or less and be stocked at Digi-Key. The number of boards in the manufacturing run will be determined by the winning design. Note: Because of the small run initially, there will be no profit or margin for the first few boards. If the board is well accepted and a larger run is planned, then a longer term business model will be addressed. The 5 winners in the 5 categories above will receive $100 Tindie gift certificates. To get started, start a project on [hackaday.io](http://hackaday.io) and upload your project. Contest runs noon November 1 to noon December 31st. All times are in Pacific Standard Time.
+
+Stop by [hackaday.io for more details](https://hackaday.io/contest/168107-take-flight-with-feather)!
+
 ## Contents
 
 - [Guides](#guides)
