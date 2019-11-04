@@ -148,6 +148,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Seeed](https://www.seeedstudio.com/) | [Wio Lite W600](https://www.seeedstudio.com/Wio-Lite-W600-p-4155.html) | W600 module and SAMD21, WiFi, Arduino compatible |
 | [Seeed](https://www.seeedstudio.com/) | [Wio Lite RISC-V (GD32VF103) with ESP8266](https://www.seeedstudio.com/Wio-Lite-RISC-V-GD32VF103-p-4293.html) | RISC-V development board with RISC-V GD32VF103 and onboard ESP8266 Wio Core |
 | [Ingenuity Micro](https://store.ingenuitymicro.com/) | [Kea](https://store.ingenuitymicro.com/kea) | STM32F411 based NETMF Feather board with a ESP32 coprocessor |
+| [Wilderness Labs](https://store.wildernesslabs.co/) | [Meadow F7](https://store.wildernesslabs.co/products/meadow-f7) | STM32F7 uC with WiFi, BLE, 216MHz, 16MB RAM, 32MB Flash, 2D graphics and JPEG acceleration |
 
 ## FeatherWings
 
