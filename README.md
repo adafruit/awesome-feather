@@ -261,6 +261,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Maker Buoy](https://www.makerbuoy.com/) | [Maker Buoy](https://www.makerbuoy.com/products-1) | PCB for an Adafruit Feather M0 Basic + Ultimate GPS and an Iridium radio for GPS tracking |
 | [BORKA](https://www.tindie.com/stores/bokra/) | [Adapter for Adafruit Feather](https://www.tindie.com/products/bokra/adapter-for-adafruit-feather/) | Board combining a Feather footprint, a MikroBUS module connector, temperature sensor, STEMMA and power regulation |
 | [Binho](https://binho.io/) | [Feather Interface Board](https://binho.io/collections/accessories/products/feather-interface-board) | Provides UART and Qwiic interfaces, primarily for using the Binho Multi-Protocol USB Host Adapter |
+| sirmylesavery | [u-blox SAM-M8Q GPS Featherwing](https://hackaday.io/project/168430-u-blox-sam-m8q-gps-featherwing) | GPS FeatherWing using the ublox SAM-M8Q GPS module |
 
 ## Accessories
 
@@ -280,6 +281,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 ## News
 
+- [Take Flight with Feather](https://hackaday.io/contest/168107-take-flight-with-feather) - a contest sponsored by Hackaday, Digi-Key, and Adafruit seeking manufacturable boards in several categories.
 - [Poll results: FEATHER wins Twitter poll for "form factor of choice"](https://twitter.com/xoseperez/status/1146327118302916609) - read more on the [Adafruit blog post here](https://blog.adafruit.com/2019/07/05/feather-form-factor-of-choice-in-twitter-poll-by-xoseperez-feather-adafruit/), July 4, 2019.
 - [Tiny, Linux-driven Cortex-A5 SBC supports FeatherWing add-ons](http://linuxgizmos.com/tiny-linux-driven-cortex-a5-sbc-supports-featherwing-add-ons/) - by Eric Brown, LinuxGizmos.com, July 7, 2019.
 - [Adafruit’s Feather nRF52840 Express Board and Developing with CircuitPython](https://blog.nordicsemi.com/getconnected/adafruits-feather-nrf52840-express-board-and-developing-with-circuitpython) - by John Leonard, the Nordic [Connected] blog, June 5, 2019
