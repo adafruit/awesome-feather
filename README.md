@@ -227,6 +227,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Seeed | [Grove Shield for Particle Mesh](https://www.seeedstudio.com/Grove-Shield-for-Particle-Mesh-p-4080.html) | Large FeatherWing with eight Grove sensor connections |
 | davedarko | [USB Host FeatherWing](https://hackaday.io/project/161845-max3421e-featherwing) | USB Host add-on for MAX3421E |
 | armin.von_collrepp | [CAN Bus FeatherWing](https://easyeda.com/armin.von_collrepp/Adafruit_CAN_FeatherWing-0YRL3lfxP) | MCP2515 based CAN controller with an 3.3V CAN transceiver |
+| [Argo](https://twitter.com/olygineer) | [CANbus FeatherWing](https://twitter.com/olygineer/status/1146133929235308544) | CAN Bus, regulated DC in, I2C STEMMA/Grove/Qwiic connection |
+| [IAmOrion](https://www.tindie.com/stores/iamorion/) | [Feather CANBus Shield](https://www.tindie.com/products/iamorion/feather-canbus-shield/) | CAN Bus FeatherWing (PCB Only) |
 | Tisham Dhar | [ADS1115 Featherwing](http://whatnicklife.blogspot.com/2016/01/extending-energy-monitoring-ads1115.html) | Energy monitoring specific ADS1115 breakout |
 | Tisham Dhar | [ATM90E26 FeatherWing](https://www.tindie.com/products/whatnick/atm90e26-featherwing/) | ATM90E26 Utility Grade Energy Monitor |
 | Justin Jordan | [1-Wire Wing Data Logger](https://www.hackster.io/justin-jordan/1-wire-wing-data-logger-w-max32630fthr-ada46a?ref=part&ref_id=31815&offset=1) | DS2484 I2C to 1-Wire master, RJ-11 Connector, Sharp LS012B7DD01 LCD, 4 push buttons |
@@ -247,7 +249,6 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | John Sartzetakis | [Scale FeatherWing](https://gitlab.com/jousis/scale-featherwing) | RC Filter and LDO for Load Cell Excitation (ADS1232 24-bit ADC) |
 | [Dan O'Shea (uXe)](https://twitter.com/uXeBoy) | [uXeBoy GBA Cartridge FeatherWing](https://community.arduboy.com/t/arduino-gameboy-cartridge/7057/90) | Lattice FPGA interface from a Feather to the GameBoy Advance. [Code](https://github.com/uXeBoy/GBArduboy). |
 | [Pier42 Design](https://www.tindie.com/stores/pier42/) | [Watt-a-Live](https://www.tindie.com/products/pier42/watt-a-live-currentpowervoltage-monitor-sensor/) | INA209 Power Monitoring FeatherWing |
-| [Argo](https://twitter.com/olygineer) | [CANbus FeatherWing](https://twitter.com/olygineer/status/1146133929235308544) | CAN Bus, regulated DC in, I2C STEMMA/Grove/Qwiic connection |
 | Cedar Grove Studios | [Classic MIDI FeatherWing](https://github.com/CedarGroveStudios/Classic_MIDI_FeatherWing) | MIDI interface with provisions for DIN-5 and TRS Type B connectors |
 | Cedar Grove Studios | [AD9833 FeatherWing](https://github.com/CedarGroveStudios/AD9833_FeatherWing) | Precision Waveform Generator using the Analog Devices AD9833, 0 to 300 kHz, 0.1Hz resolution |
 | Cedar Grove Studios | [Robot Friend FeatherWing](https://hackaday.io/project/168428-cedar-grove-robot-friend-featherwing) | Passively connect a PyBadge or PyGamer with a Crickit FeatherWing |
