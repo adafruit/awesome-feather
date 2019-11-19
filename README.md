@@ -262,6 +262,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [BORKA](https://www.tindie.com/stores/bokra/) | [Adapter for Adafruit Feather](https://www.tindie.com/products/bokra/adapter-for-adafruit-feather/) | Board combining a Feather footprint, a MikroBUS module connector, temperature sensor, STEMMA and power regulation |
 | [Binho](https://binho.io/) | [Feather Interface Board](https://binho.io/collections/accessories/products/feather-interface-board) | Provides UART and Qwiic interfaces, primarily for using the Binho Multi-Protocol USB Host Adapter |
 | sirmylesavery | [u-blox SAM-M8Q GPS Featherwing](https://hackaday.io/project/168430-u-blox-sam-m8q-gps-featherwing) | GPS FeatherWing using the ublox SAM-M8Q GPS module |
+| [Maxim Integrated](https://www.maximintegrated.com/) | [MAX30101WING](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX30101WING.html) | MAX30101 pulse oximetry sensor development board |
 
 ## Accessories
 
