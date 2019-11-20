@@ -264,6 +264,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Binho](https://binho.io/) | [Feather Interface Board](https://binho.io/collections/accessories/products/feather-interface-board) | Provides UART and Qwiic interfaces, primarily for using the Binho Multi-Protocol USB Host Adapter |
 | sirmylesavery | [u-blox SAM-M8Q GPS Featherwing](https://hackaday.io/project/168430-u-blox-sam-m8q-gps-featherwing) | GPS FeatherWing using the ublox SAM-M8Q GPS module |
 | [Maxim Integrated](https://www.maximintegrated.com/) | [MAX30101WING](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX30101WING.html) | MAX30101 pulse oximetry sensor development board |
+| Jared Wolff | [Air Quality Wing for Particle Mesh](https://store.groupgets.com/collections/frontpage/products/air-quality-wing-for-particle-mesh) | 'Wing with the Honeywell HPMA115S0 dust sensor and the AMS CCS811 organic compound and eC02 sensor | 
 
 ## Accessories
 
