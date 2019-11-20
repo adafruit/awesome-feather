@@ -257,6 +257,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Joey Castillo | [The E-Book FeatherWing](https://github.com/joeycastillo/The-Open-Book) | e-paper display and optional peripherals in an eReader form factor |
 | [Connected Future Labs](http://connectedfuturelabs.com/) | [Emotibit](https://www.emotibit.com/) | Multi-sensor board with SD Card |
 | Jared Wolff | [Particle Squared](https://groupgets.com/campaigns/614-particle-squared) | Temperature, humidity, organic compounds, and dust sensors |
+| Jared Wolff | [Air Quality Wing for Particle Mesh](https://store.groupgets.com/collections/frontpage/products/air-quality-wing-for-particle-mesh) | 'Wing with the Honeywell HPMA115S0 dust sensor and the AMS CCS811 organic compound and eC02 sensor | 
 | [Loop Research](https://www.tindie.com/stores/loopresearch/) | [PowerWing](https://www.tindie.com/products/loopresearch/powerwing-6-36v-power-supply-featherwing/) | Can power Feather devices, 5V up to 1A, from 6-36V |
 | Loop Research | [SwitchWing](https://www.tindie.com/products/loopresearch/switchwing-high-side-driver-featherwing-kit/) | Switch 5 to 28 volts at up to 20A |
 | [Maker Buoy](https://www.makerbuoy.com/) | [Maker Buoy](https://www.makerbuoy.com/products-1) | PCB for an Adafruit Feather M0 Basic + Ultimate GPS and an Iridium radio for GPS tracking |
@@ -264,7 +265,6 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Binho](https://binho.io/) | [Feather Interface Board](https://binho.io/collections/accessories/products/feather-interface-board) | Provides UART and Qwiic interfaces, primarily for using the Binho Multi-Protocol USB Host Adapter |
 | sirmylesavery | [u-blox SAM-M8Q GPS Featherwing](https://hackaday.io/project/168430-u-blox-sam-m8q-gps-featherwing) | GPS FeatherWing using the ublox SAM-M8Q GPS module |
 | [Maxim Integrated](https://www.maximintegrated.com/) | [MAX30101WING](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX30101WING.html) | MAX30101 pulse oximetry sensor development board |
-| Jared Wolff | [Air Quality Wing for Particle Mesh](https://store.groupgets.com/collections/frontpage/products/air-quality-wing-for-particle-mesh) | 'Wing with the Honeywell HPMA115S0 dust sensor and the AMS CCS811 organic compound and eC02 sensor | 
 
 ## Accessories
 
