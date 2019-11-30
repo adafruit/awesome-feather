@@ -250,7 +250,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Dan O'Shea (uXe)](https://twitter.com/uXeBoy) | [uXeBoy GBA Cartridge FeatherWing](https://community.arduboy.com/t/arduino-gameboy-cartridge/7057/90) | Lattice FPGA interface from a Feather to the GameBoy Advance. [Code](https://github.com/uXeBoy/GBArduboy). |
 | [Pier42 Design](https://www.tindie.com/stores/pier42/) | [Watt-a-Live](https://www.tindie.com/products/pier42/watt-a-live-currentpowervoltage-monitor-sensor/) | INA209 Power Monitoring FeatherWing |
 | Cedar Grove Studios | [Classic MIDI FeatherWing](https://github.com/CedarGroveStudios/Classic_MIDI_FeatherWing) | MIDI interface with provisions for DIN-5 and TRS Type B connectors |
-| Cedar Grove Studios | [AD9833 FeatherWing](https://github.com/CedarGroveStudios/AD9833_FeatherWing) | Precision Waveform Generator using the Analog Devices AD9833, 0 to 300 kHz, 0.1Hz resolution |
+| Cedar Grove Studios | [AD9833 FeatherWing](https://github.com/CedarGroveStudios/AD9833_FeatherWing) | Precision Waveform Generator using the Analog Devices AD9833, 0.5 Hz to 100 kHz, 0.1Hz resolution |
 | Cedar Grove Studios | [Robot Friend FeatherWing](https://hackaday.io/project/168428-cedar-grove-robot-friend-featherwing) | Passively connect a PyBadge or PyGamer with a Crickit FeatherWing |
 | EmotiBit | [EmotiBit Sensor Module](https://www.emotibit.com/) | Multisensor FeatherWing compatible |
 | Brian Lough | [Huzzah 32 Matrix FeatherWing](https://www.tindie.com/products/brianlough/huzzah-32-matrix-featherwing/) | Connect an Adafruit HUZZAH 32 Feather to an RGB LED matrix display |
