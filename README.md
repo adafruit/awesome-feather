@@ -268,7 +268,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 ## News
 
-- [The 2019 Take Flight with Feather](https://hackaday.io/contest/168107-take-flight-with-feather) - a contest sponsored by Hackaday, Digi-Key, and Adafruit seeking manufacturable boards in several categories. [Here are the winners]( https://hackaday.com/2020/01/22/winners-of-the-take-flight-with-feather-contest/).
+- [The 2019 Take Flight with Feather Contest](https://hackaday.io/contest/168107-take-flight-with-feather) - sponsored by Hackaday, Digi-Key, and Adafruit which sought manufacturable boards in several categories. [Here are the winners]( https://hackaday.com/2020/01/22/winners-of-the-take-flight-with-feather-contest/).
 - [Poll results: FEATHER wins Twitter poll for "form factor of choice"](https://twitter.com/xoseperez/status/1146327118302916609) - read more on the [Adafruit blog post here](https://blog.adafruit.com/2019/07/05/feather-form-factor-of-choice-in-twitter-poll-by-xoseperez-feather-adafruit/), July 4, 2019.
 - [The next generation of low-cost, open-source oceanographic instruments is here! Meet the OpenCTD rev 2!](http://www.southernfriedscience.com/the-next-generation-of-low-cost-open-source-oceanographic-instruments-is-here-meet-the-openctd-rev-2/) - OpenCTD switches to Feather products for reliability and cost.
 - [Tiny, Linux-driven Cortex-A5 SBC supports FeatherWing add-ons](http://linuxgizmos.com/tiny-linux-driven-cortex-a5-sbc-supports-featherwing-add-ons/) - by Eric Brown, LinuxGizmos.com, July 7, 2019.
