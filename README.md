@@ -282,7 +282,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 ## Art
 
-- [Feather Art](https://www.dropbox.com/sh/w98kneh9skq581y/AAAWWp3WNwsdtUrUPna9Wehka?dl=0) - Adafruit art/images relating to Feather.
+- [Feather Art](https://www.dropbox.com/sh/w98kneh9skq581y/AAAWWp3WNwsdtUrUPna9Wehka?dl=0) - Adafruit art/images relating to Feather. Please email legal@adafruit.com for Adafruit art use on designs and in advertising. 
 
 ## Social
 
