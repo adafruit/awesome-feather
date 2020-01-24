@@ -10,16 +10,6 @@ FeatherWings are stacking boards and add functionality and room for prototyping.
 
 All Adafruit products are open source. Adafruit encourages other companies to utilize this form factor to maximize compatibility with dozens of pre-existing boards.
 
-## Take Flight with Feather - Hackaday and Digi-Key NOV and DEC CONTEST!
-
-[![Take Flight with Feather](https://github.com/adafruit/circuitpython-weekly-newsletter/raw/gh-pages/assets/11052019/11519takeflight.png)](https://hackaday.io/contest/168107-take-flight-with-feather)
-
-The Adafruit Feather is the latest platform for microcontroller development, and companies like Particle, Sparkfun, and Seeed Studios are producing Feather-compatible devices for development and prototyping. Now it’s your turn. Design a board to fit in the Feather ecosystem and we’ll manufacture it. The best project in the Take Flight With Feather contest will be sent off to pick and place machines and head straight to the Digi-Key warehouse!
-
-To get started, take a look at the current [Feather ecosystem](https://learn.adafruit.com/adafruit-feather/community-feathers-wings) and get acquainted with the [GitHub repo filled with examples and tutorials](https://github.com/adafruit/awesome-feather).
-
-For the Take Flight With Feather contest, we’re looking for the cool, the useful, the insane, and the practical. Most of all, we’re looking for manufacturability. Electron savant Lady Ada will be judging each board on the basis of manufacturability, with the best board moving on to the assembly line where it will be stocked at Digi-Key.
-
 **What’s a good design? We’re looking for submissions in the following categories:**
 
 *   The Weirdest Feather — What’s the most ridiculous expansion board you can come up with?
