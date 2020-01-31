@@ -10,28 +10,6 @@ FeatherWings are stacking boards and add functionality and room for prototyping.
 
 All Adafruit products are open source. Adafruit encourages other companies to utilize this form factor to maximize compatibility with dozens of pre-existing boards.
 
-## Take Flight with Feather - Hackaday and Digi-Key NOV and DEC CONTEST!
-
-[![Take Flight with Feather](https://github.com/adafruit/circuitpython-weekly-newsletter/raw/gh-pages/assets/11052019/11519takeflight.png)](https://hackaday.io/contest/168107-take-flight-with-feather)
-
-The Adafruit Feather is the latest platform for microcontroller development, and companies like Particle, Sparkfun, and Seeed Studios are producing Feather-compatible devices for development and prototyping. Now it’s your turn. Design a board to fit in the Feather ecosystem and we’ll manufacture it. The best project in the Take Flight With Feather contest will be sent off to pick and place machines and head straight to the Digi-Key warehouse!
-
-To get started, take a look at the current [Feather ecosystem](https://learn.adafruit.com/adafruit-feather/community-feathers-wings) and get acquainted with the [GitHub repo filled with examples and tutorials](https://github.com/adafruit/awesome-feather).
-
-For the Take Flight With Feather contest, we’re looking for the cool, the useful, the insane, and the practical. Most of all, we’re looking for manufacturability. Electron savant Lady Ada will be judging each board on the basis of manufacturability, with the best board moving on to the assembly line where it will be stocked at Digi-Key.
-
-**What’s a good design? We’re looking for submissions in the following categories:**
-
-*   The Weirdest Feather — What’s the most ridiculous expansion board you can come up with?
-*   You’ll Cut Yourself On That Edge — We’re surrounded with bleeding-edge tech, what’s the coolest use of new technology?
-*   Retro Feather — Old tech lives on, but can you design a Feather to interact with it? Is it even possible to build a vampire Ethernet tap or an old acoustically-coupled modem?
-*   Assistive Tech — Build a Feather to help others. Use technology to improve lives.
-*   Wireless Feather — Add a new wireless technology to the Feather ecosystem.
-
-The winning entry overall will be chosen for manufacturability, and will win a small manufacturing run of 100 boards or less and be stocked at Digi-Key. The number of boards in the manufacturing run will be determined by the winning design. Note: Because of the small run initially, there will be no profit or margin for the first few boards. If the board is well accepted and a larger run is planned, then a longer term business model will be addressed. The 5 winners in the 5 categories above will receive $100 Tindie gift certificates. To get started, start a project on [hackaday.io](http://hackaday.io) and upload your project. Contest runs noon November 1 to noon December 31st. All times are in Pacific Standard Time.
-
-Stop by [hackaday.io for more details](https://hackaday.io/contest/168107-take-flight-with-feather)!
-
 ## Contents
 
 - [Guides](#guides)
@@ -141,6 +119,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SparkFun | [Thing Plus - SAMD51](https://www.sparkfun.com/products/14713) | SAMD51 in a Feather size board with Qwiic |
 | SparkFun | [Thing Plus - XBee3 Micro (U.FL)](https://www.sparkfun.com/products/15435) | XBee3 Micro Module (Zigbee 3.0) with Qwiic |
 | SparkFun | [Thing Plus - XBee3 Micro (Chip Antenna)](https://www.sparkfun.com/products/15454) | XBee3 Micro Module (Zigbee 3.0) with Qwiic |
+| SparkFun | [RED-V Thing Plus](https://www.sparkfun.com/products/15799) | SiFive RISC-V FE310 SoC with Qwiic connector and USB C |
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
 | Ingenuity | [Micro Kea](http://www.ingenuity.co.nz/) | STM32F411 plus flash and ESP32 Pico-D-4 |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [TinyLoRa SAMR34 LoRA](https://www.tindie.com/products/makertronika-labs/tinylora-samr34-based-lora-devboard/) | ATSAMR34J18 based LoRA DevBoard |
@@ -149,6 +128,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Seeed](https://www.seeedstudio.com/) | [Wio Lite RISC-V (GD32VF103) with ESP8266](https://www.seeedstudio.com/Wio-Lite-RISC-V-GD32VF103-p-4293.html) | RISC-V development board with RISC-V GD32VF103 and onboard ESP8266 Wio Core |
 | [Ingenuity Micro](https://store.ingenuitymicro.com/) | [Kea](https://store.ingenuitymicro.com/kea) | STM32F411 based NETMF Feather board with a ESP32 coprocessor |
 | [Wilderness Labs](https://store.wildernesslabs.co/) | [Meadow F7](https://store.wildernesslabs.co/products/meadow-f7) | STM32F7 uC with WiFi, BLE, 216MHz, 16MB RAM, 32MB Flash, 2D graphics and JPEG acceleration |
+| Jed Hodson | [UWB Localization Feather](https://prototypingcorner.io/projects/uwb-feather/) | Decawave DWM1000 module and ATSAMD21 ARM Cortex M0 |
+| Gregory Davill | [Orange Crab](https://github.com/gregdavill/OrangeCrab/) | Lattice ECP5 FPGA |
 
 ## FeatherWings
 
@@ -243,6 +224,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | MCCI | [Catena 4460](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4460-sensor-wing-w-bme680) | LoRaWAN 1.0/1.1, BME680 Sensor, lux sensor, FRAM, I2C Multiplexer |
 | MCCI | [Catena 4470](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4470-modbus-node-for-lorawan-technology) | LoRaWAN 1.0.2/1.1, RS-485, BME-280 Sensor, lux sensor, FRAM, SPI Flash |
 | SparkFun | [ESP32 Thing Plus DMX to LED Shield](https://www.sparkfun.com/products/15110) | DMX board with XLR-3 and ArtNet jacks |
+| SparkFun | [SparkFun Qwiic Shield for Thing Plus](https://www.sparkfun.com/products/16138) | Provides 4 Qwiic/STEMMA QT sockets |
 | Steiert Solutions | [Feather Qwiing](https://www.crowdsupply.com/steiert-solutions/qwiikit#qwiing) | Adds 2 Quiic connectors, MicroSD and locations for UEXT and SAO headers |
 | JTinker | [6 Channel, 24 bit ADC Full Bridge Sensor FeatherWing](https://www.tindie.com/products/jtinker/6-ch-24-bit-full-bridge-sensor-featherwing/) | 6 Channel 24bit ADC FeatherWing for full bridge sensors |
 | Sean Hodgins | [WIND Project Development Board](https://github.com/IdleHandsProject/wind_breakout) | Breakout board for Feather, sensor, and 18650 battery |
@@ -264,10 +246,14 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Loop Research | [SwitchWing](https://www.tindie.com/products/loopresearch/switchwing-high-side-driver-featherwing-kit/) | Switch 5 to 28 volts at up to 20A |
 | [Maker Buoy](https://www.makerbuoy.com/) | [Maker Buoy](https://www.makerbuoy.com/products-1) | PCB for an Adafruit Feather M0 Basic + Ultimate GPS and an Iridium radio for GPS tracking |
 | [BORKA](https://www.tindie.com/stores/bokra/) | [Adapter for Adafruit Feather](https://www.tindie.com/products/bokra/adapter-for-adafruit-feather/) | Board combining a Feather footprint, a MikroBUS module connector, temperature sensor, STEMMA and power regulation |
+| [Mikroe](https://www.mikroe.com/) | [Feather Click Shield](https://www.mikroe.com/blog/feather-click-shield) | Feather to dual mikroBUS Click board adapter |
 | [Binho](https://binho.io/) | [Feather Interface Board](https://binho.io/collections/accessories/products/feather-interface-board) | Provides UART and Qwiic interfaces, primarily for using the Binho Multi-Protocol USB Host Adapter |
 | sirmylesavery | [u-blox SAM-M8Q GPS Featherwing](https://hackaday.io/project/168430-u-blox-sam-m8q-gps-featherwing) | GPS FeatherWing using the ublox SAM-M8Q GPS module |
 | [Maxim Integrated](https://www.maximintegrated.com/) | [MAX30101WING](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX30101WING.html) | MAX30101 pulse oximetry sensor development board |
 | [Actinius](https://www.actinius.com/) | [Environmental Sensor FeatherWing](https://www.actinius.com/environmental-sensor-featherwing) | features the Bosch BME280, AMS CCS811, TI OPT3002 and SI SI7060 sensors. |
+| PCBWay | [ATM90E26 FeatherWing](https://www.pcbway.com/project/gifts_detail/ATM90E26_FeatherWing.html) | ATMEL E9026 Energy monitor with power supply |
+| [n°Garage](https://www.tindie.com/stores/ndgarage/) | [Hippo](https://www.tindie.com/products/ndgarage/hippo/) | A hippo PCB with twelve NeoPixel LEDs |
+| AbleGamers | [Freedom Wing Adapter](https://www.youtube.com/watch?v=FgKNWc-EpHQ) | Connect a power wheelchair joystick to Feather and the Xbox Adaptive Controller |
 
 ## Accessories
 
@@ -287,8 +273,9 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 ## News
 
-- [Take Flight with Feather](https://hackaday.io/contest/168107-take-flight-with-feather) - a contest sponsored by Hackaday, Digi-Key, and Adafruit seeking manufacturable boards in several categories.
+- [The 2019 Take Flight with Feather Contest](https://hackaday.io/contest/168107-take-flight-with-feather) - sponsored by Hackaday, Digi-Key, and Adafruit which sought manufacturable boards in several categories. [Here are the winners]( https://hackaday.com/2020/01/22/winners-of-the-take-flight-with-feather-contest/).
 - [Poll results: FEATHER wins Twitter poll for "form factor of choice"](https://twitter.com/xoseperez/status/1146327118302916609) - read more on the [Adafruit blog post here](https://blog.adafruit.com/2019/07/05/feather-form-factor-of-choice-in-twitter-poll-by-xoseperez-feather-adafruit/), July 4, 2019.
+- [The next generation of low-cost, open-source oceanographic instruments is here! Meet the OpenCTD rev 2!](http://www.southernfriedscience.com/the-next-generation-of-low-cost-open-source-oceanographic-instruments-is-here-meet-the-openctd-rev-2/) - OpenCTD switches to Feather products for reliability and cost.
 - [Tiny, Linux-driven Cortex-A5 SBC supports FeatherWing add-ons](http://linuxgizmos.com/tiny-linux-driven-cortex-a5-sbc-supports-featherwing-add-ons/) - by Eric Brown, LinuxGizmos.com, July 7, 2019.
 - [Adafruit’s Feather nRF52840 Express Board and Developing with CircuitPython](https://blog.nordicsemi.com/getconnected/adafruits-feather-nrf52840-express-board-and-developing-with-circuitpython) - by John Leonard, the Nordic [Connected] blog, June 5, 2019
 - ["...adopting Adafruit’s Feather as the next standard"](https://blog.hackster.io/a-sparkfun-feather-board-65cddf5b7a98) - Hackster article on Adafruit's Feather becoming the defacto standard as well as CircuitPython adoption.
@@ -300,7 +287,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 ## Art
 
-- [Feather Art](https://www.dropbox.com/sh/w98kneh9skq581y/AAAWWp3WNwsdtUrUPna9Wehka?dl=0) - Adafruit art/images relating to Feather.
+- [Feather Art](https://www.dropbox.com/sh/w98kneh9skq581y/AAAWWp3WNwsdtUrUPna9Wehka?dl=0) - Adafruit art/images relating to Feather. Please email legal@adafruit.com for Adafruit art use on designs and in advertising. 
 
 ## Social
 
