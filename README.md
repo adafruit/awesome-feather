@@ -129,6 +129,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Ingenuity Micro](https://store.ingenuitymicro.com/) | [Kea](https://store.ingenuitymicro.com/kea) | STM32F411 based NETMF Feather board with a ESP32 coprocessor |
 | [Wilderness Labs](https://store.wildernesslabs.co/) | [Meadow F7](https://store.wildernesslabs.co/products/meadow-f7) | STM32F7 uC with WiFi, BLE, 216MHz, 16MB RAM, 32MB Flash, 2D graphics and JPEG acceleration |
 | Jed Hodson | [UWB Localization Feather](https://prototypingcorner.io/projects/uwb-feather/) | Decawave DWM1000 module and ATSAMD21 ARM Cortex M0 |
+| Gregory Davill | [Orange Crab](https://github.com/gregdavill/OrangeCrab/) | Lattice ECP5 FPGA |
 
 ## FeatherWings
 
