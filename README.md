@@ -252,6 +252,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | PCBWay | [ATM90E26 FeatherWing](https://www.pcbway.com/project/gifts_detail/ATM90E26_FeatherWing.html) | ATMEL E9026 Energy monitor with power supply |
 | [n°Garage](https://www.tindie.com/stores/ndgarage/) | [Hippo](https://www.tindie.com/products/ndgarage/hippo/) | A hippo PCB with twelve NeoPixel LEDs |
 | AbleGamers | [Freedom Wing Adapter](https://www.youtube.com/watch?v=FgKNWc-EpHQ) | Connect a power wheelchair joystick to Feather and the Xbox Adaptive Controller |
+| [Omron](https://www.omron.co.jp/ecb) | [2JCIE-EV01-FT1](https://www.omron.co.jp/ecb/sensor/evaluation-board/2jcie) | Temperature, humidity, ambient light, MEMS pressure/motion/microphone multisensor board for HUZZAH32 |
 
 ## Accessories
 
