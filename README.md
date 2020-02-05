@@ -130,6 +130,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Wilderness Labs](https://store.wildernesslabs.co/) | [Meadow F7](https://store.wildernesslabs.co/products/meadow-f7) | STM32F7 uC with WiFi, BLE, 216MHz, 16MB RAM, 32MB Flash, 2D graphics and JPEG acceleration |
 | Jed Hodson | [UWB Localization Feather](https://prototypingcorner.io/projects/uwb-feather/) | Decawave DWM1000 module and ATSAMD21 ARM Cortex M0 |
 | Gregory Davill | [Orange Crab](https://github.com/gregdavill/OrangeCrab/) | Lattice ECP5 FPGA |
+| [Electronic Cats](https://electroniccats.com/) | [BastWAN](https://electroniccats.com/blog/rak4260-el-microcontrolador-todo-en-uno-de-lora-ahora-en-arduino-ide) | Microchip SAM R34-based LoRa 868MHz and 915MHz and ATTEC608A security |
 
 ## FeatherWings
 
@@ -308,3 +309,5 @@ Contributions and suggestions are always welcome! Please make pull requests to m
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
+
+Updated February 5, 2020
