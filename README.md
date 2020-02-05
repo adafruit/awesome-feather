@@ -276,6 +276,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 ## News
 
+- Freedom Wing interfaces wheelchair joysticks to Xbox - [Hackster.io](https://www.hackster.io/news/you-can-now-use-your-power-wheelchair-as-an-xbox-controller-0aa52acd82eb), [Engadget](https://www.engadget.com/2020/02/02/adapter-turns-wheelchair-into-xbox-controller/), [MAKE](https://makezine.com/2020/02/03/connect-power-wheel-chairs-directly-to-game-consoles-with-the-freedom-wing/)
 - [The 2019 Take Flight with Feather Contest](https://hackaday.io/contest/168107-take-flight-with-feather) - sponsored by Hackaday, Digi-Key, and Adafruit which sought manufacturable boards in several categories. [Here are the winners]( https://hackaday.com/2020/01/22/winners-of-the-take-flight-with-feather-contest/).
 - [Poll results: FEATHER wins Twitter poll for "form factor of choice"](https://twitter.com/xoseperez/status/1146327118302916609) - read more on the [Adafruit blog post here](https://blog.adafruit.com/2019/07/05/feather-form-factor-of-choice-in-twitter-poll-by-xoseperez-feather-adafruit/), July 4, 2019.
 - [The next generation of low-cost, open-source oceanographic instruments is here! Meet the OpenCTD rev 2!](http://www.southernfriedscience.com/the-next-generation-of-low-cost-open-source-oceanographic-instruments-is-here-meet-the-openctd-rev-2/) - OpenCTD switches to Feather products for reliability and cost.
