@@ -257,7 +257,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | AbleGamers | [Freedom Wing Adapter](https://www.youtube.com/watch?v=FgKNWc-EpHQ) | Connect a power wheelchair joystick to Feather and the Xbox Adaptive Controller |
 | [Omron](https://www.omron.co.jp/ecb) | [2JCIE-EV01-FT1](https://www.omron.co.jp/ecb/sensor/evaluation-board/2jcie) | Temperature, humidity, ambient light, MEMS pressure/motion/microphone multisensor board for HUZZAH32 |
 | Silicognition | [PoE FeatherWing](https://www.crowdsupply.com/silicognition/poe-featherwing) | Wiz5500 Ethernet plus 4W Power over Ethernet |
-| [Glen Akins](https://twitter.com/bikerglen) | [DMX FeatherWing](https://github.com/bikerglen/atsamd21-poe-dmx-controller) | DMX interface wing |
+| [Glen Akins](https://twitter.com/bikerglen) | [DMX FeatherWing](https://bikerglen.com/blog/dmx-featherwing-light-controller/) | DMX-512 interface wing |
 
 ## Accessories
 
