@@ -61,7 +61,7 @@ Setup of Arduino for:
 
 [Feather boards, Feather Wings and accessories](https://www.adafruit.com/category/943) - Complete listing of sensors, LCDs, displays, robotics, breakout boards, and more.
 
-| Name | Features | Flash | RAM  | SPI Flash | Speed | Circuit Python | Arduino | Wireless |
+| Name | Features | Flash | RAM  | SPI Flash | Speed | CircuitPython | Arduino | Wireless |
 |-------|------|---|---|---|---|---|---|---|
 | [Adafruit Feather 328P - Atmega328P 3.3V](https://www.adafruit.com/product/3458) | Protoboard area | 32 KB | 2 KB | - | 8 MHz | - | Yes | - |
 | [Adafruit Feather 32u4 Basic Proto](https://www.adafruit.com/product/2771) | Built-in protoboard | 32 KB | 2 KB | - | 8 MHz | - | Yes | - |
@@ -87,6 +87,7 @@ Setup of Arduino for:
 | [Adafruit Feather nRF52 Bluefruit LE - nRF52832](https://www.adafruit.com/product/3406) | Bluetooth support | 512 KB | 64 KB | - | 64 MHz | - | Yes | BTLE |
 | [Adafruit Feather nRF52832 Pro with myNewt Bootloader](https://www.adafruit.com/product/3574) | Bluetooth support | 512 KB | 64 KB |  | 64 MHz | - | Yes | BTLE |
 | [Adafruit Feather nRF52840 Express](https://www.adafruit.com/product/4062) | Bluetooth support | 1 MB  | 256 KB | - | 64 MHz | Yes | Yes | BTLE |
+| [Adafruit Feather nRF52840 Sense](https://www.adafruit.com/product/4516) | Bluetooth + Sensors | 1 MB  | 256 KB | - | 64 MHz | Yes | Yes | BTLE |
 | [Adafruit M0 Express](https://www.adafruit.com/product/3403) | 1.44" display, sensors, amp | 256 KB | 32 KB | 2 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit HalloWing M0 Express](https://www.adafruit.com/product/3900) | 1.44" display, sensors, amp | 256 KB | 32 KB | 8 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
