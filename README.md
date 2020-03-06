@@ -132,8 +132,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Jed Hodson | [UWB Localization Feather](https://prototypingcorner.io/projects/uwb-feather/) | Decawave DWM1000 module and ATSAMD21 ARM Cortex M0 |
 | Gregory Davill | [Orange Crab](https://github.com/gregdavill/OrangeCrab/) | Lattice ECP5 FPGA |
 | [Electronic Cats](https://electroniccats.com/) | [BastWAN](https://electroniccats.com/blog/rak4260-el-microcontrolador-todo-en-uno-de-lora-ahora-en-arduino-ide) | Microchip SAM R34-based LoRa 868MHz and 915MHz and ATTEC608A security |
-| [Quicklogic](https://www.quicklogic.com/) | [QuickFeather](https://www.quicklogic.com/products/eos-s3/quickfeather-development-kit/) | 
-EOS S3 Low Power MCU with embedded FPGA |
+| [Quicklogic](https://www.quicklogic.com/) | [QuickFeather](https://www.quicklogic.com/products/eos-s3/quickfeather-development-kit/) |  S3 Low Power MCU with embedded FPGA |
 
 ## FeatherWings
 
