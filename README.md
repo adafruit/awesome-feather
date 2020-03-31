@@ -205,7 +205,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 | Company | Board | Features |
 |---|---|--------|
-| [Pimoroni](https://shop.pimoroni.com/) | [Enviro+ FeatherWing](https://shop.pimoroni.com/products/enviro-plus-featherwing) | COlor LCD, 3 sensors and microphone for air quality |
+| [Pimoroni](https://shop.pimoroni.com/) | [Enviro+ FeatherWing](https://shop.pimoroni.com/products/enviro-plus-featherwing) | Color LCD, 3 sensors and microphone for air quality |
 | Capable Robot Components | [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp) | Four-channel temperature sensor for instrumenting electronics |
 | Particle | [Ethernet FeatherWing](https://www.adafruit.com/product/4003) | Ethernet with two Feather slots |
 | Particle | [Particle Classic Adapter](https://store.particle.io/) | Use classic Photon accessories with Feather Footprint |
@@ -318,4 +318,4 @@ Contributions and suggestions are always welcome! Please make pull requests to m
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Updated February 28, 2020
+Updated March 31, 2020
