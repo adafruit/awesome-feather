@@ -264,7 +264,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 ## Accessories
 
-- [MCCI Waterproof commercial enclosure](http://mcci.io/model-4050-case) 
+- [MCCI weatherproof commercial enclosure](http://mcci.io/model-4050-case) 
 - [3D Printed Case for the Adafruit Feather](https://learn.adafruit.com/3d-printed-case-for-adafruit-feather/overview) - Adafruit tutorial for a 3D printed case.
 - [MCCI Feather-box](https://www.shapeways.com/shops/mcci-reg-iot-enclosures) - confgurable Feather Enclosure, design by Mike Doell, listed on Shapeways.
 - [AT Makers](https://www.thingiverse.com/thing:3212895) - Feather Snap Case (Thingiverse)
