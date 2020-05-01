@@ -261,6 +261,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Omron](https://www.omron.co.jp/ecb) | [2JCIE-EV01-FT1](https://www.omron.co.jp/ecb/sensor/evaluation-board/2jcie) | Temperature, humidity, ambient light, MEMS pressure/motion/microphone multisensor board for HUZZAH32 |
 | Silicognition | [PoE FeatherWing](https://www.crowdsupply.com/silicognition/poe-featherwing) | Wiz5500 Ethernet plus 4W Power over Ethernet |
 | [Glen Akins](https://twitter.com/bikerglen) | [DMX FeatherWing](https://bikerglen.com/blog/dmx-featherwing-light-controller/) | DMX interface wing |
+| José Miguel Sánchez García | [OrthoWing](https://github.com/jmi2k/OrthoWing) | A Feather-compatible keyboard, 5x12 Cherry MX layout |
 
 ## Accessories
 
