@@ -133,6 +133,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Gregory Davill | [Orange Crab](https://github.com/gregdavill/OrangeCrab/) | Lattice ECP5 FPGA |
 | [Electronic Cats](https://electroniccats.com/) | [BastWAN](https://electroniccats.com/blog/rak4260-el-microcontrolador-todo-en-uno-de-lora-ahora-en-arduino-ide) | Microchip SAM R34-based LoRa 868MHz and 915MHz and ATTEC608A security |
 | [Quicklogic](https://www.quicklogic.com/) | [QuickFeather](https://www.quicklogic.com/products/eos-s3/quickfeather-development-kit/) |  S3 Low Power MCU with embedded FPGA |
+| [MakerTronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino Feather SAMR34 LoRa Dev-Board](https://www.tindie.com/products/makertronika-labs/penguino-feather-samr34-lora-dev-board/) | ATSAMR34J18 System-in-Package (SiP) based MCU+LoRA RF module |
 
 ## FeatherWings
 
