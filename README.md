@@ -135,6 +135,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Quicklogic](https://www.quicklogic.com/) | [QuickFeather](https://www.quicklogic.com/products/eos-s3/quickfeather-development-kit/) |  S3 Low Power MCU with embedded FPGA |
 | [MakerTronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino Feather SAMR34 LoRa Dev-Board](https://www.tindie.com/products/makertronika-labs/penguino-feather-samr34-lora-dev-board/) | ATSAMR34J18 System-in-Package (SiP) based MCU+LoRA RF module |
 | Deshipu | [Fluff M0](https://hackaday.io/project/171381-fluff-m0) | A minimal SAMD21 M0 board in the Feather form factor |
+| [Jared Wolff](https://www.jaredwolff.com.com/) | [nRF9160 Feather](https://www.jaredwolff.com/store/nrf91-feather/) | nRF9160: ARM Cortex M33, modem, low power, Cellular data (LTE-M / NB-IoT), active GPS antenna support, onboard flash, high efficency power supply | 
 
 ## FeatherWings
 
@@ -246,8 +247,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Brian Lough | [Huzzah 32 Matrix FeatherWing](https://www.tindie.com/products/brianlough/huzzah-32-matrix-featherwing/) | Connect an Adafruit HUZZAH 32 Feather to an RGB LED matrix display |
 | Joey Castillo | [The E-Book FeatherWing](https://github.com/joeycastillo/The-Open-Book) | e-paper display and optional peripherals in an eReader form factor |
 | [Connected Future Labs](http://connectedfuturelabs.com/) | [Emotibit](https://www.emotibit.com/) | Multi-sensor board with SD Card |
-| Jared Wolff | [Particle Squared](https://groupgets.com/campaigns/614-particle-squared) | Temperature, humidity, organic compounds, and dust sensors |
-| Jared Wolff | [Air Quality Wing for Particle Mesh](https://store.groupgets.com/collections/frontpage/products/air-quality-wing-for-particle-mesh) | 'Wing with the Honeywell HPMA115S0 dust sensor and the AMS CCS811 organic compound and eC02 sensor | 
+| [Jared Wolff](https://www.jaredwolff.com) | [Air Quality Wing](https://store.groupgets.com/collections/frontpage/products/air-quality-wing-for-particle-mesh) | Supports the Honeywell HPMA115S0 dust sensor, AMS CCS811 eC02/TVOC and Silicon Labs Si7021 Temperature and Humidity Sensors  |
 | [Loop Research](https://www.tindie.com/stores/loopresearch/) | [PowerWing](https://www.tindie.com/products/loopresearch/powerwing-6-36v-power-supply-featherwing/) | Can power Feather devices, 5V up to 1A, from 6-36V |
 | Loop Research | [SwitchWing](https://www.tindie.com/products/loopresearch/switchwing-high-side-driver-featherwing-kit/) | Switch 5 to 28 volts at up to 20A |
 | [Maker Buoy](https://www.makerbuoy.com/) | [Maker Buoy](https://www.makerbuoy.com/products-1) | PCB for an Adafruit Feather M0 Basic + Ultimate GPS and an Iridium radio for GPS tracking |
