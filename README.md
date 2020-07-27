@@ -266,6 +266,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Glen Akins](https://twitter.com/bikerglen) | [DMX FeatherWing](https://bikerglen.com/blog/dmx-featherwing-light-controller/) | DMX 512 interface wing |
 | José Miguel Sánchez García | [OrthoWing](https://github.com/jmi2k/OrthoWing) | A Feather-compatible keyboard, 5x12 Cherry MX layout |
 | Thea Flowers | [Hostess FeatherWing](https://twitter.com/theavalkyrie/status/1261802769964363777?s=21) | USB Host with USB-A connector |
+| Lex Kravitz | [Feather ULN2003 Stepper Wing](https://hackaday.io/project/173995-feather-uln2003-stepper-wing) | ULN2003 stepper motor driver |
 
 ## Accessories
 
