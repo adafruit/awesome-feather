@@ -136,6 +136,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [MakerTronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino Feather SAMR34 LoRa Dev-Board](https://www.tindie.com/products/makertronika-labs/penguino-feather-samr34-lora-dev-board/) | ATSAMR34J18 System-in-Package (SiP) based MCU+LoRA RF module |
 | Deshipu | [Fluff M0](https://hackaday.io/project/171381-fluff-m0) | A minimal SAMD21 M0 board in the Feather form factor |
 | [Jared Wolff](https://www.jaredwolff.com.com/) | [nRF9160 Feather](https://www.jaredwolff.com/store/nrf91-feather/) | nRF9160: ARM Cortex M33, modem, low power, Cellular data (LTE-M / NB-IoT), active GPS antenna support, onboard flash, high efficency power supply | 
+| Unexpected Maker | [FeatherS2](https://unexpectedmaker.com/shop/feathers2-esp32-s2) | ESP32-S2, 8MB PSRAM, 16MB SPI Flash, WiFi, STEMMA QT |
 
 ## FeatherWings
 
