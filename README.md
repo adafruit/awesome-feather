@@ -269,6 +269,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Thea Flowers | [Hostess FeatherWing](https://twitter.com/theavalkyrie/status/1261802769964363777?s=21) | USB Host with USB-A connector |
 | Lex Kravitz | [Feather ULN2003 Stepper Wing](https://hackaday.io/project/173995-feather-uln2003-stepper-wing) | ULN2003 stepper motor driver |
 | Philippe Cadic | [RPi to Feather Adapter](https://github.com/ccadic/RPI_Feather) | A Raspberry Pi header to Feather pinout adapter board |
+| Solder Party | [Keyboard FeatherWing](https://www.tindie.com/products/arturo182/keyboard-featherwing-qwerty-keyboard-26-lcd/) | BlackBerry keyboard, 320x240 color LCD display, microSD, buttons |
 
 ## Accessories
 
