@@ -137,6 +137,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Deshipu | [Fluff M0](https://hackaday.io/project/171381-fluff-m0) | A minimal SAMD21 M0 board in the Feather form factor |
 | [Jared Wolff](https://www.jaredwolff.com.com/) | [nRF9160 Feather](https://www.jaredwolff.com/store/nrf91-feather/) | nRF9160: ARM Cortex M33, modem, low power, Cellular data (LTE-M / NB-IoT), active GPS antenna support, onboard flash, high efficency power supply | 
 | Unexpected Maker | [FeatherS2](https://unexpectedmaker.com/shop/feathers2-esp32-s2) | ESP32-S2, 8MB PSRAM, 16MB SPI Flash, WiFi, STEMMA QT |
+| Seth Kerr | [MSP432 Feather](https://github.com/skerr92/msp432-feather) | Feather using an MSP432P401R |
 
 ## FeatherWings
 
