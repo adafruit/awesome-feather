@@ -117,6 +117,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | MCCI | [Catena 4801](https://mcci.com/lorawan/products/catena-4801/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.02/1.1 865-923 MHz, RS-485/Modbus | 
 | MCCI | [Catena 4618](https://mcci.com/lorawan/products/catena-4618/) | Murata CMWX1ZZABZ-078. LoRaWAN 1.1 865-923 MHz, SHT31-DIS-F Temp/Humidity, Si1133 IR/light/UV sensor |
 | SparkFun | [ESP32 Thing Plus](https://www.sparkfun.com/products/14689) | Espressif ESP32 WROOM, WiFi, Bluetooth, Qwiic connector |
+| SparkFun | [ESP32 Thing Plus - ESP32WROOM (U.FL)](https://www.sparkfun.com/products/17381) | Espressif ESP32 WROOM, WiFi, Bluetooth, Qwiic connector, U.FL antenna connector |
 | SparkFun | [Thing Plus - SAMD51](https://www.sparkfun.com/products/14713) | SAMD51 in a Feather size board with Qwiic |
 | SparkFun | [Thing Plus - XBee3 Micro (U.FL)](https://www.sparkfun.com/products/15435) | XBee3 Micro Module (Zigbee 3.0) with Qwiic |
 | SparkFun | [Thing Plus - XBee3 Micro (Chip Antenna)](https://www.sparkfun.com/products/15454) | XBee3 Micro Module (Zigbee 3.0) with Qwiic |
