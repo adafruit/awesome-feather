@@ -276,6 +276,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Solder Party | [Keyboard FeatherWing](https://www.tindie.com/products/arturo182/keyboard-featherwing-qwerty-keyboard-26-lcd/) | BlackBerry keyboard, 320x240 color LCD display, microSD, buttons |
 | [DTRONIXS](https://www.tindie.com/stores/DTronixs/) | [Prototyping / Breadboard board for Adafruit Feather](https://zuzebox.wordpress.com/2020/08/30/a-prototyping-breadboard-board-for-adafruit-feather-modules/) | Prototyping: header, buttons, LEDs, breadboard area |
 | David Bershadsky and Alexander Kirillov | [RoverWing](https://www.crowdsupply.com/alexander-kirillov/roverwing) | Robotics Wing similar to Crickit, handles 6-12 volt motors |
+| [SK Pang](http://skpang.co.uk/catalog/) | [CAN-Bus FeatherWing for ESP32](http://skpang.co.uk/catalog/canbus-featherwing-for-esp32-p-1556.html) | CAN-Bus FeatherWing an ESP32 board. Uses the SN65HVD231 CAN transceiver with PESD1CAN ESD protection |
+
 
 ## Accessories
 
