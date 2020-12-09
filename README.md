@@ -280,7 +280,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Würth Elektronik](https://www.we-online.de/) | [Sensor FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/SensorFeatherWing) | 4-sensor FeatherWing with temperature, humidity, absolute pressure, 3-axis acceleration sensors |
 | [Würth Elektronik](https://www.we-online.de/) | [Thyone Wireless FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/ThyoneWirelessFeatherWing) | 2.4 GHz proprietary wireless connectivity with integrated secure element |
 | [Würth Elektronik](https://www.we-online.de/) | [Calypso Wi-Fi FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/CalypsoWiFiFeatherWing) | 2.4 GHz WiFi connectivity with support for SNTP, HTTP(S), MQTT(S) and cloud connectivity |
-| [Würth Elektronik](https://www.we-online.de/) | [MagPC Power FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/MagI3CPowerFeatherWing) | 5 V and 3.3 V power supply with a range of industrial input voltages (5 V, 9 V, 12 V, 15 V, 18 V and 24 V) |
+| [Würth Elektronik](https://www.we-online.de/) | [MagI³C Power FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/MagI3CPowerFeatherWing) | 5 V and 3.3 V power supply with a range of industrial input voltages (5 V, 9 V, 12 V, 15 V, 18 V and 24 V) |
 
 
 ## Accessories
