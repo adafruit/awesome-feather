@@ -277,6 +277,10 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [DTRONIXS](https://www.tindie.com/stores/DTronixs/) | [Prototyping / Breadboard board for Adafruit Feather](https://zuzebox.wordpress.com/2020/08/30/a-prototyping-breadboard-board-for-adafruit-feather-modules/) | Prototyping: header, buttons, LEDs, breadboard area |
 | David Bershadsky and Alexander Kirillov | [RoverWing](https://www.crowdsupply.com/alexander-kirillov/roverwing) | Robotics Wing similar to Crickit, handles 6-12 volt motors |
 | [SK Pang](http://skpang.co.uk/catalog/) | [CAN-Bus FeatherWing for ESP32](http://skpang.co.uk/catalog/canbus-featherwing-for-esp32-p-1556.html) | CAN-Bus FeatherWing for an ESP32 Feather. Uses the SN65HVD231 CAN transceiver with PESD1CAN ESD protection |
+| [Würth Elektronik](https://www.we-online.de/) | [Sensor FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/SensorFeatherWing) | 4-sensor FeatherWing with temperature, humidity, absolute pressure, 3-axis acceleration sensors |
+| [Würth Elektronik](https://www.we-online.de/) | [Thyone Wireless FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/ThyoneWirelessFeatherWing) | 2.4 GHz proprietary wireless connectivity with integrated secure element |
+| [Würth Elektronik](https://www.we-online.de/) | [Calypso Wi-Fi FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/CalypsoWiFiFeatherWing) | 2.4 GHz WiFi connectivity with support for SNTP, HTTP(S), MQTT(S) and cloud connectivity |
+| [Würth Elektronik](https://www.we-online.de/) | [MagPC Power FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/MagI3CPowerFeatherWing) | 5 V and 3.3 V power supply with a range of industrial input voltages (5 V, 9 V, 12 V, 15 V, 18 V and 24 V) |
 
 
 ## Accessories
