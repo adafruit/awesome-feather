@@ -141,6 +141,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Unexpected Maker | [FeatherS2](https://unexpectedmaker.com/shop/feathers2-esp32-s2) | ESP32-S2, 8MB PSRAM, 16MB SPI Flash, WiFi, STEMMA QT |
 | Seth Kerr | [MSP432 Feather](https://github.com/skerr92/msp432-feather) | Feather using an MSP432P401R |
 | PCB Arts | [Zynq Feather](https://www.pcb-arts.com/en/zynq_feather) | Zync systemn on chip in Feather form factor |
+| [Reclaimer Labs](https://www.reclaimerlabs.com/) | [STM32WB Feather Board](https://www.reclaimerlabs.com/stm32wb-feather) | STM32WB Bluetooth SoC |
 
 ## FeatherWings
 
