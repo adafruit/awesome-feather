@@ -142,6 +142,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Seth Kerr | [MSP432 Feather](https://github.com/skerr92/msp432-feather) | Feather using an MSP432P401R |
 | PCB Arts | [Zynq Feather](https://www.pcb-arts.com/en/zynq_feather) | Zync systemn on chip in Feather form factor |
 | [Reclaimer Labs](https://www.reclaimerlabs.com/) | [STM32WB Feather](https://www.reclaimerlabs.com/stm32wb-feather) | STM32WB Bluetooth SoC |
+| [QuickLogic Corp.](https://www.quicklogic.com/) | [QuickFeather Dev Kit](https://shop.quicklogic.com/product/quickfeather-development-kit-uart-cable/) | The QuickFeather is powered by QuickLogic’s EOS™ S3, the first FPGA-enabled Arm Cortex®-M4F MCU to be fully supported with Zephyr RTOS. Other functionality includes GigaDevice 16-Mbit of flash memory #GD25Q16CEIGR, mCube MC3635 accelerometer, Infineon DPS310 pressure sensor, Infineon IM69D130 PDM digital microphone, Powered from USB or a single Li-Po battery, Integrated battery charger, USB data signals tied to programmable logic. |
 
 ## FeatherWings
 
@@ -282,7 +283,6 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Würth Elektronik](https://www.we-online.de/katalog/de/THYONE-I_FEATHERWING) | [Thyone Wireless FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/ThyoneWirelessFeatherWing) | 2.4 GHz proprietary wireless connectivity with integrated secure element |
 | [Würth Elektronik](https://www.we-online.de/catalog/de/CALYPSO_FEATHERWING) | [Calypso Wi-Fi FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/CalypsoWiFiFeatherWing) | 2.4 GHz WiFi connectivity with support for SNTP, HTTP(S), MQTT(S) and cloud connectivity |
 | [Würth Elektronik](https://www.we-online.de/katalog/de/pm) | [MagI³C Power FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/MagI3CPowerFeatherWing) | 5 V and 3.3 V power supply with a range of industrial input voltages (5 V, 9 V, 12 V, 15 V, 18 V and 24 V) |
-
 
 ## Accessories
 
