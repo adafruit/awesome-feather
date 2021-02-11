@@ -121,6 +121,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SparkFun | [Thing Plus - SAMD51](https://www.sparkfun.com/products/14713) | SAMD51 in a Feather size board with Qwiic |
 | SparkFun | [Thing Plus - XBee3 Micro (U.FL)](https://www.sparkfun.com/products/15435) | XBee3 Micro Module (Zigbee 3.0) with Qwiic |
 | SparkFun | [Thing Plus - XBee3 Micro (Chip Antenna)](https://www.sparkfun.com/products/15454) | XBee3 Micro Module (Zigbee 3.0) with Qwiic |
+| SparkFun | [SparkFun Thing Plus - RP2040](https://www.sparkfun.com/products/17745) | RP2040 Microcontroller, 16MB Flash memory, SD card slot, Qwiic connector |
 | SparkFun | [RED-V Thing Plus](https://www.sparkfun.com/products/15799) | SiFive RISC-V FE310 SoC with Qwiic connector and USB C |
 | SparkFun | [SparkFun LoRa Thing Plus - expLoRaBLE](https://www.sparkfun.com/products/17506) | A Semtech SX1262 LoRa module paired with the Apollo3 MCU, used in the Artemis Module, Qwiic Connector |
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
