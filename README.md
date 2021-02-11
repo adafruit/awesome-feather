@@ -88,6 +88,7 @@ Setup of Arduino for:
 | [Adafruit Feather nRF52832 Pro with myNewt Bootloader](https://www.adafruit.com/product/3574) | Bluetooth support | 512 KB | 64 KB |  | 64 MHz | - | Yes | BTLE |
 | [Adafruit Feather nRF52840 Express](https://www.adafruit.com/product/4062) | Bluetooth support | 1 MB  | 256 KB | - | 64 MHz | Yes | Yes | BTLE |
 | [Adafruit Feather nRF52840 Sense](https://www.adafruit.com/product/4516) | Bluetooth + Sensors | 1 MB  | 256 KB | - | 64 MHz | Yes | Yes | BTLE |
+| [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) | RP2040 chip | - | 264KB | 4MB | 125 MHz | Yes | Soon | - |
 | [Adafruit M0 Express](https://www.adafruit.com/product/3403) | 1.44" display, sensors, amp | 256 KB | 32 KB | 2 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit HalloWing M0 Express](https://www.adafruit.com/product/3900) | 1.44" display, sensors, amp | 256 KB | 32 KB | 8 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
