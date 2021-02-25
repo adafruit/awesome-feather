@@ -288,6 +288,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Würth Elektronik](https://www.we-online.de/katalog/de/pm) | [MagI³C Power FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/MagI3CPowerFeatherWing) | 5 V and 3.3 V power supply with a range of industrial input voltages (5 V, 9 V, 12 V, 15 V, 18 V and 24 V) |
 | [tinyledmatrix](https://twitter.com/tinyledmatrix)| [NeoPixel_HD Feather Wing](https://hackaday.io/project/168448-neopixelhd-feather-wing) | High density neoPixel RGB-Matrix using 198 neoPixels |
 | Spudworks | [DynaFeather](https://www.tindie.com/products/spudworks/dynafeather/) | Connect to Dynamixel brand smart servo motors with power |
+| [Glen Akins](https://twitter.com/bikerglen) | [Sushi FeatherWing](https://github.com/bikerglen/sushi-featherwing) | The Sushi FeatherWing is a board to inteface the Adafruit HUZZAH ESP32 Feather to the slim 640x48 LCDs found in the various dragon, wizard, and fairy magic wand toys. |
 
 ## Accessories
 
