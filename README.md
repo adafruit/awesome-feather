@@ -298,6 +298,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 - [MCCI Feather-box](https://www.shapeways.com/shops/mcci-reg-iot-enclosures) - confgurable Feather Enclosure, design by Mike Doell, listed on Shapeways.
 - [AT Makers](https://www.thingiverse.com/thing:3212895) - Feather Snap Case (Thingiverse)
 - [AdLab](https://www.thingiverse.com/thing:1367270) - Simple Feather Case (Thingiverse)
+- [3D Printed Case for Keyboard Featherwing](https://www.thingiverse.com/thing:4726225) - by masterjoseph (Thingiverse)
 - [Adafruit Feather Tripler Enclosure](https://www.thingiverse.com/thing:3147564) - by mohit (Thingiverse)
 - [Adafruit Feather mountable case](https://www.thingiverse.com/thing:2591165) | - by cschmitz81 (Thingiverse)
 - [Adafruit Huzzah Feather Case](https://www.thingiverse.com/thing:2627086) - by peeter123 (Thingiverse)
