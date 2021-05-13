@@ -130,6 +130,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SparkFun | [RED-V Thing Plus](https://www.sparkfun.com/products/15799) | SiFive RISC-V FE310 SoC with Qwiic connector and USB C |
 | SparkFun | [SparkFun LoRa Thing Plus - expLoRaBLE](https://www.sparkfun.com/products/17506) | A Semtech SX1262 LoRa module paired with the Apollo3 MCU, used in the Artemis Module, Qwiic Connector |
 | SparkFun | [SparkFun Thing Plus - nRF9160](https://www.sparkfun.com/products/17354) | Nordic nRF9160 microcontroller, CAT M1 LTE and NB-IoT cellular communication, Qwiic Connector |
+| SparkFun | [SparkFun Thing Plus - STM32](https://www.sparkfun.com/products/17712) | STM32F405 Processor with a 32-bit ARM Cortex®-M4 core, Qwiic connector |
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
 | Ingenuity | [Micro Kea](http://www.ingenuity.co.nz/) | STM32F411 plus flash and ESP32 Pico-D-4 |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [TinyLoRa SAMR34 LoRA](https://www.tindie.com/products/makertronika-labs/tinylora-samr34-based-lora-devboard/) | ATSAMR34J18 based LoRA DevBoard |
