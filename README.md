@@ -297,6 +297,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [tinyledmatrix](https://twitter.com/tinyledmatrix)| [NeoPixel_HD Feather Wing](https://hackaday.io/project/168448-neopixelhd-feather-wing) | High density neoPixel RGB-Matrix using 198 neoPixels |
 | Spudworks | [DynaFeather](https://www.tindie.com/products/spudworks/dynafeather/) | Connect to Dynamixel brand smart servo motors with power |
 | [Glen Akins](https://twitter.com/bikerglen) | [Sushi FeatherWing](https://github.com/bikerglen/sushi-featherwing) | The Sushi FeatherWing is a board to inteface the Adafruit HUZZAH ESP32 Feather to the slim 640x48 LCDs found in the various dragon, wizard, and fairy magic wand toys. |
+| Blues Wireless | [Feather Starter Kit](https://shop.blues.io/products/feather-starter-kit) | Feather to Quectel cellular modem, Integrated GPS and Accelerometer |
 
 ## Accessories
 
