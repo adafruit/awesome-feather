@@ -152,7 +152,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Seth Kerr | [MSP432 Feather](https://github.com/skerr92/msp432-feather) | Feather using an MSP432P401R |
 | PCB Arts | [Zynq Feather](https://www.pcb-arts.com/en/zynq_feather) | Zync systemn on chip in Feather form factor |
 | [Reclaimer Labs](https://www.reclaimerlabs.com/) | [STM32WB Feather](https://www.reclaimerlabs.com/stm32wb-feather) | STM32WB Bluetooth SoC |
-| [QuickLogic Corp.](https://www.quicklogic.com/) | [QuickFeather Dev Kit](https://shop.quicklogic.com/product/quickfeather-development-kit-uart-cable/) | The QuickFeather is powered by QuickLogic’s EOS™ S3, the first FPGA-enabled Arm Cortex®-M4F MCU to be fully supported with Zephyr RTOS. Other functionality includes GigaDevice 16-Mbit of flash memory #GD25Q16CEIGR, mCube MC3635 accelerometer, Infineon DPS310 pressure sensor, Infineon IM69D130 PDM digital microphone, Powered from USB or a single Li-Po battery, Integrated battery charger, USB data signals tied to programmable logic. |
+| [QuickLogic Corp.](https://www.quicklogic.com/) | [QuickFeather Dev Kit](https://shop.quicklogic.com/product/quickfeather-development-kit-uart-cable/) | Powered by QuickLogic’s EOS™ S3, the first FPGA-enabled Arm Cortex®-M4F MCU, fully supports Zephyr RTOS. 16-Mbit of flash memory, mCube MC3635 accelerometer, Infineon DPS310 pressure sensor, Infineon IM69D130 PDM digital microphone |
+| Invector Labs | [Challenger Model 2040](https://www.instagram.com/p/CQ-Sy7Vlw_C/) | RP2040, ESP8285 WiFi, USB-C connector |
 
 ## FeatherWings
 
