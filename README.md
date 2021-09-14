@@ -136,7 +136,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
 | Ingenuity | [Micro Kea](http://www.ingenuity.co.nz/) | STM32F411 plus flash and ESP32 Pico-D-4 |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [TinyLoRa SAMR34 LoRA](https://www.tindie.com/products/makertronika-labs/tinylora-samr34-based-lora-devboard/) | ATSAMR34J18 based LoRA DevBoard |
-| [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino Feather 4260](https://www.tindie.com/products/makertronika-labs/penguino-feather-4260-samr34-lora-dev-board/) | ATSAMR34J18 based LoRA DevBoard - uses the RAK4260 module from @RAKWireless |
+| [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino Feather 4260](https://www.tindie.com/products/makertronika-labs/penguino-feather-4260-samr34-lora-dev-board/) | ATSAMR34J18 based LoRa DevBoard - uses the RAK4260 module from @RAKWireless |
+| [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino STM32WL MAMWLE-C1](https://www.tindie.com/products/makertronika-labs/penguino-stm32wl-mamwle-c1-lora-dev-board/) | STM32WLE5JC Wireless SoC based LoRa DevBoard |
 | [Actinius](https://www.actinius.com/) | [Icarus IoT Board](https://www.actinius.com/icarus) | nRF91: ARM Cortex M33, modem, low power, GPS and Cellular data (LTE-M / NB-IoT), accelerometer | 
 | [Seeed](https://www.seeedstudio.com/) | [Wio Lite W600](https://www.seeedstudio.com/Wio-Lite-W600-p-4155.html) | W600 module and SAMD21, WiFi, Arduino compatible |
 | [Seeed](https://www.seeedstudio.com/) | [Wio Lite RISC-V (GD32VF103) with ESP8266](https://www.seeedstudio.com/Wio-Lite-RISC-V-GD32VF103-p-4293.html) | RISC-V development board with RISC-V GD32VF103 and onboard ESP8266 Wio Core |
