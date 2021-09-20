@@ -131,7 +131,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SparkFun | [SparkFun LoRa Thing Plus - expLoRaBLE](https://www.sparkfun.com/products/17506) | A Semtech SX1262 LoRa module paired with the Apollo3 MCU, used in the Artemis Module, Qwiic Connector |
 | SparkFun | [SparkFun Thing Plus - nRF9160](https://www.sparkfun.com/products/17354) | Nordic nRF9160 microcontroller, CAT M1 LTE and NB-IoT cellular communication, Qwiic Connector |
 | SparkFun | [SparkFun Thing Plus - STM32](https://www.sparkfun.com/products/17712) | STM32F405 Processor with a 32-bit ARM Cortex®-M4 core, Qwiic connector |
-| SparkFun / QuickLogic | [SparkFun Thing Plus - QuickLogic EOS S3](https://www.crowdsupply.com/sparkfun/thing-plus-quicklogic-eos-s3) | EOS S3 MCU + eFPGA SoC, LIS2DH12TR & PDM mic |
+| SparkFun | [MicroMod Thing Plus](https://www.crowdsupply.com/sparkfun/thing-plus-quicklogic-eos-s3) | Feather form factor MicroMod CPU board with USB-C and Qwiic port |
+| SparkFun / QuickLogic | [SparkFun Thing Plus - QuickLogic EOS S3](https://www.sparkfun.com/products/18027) | EOS S3 MCU + eFPGA SoC, LIS2DH12TR & PDM mic |
 | [Quicklogic](https://www.quicklogic.com/) | [QuickFeather](https://www.quicklogic.com/products/eos-s3/quickfeather-development-kit/) | S3 Low Power MCU with embedded FPGA |
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
 | Ingenuity | [Micro Kea](http://www.ingenuity.co.nz/) | STM32F411 plus flash and ESP32 Pico-D-4 |
