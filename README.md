@@ -159,6 +159,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [QuickLogic Corp.](https://www.quicklogic.com/) | [QuickFeather Dev Kit](https://shop.quicklogic.com/product/quickfeather-development-kit-uart-cable/) | Powered by QuickLogic’s EOS™ S3, the first FPGA-enabled Arm Cortex®-M4F MCU, fully supports Zephyr RTOS. 16-Mbit of flash memory, mCube MC3635 accelerometer, Infineon DPS310 pressure sensor, Infineon IM69D130 PDM digital microphone |
 | Invector Labs | [Challenger Model 2040](https://site.invector.se/produkt/challenger-2040/) | RP2040, ESP8285 WiFi, USB-C connector |
 | Move Solutions | [Penguino – MAMWLExx Breakout Board](https://www.movesolutions.it/2021/04/09/mamwlexx-breakout-board/) | STM32WLE5JB SoC, SX1262 RF Transceiver 150-960 MHz, LoRa (G)FSK, (G)MSK, BPSK |
+| [Melopero](https://www.melopero.com/) | [Shake RP2040](https://www.melopero.com/shop/development-boards/melopero-shake-rp2040/) | RP2040 uC, 16MB Flash, Qwiic/Stemma QT |
 
 ## FeatherWings
 
@@ -362,4 +363,4 @@ Contributions and suggestions are always welcome! Please make pull requests to m
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Updated September 21, 2021
+Updated October 15, 2021
