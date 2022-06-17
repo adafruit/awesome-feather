@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="853" src="https://github.com/adafruit/awesome-feather/blob/master/awesome_feather.png" alt="Awesome Feather"><br>Awesome Feather
+  <img width="853" src="https://github.com/adafruit/awesome-feather/blob/main/awesome_feather.png" alt="Awesome Feather"><br>Awesome Feather
 </h1>
 
 > A curated list of awesome Feather boards, add-ons (FeatherWings), guides, videos, software and resources.
