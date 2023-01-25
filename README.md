@@ -82,9 +82,9 @@ Setup of Adafruit Feather boards:
 | [Adafruit ESP32-S2 Feather](https://www.adafruit.com/product/5000) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT |
 | [Adafruit ESP32-S2 Feather with BME280 Sensor](https://www.adafruit.com/product/5303) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT, Sensor |
 | [Adafruit ESP32-S2 TFT Feather](https://www.adafruit.com/product/5300) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT, Display |
-| [Adafruit ESP32-S3 Feather (No PSRAM)](https://www.adafruit.com/product/5323) | WiFi and Bluetooth | 8MB | None | - | 240 MHz | - | Yes | WiFi, Bluetooth, STEMMA QT |
-| [Adafruit ESP32-S3 Feather](https://www.adafruit.com/product/5477) | WiFi and Bluetooth | 8MB | 2MB | - | 240 MHz | - | Yes | WiFi, Bluetooth, STEMMA QT |
-| [Adafruit ESP32-S3 TFT Feather](https://www.adafruit.com/product/5483) | WiFi and Bluetooth | 4MB | 2MB | - | 240 MHz | - | Yes | WiFi, Bluetooth, STEMMA QT, Display |
+| [Adafruit ESP32-S3 Feather (No PSRAM)](https://www.adafruit.com/product/5323) | WiFi and Bluetooth | 8MB | None | - | 240 MHz | Yes | Yes | WiFi, Bluetooth, STEMMA QT |
+| [Adafruit ESP32-S3 Feather](https://www.adafruit.com/product/5477) | WiFi and Bluetooth | 8MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, Bluetooth, STEMMA QT |
+| [Adafruit ESP32-S3 TFT Feather](https://www.adafruit.com/product/5483) | WiFi and Bluetooth | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, Bluetooth, STEMMA QT, Display |
 | [Adafruit Feather M0 Basic Proto](https://www.adafruit.com/product/2772) | Built-in protoboard | 256 KB | 32 KB | - | 48 MHz | Reduced  | Yes | - |
 | [Adafruit Feather M0 Adalogger](https://www.adafruit.com/product/2796) | SD card support | 256 KB | 32 KB | - | 48 MHz | Reduced | Yes | - |
 | [Adafruit Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995) | Bluetooth support | 256 KB | 32 KB | - | 48 MHz | Reduced  | Yes | BTLE |
