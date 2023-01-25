@@ -201,6 +201,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Adafruit 8-Channel PWM or Servo FeatherWing Add-on](https://www.adafruit.com/product/2928) | 8 x 12-bit PWM outputs |
 | [Adafruit AMG8833 IR Thermal Camera FeatherWing](https://www.adafruit.com/product/3622) | Panasonic AMG8833 8x8 GridEYE sensor |
 | [Adafruit LSM6DSOX + LIS3MDL FeatherWing](https://www.adafruit.com/product/4565) | Precision 9-DoF IMU |
+| [Adafruit ISM330DHCX + LIS3MDL FeatherWing](https://www.adafruit.com/product/4569) | Precision 9-DoF IMU |
 | [Adafruit ADXL343 + ADT7410 Sensor FeatherWing](https://www.adafruit.com/product/4147) | Motion and precision temperature sensing |
 | [Adafruit Joy FeatherWing](https://www.adafruit.com/product/3632) | 2-axis joystick, 5 momentary button controller |
 | [DS3231 Precision RTC FeatherWing - RTC Add-on](https://www.adafruit.com/product/3028) | I2C-integrated Real Time Clock (RTC) |
@@ -220,6 +221,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Adafruit 2.9" Grayscale eInk / ePaper Display FeatherWing](https://www.adafruit.com/product/4777) | 296x128 pixels, 4 shades of grey |
 | [Adafruit 2.9" Tri-Color eInk / ePaper Display FeatherWing](https://www.adafruit.com/product/4778) | 296x128 IL0373 - Red Black White |
 | [Adafruit 2.13" HD Tri-Color eInk / ePaper Display FeatherWing](https://www.adafruit.com/product/4814) | 250x122 RW Panel with SSD1680 |
+| [Adafruit 2.13" Tri-Color eInk / ePaper Display FeatherWing](https://www.adafruit.com/product/4128) | 212 x 104 pixels - Z16 Panel |
 | [Adafruit 2.13" Monochrome eInk / ePaper Display FeatherWing](https://www.adafruit.com/product/4195) | 250x122 Monochrome with SSD1680 |
 | [Adafruit NeoPixel FeatherWing - 4x8 RGB LED](https://www.adafruit.com/product/2945) | 4x8 matrix of RGB NeoPixels |
 | [Adafruit DotStar FeatherWing - 6x12](https://www.adafruit.com/product/3449) | 6 x 12 RGB DotStar LEDs |
@@ -262,6 +264,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Particle | [Ethernet FeatherWing](https://www.adafruit.com/product/4003) | Ethernet with two Feather slots |
 | Particle | [Particle Classic Adapter](https://store.particle.io/) | Use classic Photon accessories with Feather Footprint |
 | Seeed | [Grove Shield for Particle Mesh](https://www.seeedstudio.com/Grove-Shield-for-Particle-Mesh-p-4080.html) | Large FeatherWing with eight Grove sensor connections |
+| Seeed | [Grove Shield FeatherWing - Wio Lite](https://www.adafruit.com/product/4357) | 10 Grove Connectors |
 | davedarko | [USB Host FeatherWing](https://hackaday.io/project/161845-max3421e-featherwing) | USB Host add-on for MAX3421E |
 | armin.von_collrepp | [CAN Bus FeatherWing](https://easyeda.com/armin.von_collrepp/Adafruit_CAN_FeatherWing-0YRL3lfxP) | MCP2515 based CAN controller with an 3.3V CAN transceiver |
 | [Argo](https://twitter.com/olygineer) | [CANbus FeatherWing](https://twitter.com/olygineer/status/1146133929235308544) | CAN Bus, regulated DC in, I2C STEMMA/Grove/Qwiic connection |
