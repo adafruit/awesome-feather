@@ -45,7 +45,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 
 - [circuitpython.org](https://circuitpython.org/) - home to information on CircuitPython.
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
-- [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The documentation for Mu.
+- [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The developer's documentation for Mu.
 - [CircuitPython (latest)](https://github.com/adafruit/circuitpython/releases/latest)
 - [CircuitPython 7.0.0](https://blog.adafruit.com/2021/09/20/circuitpython-7-0-0-released/) 
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
