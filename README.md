@@ -160,6 +160,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Invector Labs | [Challenger Model 2040](https://site.invector.se/produkt/challenger-2040/) | RP2040, ESP8285 WiFi, USB-C connector |
 | Move Solutions | [Penguino – MAMWLExx Breakout Board](https://www.movesolutions.it/2021/04/09/mamwlexx-breakout-board/) | STM32WLE5JB SoC, SX1262 RF Transceiver 150-960 MHz, LoRa (G)FSK, (G)MSK, BPSK |
 | [Melopero](https://www.melopero.com/) | [Shake RP2040](https://www.melopero.com/shop/development-boards/melopero-shake-rp2040/) | RP2040 uC, 16MB Flash, Qwiic/Stemma QT |
+| [ThingPulse](https://thingpulse.com/) | [ePulse Feather](https://thingpulse.com/product/epulse-feather-low-power-esp32-development-board/) | ESP32, 8MB PSRAM, 8MB Flash. Low Power |
 
 ## FeatherWings
 
