@@ -357,6 +357,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 ## News
 
+- [The Best RP2040 Boards of 2022 – Buyer’s Guide](https://all3dp.com/2/rp2040-board-buyers-guide/), October 9, 2022
 - [Freedom Wing Adapter](https://blog.adafruit.com/2020/01/31/freedom-wing-adapter-adapter-allows-power-wheelchairs-to-control-an-xbox-ablegamers-at_makers-soeveryonecangame-feather/), Adafruit blog, January 31, 2020
 - Freedom Wing interfaces wheelchair joysticks to Xbox - [Hackster.io](https://www.hackster.io/news/you-can-now-use-your-power-wheelchair-as-an-xbox-controller-0aa52acd82eb), [Engadget](https://www.engadget.com/2020/02/02/adapter-turns-wheelchair-into-xbox-controller/), [MAKE](https://makezine.com/2020/02/03/connect-power-wheel-chairs-directly-to-game-consoles-with-the-freedom-wing/)
 - [The 2019 Take Flight with Feather Contest](https://hackaday.io/contest/168107-take-flight-with-feather) - sponsored by Hackaday, Digi-Key, and Adafruit which sought manufacturable boards in several categories. [Here are the winners]( https://hackaday.com/2020/01/22/winners-of-the-take-flight-with-feather-contest/).
