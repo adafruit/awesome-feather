@@ -50,17 +50,20 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 - [CircuitPython 7.0.0](https://blog.adafruit.com/2021/09/20/circuitpython-7-0-0-released/) 
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
-- [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 330+ libraries available.
+- [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 400 libraries available.
 
 ### Arduino
 
-Setup of Arduino for:
+Setup of Adafruit Feather boards:
 
-- [Feather 328P](https://learn.adafruit.com/adafruit-feather-328p-atmega328-atmega328p/arduino-ide-setup)
-- [Feather 32u4 Boards](https://learn.adafruit.com/adafruit-feather-m0-basic-proto/setup)
-- [Feather M0 Boards](https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython/arduino-ide-setup)
-- [Feather M4](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/setup)
-- [Feather nRF52832 and 40](https://learn.adafruit.com/introducing-the-adafruit-nrf52840-feather/arduino-bsp-setup)
+- [Adafruit Feather 328P](https://learn.adafruit.com/adafruit-feather-328p-atmega328-atmega328p/arduino-ide-setup)
+- [Adafruit Feather 32u4 Boards](https://learn.adafruit.com/adafruit-feather-m0-basic-proto/setup)
+- [Adafruit Feather M0 Boards](https://learn.adafruit.com/adafruit-metro-m0-express-designed-for-circuitpython/arduino-ide-setup)
+- [Adafruit Feather M4](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/setup)
+- [Adafruit Feather nRF52832 and 40](https://learn.adafruit.com/introducing-the-adafruit-nrf52840-feather/arduino-bsp-setup)
+- [Adafruit Feather S2](https://learn.adafruit.com/adafruit-esp32-s2-feather/arduino-ide-setup)
+- [Adafruit Feather S3](https://learn.adafruit.com/adafruit-esp32-s3-feather/arduino-ide-setup)
+- [Adafruit RP2040 Boards](https://learn.adafruit.com/adafruit-feather-rp2040-pico/arduino-ide-setup)
 
 ## Feather Hardware
 
@@ -76,6 +79,12 @@ Setup of Arduino for:
 | [Adafruit Feather HUZZAH with ESP8266](https://www.adafruit.com/product/2821) | WiFi support | 4 MB | 32KB 80KB | - | 80 MHz | - | Yes | WiFi |
 | [Adafruit Feather HUZZAH32 with ESP32](https://www.adafruit.com/product/3405) | WiFi and Bluetooth | 4 MB | 520 KB | - | 240 MHz | - | Yes | WiFi / BTLE |
 | [Adafruit ESP32 Feather V2](https://www.adafruit.com/product/5400) | WiFi and Bluetooth | 8MB | 2MB | - | 240 MHz | - | Yes | WiFi, Bluetooth, STEMMA QT, Low Power |
+| [Adafruit ESP32-S2 Feather](https://www.adafruit.com/product/5000) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT |
+| [Adafruit ESP32-S2 Feather with BME280 Sensor](https://www.adafruit.com/product/5303) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT, Sensor |
+| [Adafruit ESP32-S2 TFT Feather](https://www.adafruit.com/product/5300) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT, Display |
+| [Adafruit ESP32-S3 Feather (No PSRAM)](https://www.adafruit.com/product/5323) | WiFi and Bluetooth | 8MB | None | - | 240 MHz | - | Yes | WiFi, Bluetooth, STEMMA QT |
+| [Adafruit ESP32-S3 Feather](https://www.adafruit.com/product/5477) | WiFi and Bluetooth | 8MB | 2MB | - | 240 MHz | - | Yes | WiFi, Bluetooth, STEMMA QT |
+| [Adafruit ESP32-S3 TFT Feather](https://www.adafruit.com/product/5483) | WiFi and Bluetooth | 4MB | 2MB | - | 240 MHz | - | Yes | WiFi, Bluetooth, STEMMA QT, Display |
 | [Adafruit Feather M0 Basic Proto](https://www.adafruit.com/product/2772) | Built-in protoboard | 256 KB | 32 KB | - | 48 MHz | Reduced  | Yes | - |
 | [Adafruit Feather M0 Adalogger](https://www.adafruit.com/product/2796) | SD card support | 256 KB | 32 KB | - | 48 MHz | Reduced | Yes | - |
 | [Adafruit Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995) | Bluetooth support | 256 KB | 32 KB | - | 48 MHz | Reduced  | Yes | BTLE |
