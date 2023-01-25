@@ -201,6 +201,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Adafruit 8-Channel PWM or Servo FeatherWing Add-on](https://www.adafruit.com/product/2928) | 8 x 12-bit PWM outputs |
 | [Adafruit AMG8833 IR Thermal Camera FeatherWing](https://www.adafruit.com/product/3622) | Panasonic AMG8833 8x8 GridEYE sensor |
 | [Adafruit LSM6DSOX + LIS3MDL FeatherWing](https://www.adafruit.com/product/4565) | Precision 9-DoF IMU |
+| [Adafruit ADXL343 + ADT7410 Sensor FeatherWing](https://www.adafruit.com/product/4147) | Motion and precision temperature sensing |
 | [Adafruit Joy FeatherWing](https://www.adafruit.com/product/3632) | 2-axis joystick, 5 momentary button controller |
 | [DS3231 Precision RTC FeatherWing - RTC Add-on](https://www.adafruit.com/product/3028) | I2C-integrated Real Time Clock (RTC) |
 | [Adalogger FeatherWing - RTC + SD Add-on](https://www.adafruit.com/product/2922) | Adds a SD card slot and real-time clock |
@@ -217,10 +218,15 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Adafruit TFT FeatherWing](https://www.adafruit.com/product/3315) | LCD 320x200 2.4" with touchscreen |
 | [Adafruit TFT FeatherWing](https://www.adafruit.com/product/3651) | LCD 480x320 3.5" with touchscreen |
 | [Adafruit 2.9" Grayscale eInk / ePaper Display FeatherWing](https://www.adafruit.com/product/4777) | 296x128 pixels, 4 shades of grey |
+| [Adafruit 2.9" Tri-Color eInk / ePaper Display FeatherWing](https://www.adafruit.com/product/4778) | 296x128 IL0373 - Red Black White |
+| [Adafruit 2.13" HD Tri-Color eInk / ePaper Display FeatherWing](https://www.adafruit.com/product/4814) | 250x122 RW Panel with SSD1680 |
+| [Adafruit 2.13" Monochrome eInk / ePaper Display FeatherWing](https://www.adafruit.com/product/4195) | 250x122 Monochrome with SSD1680 |
 | [Adafruit NeoPixel FeatherWing - 4x8 RGB LED](https://www.adafruit.com/product/2945) | 4x8 matrix of RGB NeoPixels |
 | [Adafruit DotStar FeatherWing - 6x12](https://www.adafruit.com/product/3449) | 6 x 12 RGB DotStar LEDs |
 | [Adafruit RGB Matrix Featherwing Kit](https://www.adafruit.com/product/3036) | For M0 or M4, drive 16 or 32-pixel tall matrix boards |
-| [Adafruit NeoPXL8 FeatherWing for Feather M0](https://www.adafruit.com/product/3249) | DMA 8 strands of NeoPixels concurrently (8x250) | 
+| [Adafruit RGB Matrix FeatherWing Kit - For nRF52840 Feathers](https://www.adafruit.com/product/4702) | For nRF52840 Feathers |
+| [Adafruit NeoPXL8 FeatherWing for Feather M0](https://www.adafruit.com/product/3249) | DMA 8 strands of NeoPixels concurrently (8x250) |
+| [Adafruit NeoPXL8 FeatherWing for Feather M4](https://www.adafruit.com/product/4537) | 8 x DMA NeoPixels |
 | [Adafruit 15x7 CharliePlex LED Matrix Display - Red](https://www.adafruit.com/product/3134) | Red LEDs in a 15x7 matrix |
 | [Adafruit 15x7 CharliePlex LED Matrix Display - Green](https://www.adafruit.com/product/3136) | Green LEDs in a 15x7 matrix |
 | [Adafruit 15x7 CharliePlex LED Matrix Display - Blue](https://www.adafruit.com/product/3137) | Blue LEDs in a 15x7 matrix |
@@ -325,6 +331,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Spudworks | [DynaFeather](https://www.tindie.com/products/spudworks/dynafeather/) | Connect to Dynamixel brand smart servo motors with power |
 | [Glen Akins](https://twitter.com/bikerglen) | [Sushi FeatherWing](https://github.com/bikerglen/sushi-featherwing) | The Sushi FeatherWing is a board to inteface the Adafruit HUZZAH ESP32 Feather to the slim 640x48 LCDs found in the various dragon, wizard, and fairy magic wand toys. |
 | Blues Wireless | [Feather Starter Kit](https://shop.blues.io/products/feather-starter-kit) | Feather to Quectel cellular modem, Integrated GPS and Accelerometer |
+| Oddly Specific Objects | [LCD FeatherWing](https://www.adafruit.com/product/5581) | I²C-driven LCD display |
+| Binho | [Feather / Stemma QT Interface Board](https://www.adafruit.com/product/4461) | Interface a Binho Nova host adapter with any Feather form-factor device. I2C, SPI, and UART interfaces |
 
 ## Accessories
 
