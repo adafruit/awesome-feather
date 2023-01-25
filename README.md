@@ -93,7 +93,8 @@ Setup of Arduino for:
 | [Adafruit Feather nRF52832 Pro with myNewt Bootloader](https://www.adafruit.com/product/3574) | Bluetooth support | 512 KB | 64 KB |  | 64 MHz | - | Yes | BTLE |
 | [Adafruit Feather nRF52840 Express](https://www.adafruit.com/product/4062) | Bluetooth support | 1 MB  | 256 KB | - | 64 MHz | Yes | Yes | BTLE |
 | [Adafruit Feather nRF52840 Sense](https://www.adafruit.com/product/4516) | Bluetooth + Sensors | 1 MB  | 256 KB | - | 64 MHz | Yes | Yes | BTLE |
-| [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) | RP2040 chip | - | 264KB | 4MB | 125 MHz | Yes | Soon | - |
+| [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) | RP2040 chip | - | 264KB | 4MB | 125 MHz | Yes | Yes | - |
+| [Adafruit Feather RP2040 SCORPIO](https://www.adafruit.com/product/5650) | RP2040 Chip | - | 264KB | 4MB | 125 MHz | Yes | Yes | - |
 | [Adafruit M0 Express](https://www.adafruit.com/product/3403) | 1.44" display, sensors, amp | 256 KB | 32 KB | 2 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit HalloWing M0 Express](https://www.adafruit.com/product/3900) | 1.44" display, sensors, amp | 256 KB | 32 KB | 8 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
@@ -162,6 +163,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Melopero](https://www.melopero.com/) | [Shake RP2040](https://www.melopero.com/shop/development-boards/melopero-shake-rp2040/) | RP2040 uC, 16MB Flash, Qwiic/Stemma QT |
 | [ThingPulse](https://thingpulse.com/) | [ePulse Feather](https://thingpulse.com/product/epulse-feather-low-power-esp32-development-board/) | ESP32, 8MB PSRAM, 8MB Flash. Low Power |
 | Unexpected Maker | [FeatherS2 Neo](https://www.adafruit.com/product/5629) | ESP32-S2, 4MB Flash, 2MB PSRAM, 5x5 RGB LED Matrix |
+| Unexpected Maker | [FeatherS2](https://www.adafruit.com/product/4769) | ESP32-S2, 16MB Flash, 8MB PSRAM, STEMMA QT |
+| Unexpected Maker | [FeatherS3](https://www.adafruit.com/product/5399) | ESP32-S3, 16MB Flash, 8MB PSRAM, 2xSTEMMA QT |
 
 ## FeatherWings
 
