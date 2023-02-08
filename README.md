@@ -78,14 +78,14 @@ Setup of Adafruit Feather boards:
 | [Adafruit Feather 32u4 FONA](https://www.adafruit.com/product/3027) | Cellular network support | 32 KB | 2 KB | - | 8 MHz | - | Yes | Cellular |
 | [Adafruit Feather HUZZAH with ESP8266](https://www.adafruit.com/product/2821) | WiFi support | 4 MB | 32KB 80KB | - | 80 MHz | - | Yes | WiFi |
 | [Adafruit Feather HUZZAH32 with ESP32](https://www.adafruit.com/product/3405) | WiFi and Bluetooth | 4 MB | 520 KB | - | 240 MHz | - | Yes | WiFi / BTLE |
-| [Adafruit ESP32 Feather V2](https://www.adafruit.com/product/5400) | WiFi and Bluetooth | 8MB | 2MB | - | 240 MHz | - | Yes | WiFi, Bluetooth, STEMMA QT, Low Power |
-| [Adafruit ESP32-S2 Feather](https://www.adafruit.com/product/5000) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT |
+| [Adafruit ESP32 Feather V2](https://www.adafruit.com/product/5400) | WiFi, Bluetooth, STEMMA QT, Low Power | 8MB | 2MB | - | 240 MHz | - | Yes | WiFi and Bluetooth |
+| [Adafruit ESP32-S2 Feather](https://www.adafruit.com/product/5000) | WiFi, STEMMA QT | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi |
 | [Adafruit ESP32-S2 Feather with BME280 Sensor](https://www.adafruit.com/product/5303) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT, Sensor |
 | [Adafruit ESP32-S2 TFT Feather](https://www.adafruit.com/product/5300) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT, Display |
-| [Adafruit ESP32-S2 Reverse TFT Feather](https://www.adafruit.com/product/5345) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | 1.14" IPS TFT Display 240x135 reverse mount, STEMMA QT |
-| [Adafruit ESP32-S3 Feather (No PSRAM)](https://www.adafruit.com/product/5323) | WiFi and Bluetooth | 8MB | None | - | 240 MHz | Yes | Yes | WiFi, Bluetooth, STEMMA QT |
-| [Adafruit ESP32-S3 Feather](https://www.adafruit.com/product/5477) | WiFi and Bluetooth | 8MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, Bluetooth, STEMMA QT |
-| [Adafruit ESP32-S3 TFT Feather](https://www.adafruit.com/product/5483) | WiFi and Bluetooth | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, Bluetooth, STEMMA QT, Display |
+| [Adafruit ESP32-S2 Reverse TFT Feather](https://www.adafruit.com/product/5345) | 1.14" IPS TFT Display 240x135 reverse mount, STEMMA QT | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi |
+| [Adafruit ESP32-S3 Feather (No PSRAM)](https://www.adafruit.com/product/5323) | WiFi, Bluetooth, STEMMA QT | 8MB | None | - | 240 MHz | Yes | Yes | WiFi and Bluetooth |
+| [Adafruit ESP32-S3 Feather](https://www.adafruit.com/product/5477) | WiFi, Bluetooth, STEMMA QT | 8MB | 2MB | - | 240 MHz | Yes | Yes | WiFi and Bluetooth |
+| [Adafruit ESP32-S3 TFT Feather](https://www.adafruit.com/product/5483) | WiFi, Bluetooth, STEMMA QT, Display | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi and Bluetooth |
 | [Adafruit Feather M0 Basic Proto](https://www.adafruit.com/product/2772) | Built-in protoboard | 256 KB | 32 KB | - | 48 MHz | Reduced  | Yes | - |
 | [Adafruit Feather M0 Adalogger](https://www.adafruit.com/product/2796) | SD card support | 256 KB | 32 KB | - | 48 MHz | Reduced | Yes | - |
 | [Adafruit Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995) | Bluetooth support | 256 KB | 32 KB | - | 48 MHz | Reduced  | Yes | BTLE |
