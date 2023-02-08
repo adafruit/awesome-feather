@@ -82,6 +82,7 @@ Setup of Adafruit Feather boards:
 | [Adafruit ESP32-S2 Feather](https://www.adafruit.com/product/5000) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT |
 | [Adafruit ESP32-S2 Feather with BME280 Sensor](https://www.adafruit.com/product/5303) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT, Sensor |
 | [Adafruit ESP32-S2 TFT Feather](https://www.adafruit.com/product/5300) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, STEMMA QT, Display |
+| [Adafruit ESP32-S2 Reverse TFT Feather](https://www.adafruit.com/product/5345) | WiFi | 4MB | 2MB | - | 240 MHz | Yes | Yes | 1.14" IPS TFT Display 240x135 reverse mount, STEMMA QT |
 | [Adafruit ESP32-S3 Feather (No PSRAM)](https://www.adafruit.com/product/5323) | WiFi and Bluetooth | 8MB | None | - | 240 MHz | Yes | Yes | WiFi, Bluetooth, STEMMA QT |
 | [Adafruit ESP32-S3 Feather](https://www.adafruit.com/product/5477) | WiFi and Bluetooth | 8MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, Bluetooth, STEMMA QT |
 | [Adafruit ESP32-S3 TFT Feather](https://www.adafruit.com/product/5483) | WiFi and Bluetooth | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi, Bluetooth, STEMMA QT, Display |
@@ -108,6 +109,7 @@ Setup of Adafruit Feather boards:
 | [Adafruit M0 Express](https://www.adafruit.com/product/3403) | 1.44" display, sensors, amp | 256 KB | 32 KB | 2 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit HalloWing M0 Express](https://www.adafruit.com/product/3900) | 1.44" display, sensors, amp | 256 KB | 32 KB | 8 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
+| [Adafruit Feather M4 CAN Express with ATSAME51](https://www.adafruit.com/product/4759) | CAN Bus | 512KB | 192KB | 2MB | 120 MHz | Yes | Yes | - |
 | [Adafruit PyBadge](https://www.adafruit.com/product/4200) | 1.8" display, sensors, badge | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
 | [Adafruit PyBadge LC](https://www.adafruit.com/product/3939) | 1.8" display, badge, budget | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
 | [Adafruit PyGamer](https://www.adafruit.com/product/4242) | 1.8" display, sensors, gaming | 512 KB | 192 KB | 8 MB | 120 MHz | Yes | Yes | - |
