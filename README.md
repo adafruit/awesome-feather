@@ -47,7 +47,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The developer's documentation for Mu.
 - [CircuitPython (latest)](https://github.com/adafruit/circuitpython/releases/latest)
-- [CircuitPython 7.0.0](https://blog.adafruit.com/2021/09/20/circuitpython-7-0-0-released/) 
+- [CircuitPython 8.0.0](https://blog.adafruit.com/2023/02/06/circuitpython-8-0-0-released/) 
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 - [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 400 libraries available.
