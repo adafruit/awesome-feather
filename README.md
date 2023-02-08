@@ -175,6 +175,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Unexpected Maker | [FeatherS2 Neo](https://www.adafruit.com/product/5629) | ESP32-S2, 4MB Flash, 2MB PSRAM, 5x5 RGB LED Matrix |
 | Unexpected Maker | [FeatherS2](https://www.adafruit.com/product/4769) | ESP32-S2, 16MB Flash, 8MB PSRAM, STEMMA QT |
 | Unexpected Maker | [FeatherS3](https://www.adafruit.com/product/5399) | ESP32-S3, 16MB Flash, 8MB PSRAM, 2xSTEMMA QT |
+| Oak Development Technologies | [IcyBlue Feather](https://www.oakdev.tech/store/p17/icyblue-feather.html) | ICE5LP4K FPGA Feather Development Board |
 
 ## FeatherWings
 
