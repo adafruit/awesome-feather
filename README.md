@@ -148,7 +148,6 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SparkFun | [MicroMod Thing Plus](https://www.sparkfun.com/products/18027) | Feather form factor MicroMod CPU board with USB-C and Qwiic port |
 | SparkFun | [SparkFun Thing Plus Matter - MGM240P](https://www.sparkfun.com/products/20270) | BLE, 802.15.4 Mesh, Matter IoT Protocol, Qwiic Connector |
 | SparkFun / QuickLogic | [SparkFun Thing Plus - QuickLogic EOS S3](https://www.crowdsupply.com/sparkfun/thing-plus-quicklogic-eos-s3) | EOS S3 MCU + eFPGA SoC, LIS2DH12TR & PDM mic |
-| [QuickLogic](https://www.quicklogic.com/) | [QuickFeather](https://www.quicklogic.com/products/eos-s3/quickfeather-development-kit/) | S3 Low Power MCU with embedded FPGA |
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [TinyLoRa SAMR34 LoRA](https://www.tindie.com/products/makertronika-labs/tinylora-samr34-based-lora-devboard/) | ATSAMR34J18 based LoRA DevBoard |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino Feather 4260](https://www.tindie.com/products/makertronika-labs/penguino-feather-4260-samr34-lora-dev-board/) | ATSAMR34J18 based LoRa DevBoard - uses the RAK4260 module from @RAKWireless |
@@ -167,7 +166,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Seth Kerr | [MSP432 Feather](https://github.com/skerr92/msp432-feather) | Feather using an MSP432P401R |
 | PCB Arts | [Zynq Feather](https://www.pcb-arts.com/en/zynq_feather) | Zync systemn on chip in Feather form factor |
 | [Reclaimer Labs](https://www.reclaimerlabs.com/) | [STM32WB Feather](https://www.reclaimerlabs.com/stm32wb-feather) | STM32WB Bluetooth SoC |
-| [QuickLogic Corp.](https://www.quicklogic.com/) | [QuickFeather Dev Kit](https://shop.quicklogic.com/product/quickfeather-development-kit-uart-cable/) | Powered by QuickLogic’s EOS™ S3, the first FPGA-enabled Arm Cortex®-M4F MCU, fully supports Zephyr RTOS. 16-Mbit of flash memory, mCube MC3635 accelerometer, Infineon DPS310 pressure sensor, Infineon IM69D130 PDM digital microphone |
+| [QuickLogic](https://www.quicklogic.com/) | [QuickFeather Dev Kit](https://shop.quicklogic.com/product/quickfeather-development-kit-uart-cable/) | Powered by QuickLogic’s EOS™ S3, the first FPGA-enabled Arm Cortex®-M4F MCU, fully supports Zephyr RTOS. 16-Mbit of flash memory, mCube MC3635 accelerometer, Infineon DPS310 pressure sensor, Infineon IM69D130 PDM digital microphone |
 | Invector Labs | [Challenger Model 2040](https://site.invector.se/produkt/challenger-2040/) | RP2040, ESP8285 WiFi, USB-C connector |
 | Move Solutions | [Penguino – MAMWLExx Breakout Board](https://www.movesolutions.it/2021/04/09/mamwlexx-breakout-board/) | STM32WLE5JB SoC, SX1262 RF Transceiver 150-960 MHz, LoRa (G)FSK, (G)MSK, BPSK |
 | [Melopero](https://www.melopero.com/) | [Shake RP2040](https://www.melopero.com/shop/development-boards/melopero-shake-rp2040/) | RP2040 uC, 16MB Flash, Qwiic/Stemma QT |
