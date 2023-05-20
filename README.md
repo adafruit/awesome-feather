@@ -7,7 +7,6 @@
 
 https://user-images.githubusercontent.com/1685947/115119851-7dc6bb00-9f78-11eb-99d4-84d2bf5fea2d.mp4
 
-
 Adafruit [Feather](https://www.adafruit.com/category/943) is a complete line of development boards from [Adafruit](https://www.adafruit.com/) and other developers that are both standalone and stackable. They're able to be powered by LiPo batteries for on-the-go use or by their micro-USB plugs for stationary projects. Feathers are flexible, portable, and as light as their namesake.
 
 FeatherWings are stacking boards and add functionality and room for prototyping. At its core, the Adafruit Feather is a complete ecosystem of products - and the best way to get your project flying. 
@@ -47,7 +46,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The developer's documentation for Mu.
 - [CircuitPython (latest)](https://github.com/adafruit/circuitpython/releases/latest)
-- [CircuitPython 8.0.0](https://blog.adafruit.com/2023/02/06/circuitpython-8-0-0-released/) 
+- [CircuitPython 8.0.0](https://blog.adafruit.com/2023/02/06/circuitpython-8-0-0-released/)
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 - [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 400 libraries available.
@@ -149,16 +148,14 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SparkFun | [MicroMod Thing Plus](https://www.sparkfun.com/products/18027) | Feather form factor MicroMod CPU board with USB-C and Qwiic port |
 | SparkFun | [SparkFun Thing Plus Matter - MGM240P](https://www.sparkfun.com/products/20270) | BLE, 802.15.4 Mesh, Matter IoT Protocol, Qwiic Connector |
 | SparkFun / QuickLogic | [SparkFun Thing Plus - QuickLogic EOS S3](https://www.crowdsupply.com/sparkfun/thing-plus-quicklogic-eos-s3) | EOS S3 MCU + eFPGA SoC, LIS2DH12TR & PDM mic |
-| [Quicklogic](https://www.quicklogic.com/) | [QuickFeather](https://www.quicklogic.com/products/eos-s3/quickfeather-development-kit/) | S3 Low Power MCU with embedded FPGA |
+| [QuickLogic](https://www.quicklogic.com/) | [QuickFeather](https://www.quicklogic.com/products/eos-s3/quickfeather-development-kit/) | S3 Low Power MCU with embedded FPGA |
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
-| Ingenuity | [Micro Kea](http://www.ingenuity.co.nz/) | STM32F411 plus flash and ESP32 Pico-D-4 |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [TinyLoRa SAMR34 LoRA](https://www.tindie.com/products/makertronika-labs/tinylora-samr34-based-lora-devboard/) | ATSAMR34J18 based LoRA DevBoard |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino Feather 4260](https://www.tindie.com/products/makertronika-labs/penguino-feather-4260-samr34-lora-dev-board/) | ATSAMR34J18 based LoRa DevBoard - uses the RAK4260 module from @RAKWireless |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino STM32WL MAMWLE-C1](https://www.tindie.com/products/makertronika-labs/penguino-stm32wl-mamwle-c1-lora-dev-board/) | STM32WLE5JC Wireless SoC based LoRa DevBoard |
 | [Actinius](https://www.actinius.com/) | [Icarus IoT Board](https://www.actinius.com/icarus) | nRF91: ARM Cortex M33, modem, low power, GPS and Cellular data (LTE-M / NB-IoT), accelerometer | 
 | [Seeed](https://www.seeedstudio.com/) | [Wio Lite W600](https://www.seeedstudio.com/Wio-Lite-W600-p-4155.html) | W600 module and SAMD21, WiFi, Arduino compatible |
 | [Seeed](https://www.seeedstudio.com/) | [Wio Lite RISC-V (GD32VF103) with ESP8266](https://www.seeedstudio.com/Wio-Lite-RISC-V-GD32VF103-p-4293.html) | RISC-V development board with RISC-V GD32VF103 and onboard ESP8266 Wio Core |
-| [Ingenuity Micro](https://store.ingenuitymicro.com/) | [Kea](https://store.ingenuitymicro.com/kea) | STM32F411 based NETMF Feather board with a ESP32 coprocessor |
 | [Wilderness Labs](https://store.wildernesslabs.co/) | [Meadow F7](https://store.wildernesslabs.co/products/meadow-f7) | STM32F7 uC with WiFi, BLE, 216MHz, 16MB RAM, 32MB Flash, 2D graphics and JPEG acceleration |
 | Jed Hodson | [UWB Localization Feather](https://prototypingcorner.io/projects/uwb-feather/) | Decawave DWM1000 module and ATSAMD21 ARM Cortex M0 |
 | Gregory Davill | [Orange Crab](https://github.com/gregdavill/OrangeCrab/) | Lattice ECP5 FPGA |
