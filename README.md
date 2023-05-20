@@ -336,7 +336,6 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Glen Akins](https://twitter.com/bikerglen) | [Sushi FeatherWing](https://github.com/bikerglen/sushi-featherwing) | The Sushi FeatherWing is a board to inteface the Adafruit HUZZAH ESP32 Feather to the slim 640x48 LCDs found in the various dragon, wizard, and fairy magic wand toys. |
 | Blues Wireless | [Feather Starter Kit](https://shop.blues.io/products/feather-starter-kit) | Feather to Quectel cellular modem, Integrated GPS and Accelerometer |
 | Oddly Specific Objects | [LCD FeatherWing](https://www.adafruit.com/product/5581) | I²C-driven LCD display |
-| Binho | [Feather / Stemma QT Interface Board](https://www.adafruit.com/product/4461) | Interface a Binho Nova host adapter with any Feather form-factor device. I2C, SPI, and UART interfaces |
 
 ## Accessories
 
