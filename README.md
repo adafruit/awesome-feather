@@ -313,7 +313,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Maxim Integrated](https://www.maximintegrated.com/) | [MAX30101WING](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX30101WING.html) | MAX30101 pulse oximetry sensor development board |
 | [Maxim Integrated](https://www.maximintegrated.com/) | [MAX86150](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX86150.html) | MAX86150 BioSensor Module development board |
 | [Actinius](https://www.actinius.com/) | [Environmental Sensor FeatherWing](https://www.actinius.com/environmental-sensor-featherwing) | features the Bosch BME280, AMS CCS811, TI OPT3002 and SI SI7060 sensors. |
-| PCBWay | [ATM90E26 FeatherWing](https://www.pcbway.com/project/gifts_detail/ATM90E26_FeatherWing.html) | ATMEL E9026 Energy monitor with power supply |
+| [Whatnick](https://www.tindie.com/stores/whatnick/) | [ATM90E26 FeatherWing](https://www.pcbway.com/project/gifts_detail/ATM90E26_FeatherWing.html) | ATMEL E9026 Energy monitor with power supply |
 | [n°Garage](https://www.tindie.com/stores/ndgarage/) | [Hippo](https://www.tindie.com/products/ndgarage/hippo/) | A hippo PCB with twelve NeoPixel LEDs |
 | AbleGamers | [Freedom Wing Adapter](https://www.youtube.com/watch?v=FgKNWc-EpHQ) | Connect a power wheelchair joystick to Feather and the Xbox Adaptive Controller |
 | [Omron](https://www.omron.co.jp/ecb) | [2JCIE-EV01-FT1](https://www.omron.co.jp/ecb/sensor/evaluation-board/2jcie) | Temperature, humidity, ambient light, MEMS pressure/motion/microphone multisensor board for HUZZAH32 |
