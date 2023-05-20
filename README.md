@@ -268,17 +268,17 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | armin.von_collrepp | [CAN Bus FeatherWing](https://easyeda.com/armin.von_collrepp/Adafruit_CAN_FeatherWing-0YRL3lfxP) | MCP2515 based CAN controller with an 3.3V CAN transceiver |
 | [Argo](https://twitter.com/olygineer) | [CANbus FeatherWing](https://twitter.com/olygineer/status/1146133929235308544) | CAN Bus, regulated DC in, I2C STEMMA/Grove/Qwiic connection |
 | [IAmOrion](https://www.tindie.com/stores/iamorion/) | [Feather CANBus Shield](https://www.tindie.com/products/iamorion/feather-canbus-shield/) | CAN Bus FeatherWing (PCB Only) |
-| Tisham Dhar | [ADS1115 Featherwing](http://whatnicklife.blogspot.com/2016/01/extending-energy-monitoring-ads1115.html) | Energy monitoring specific ADS1115 breakout |
+| Tisham Dhar | [ADS1115 FeatherWing](http://whatnicklife.blogspot.com/2016/01/extending-energy-monitoring-ads1115.html) | Energy monitoring specific ADS1115 breakout |
 | Tisham Dhar | [ATM90E26 FeatherWing](https://www.tindie.com/products/whatnick/atm90e26-featherwing/) | ATM90E26 Utility Grade Energy Monitor |
 | Justin Jordan | [1-Wire Wing Data Logger](https://www.hackster.io/justin-jordan/1-wire-wing-data-logger-w-max32630fthr-ada46a?ref=part&ref_id=31815&offset=1) | DS2484 I2C to 1-Wire master, RJ-11 Connector, Sharp LS012B7DD01 LCD, 4 push buttons |
 | Radomir Dopieralski | [PewPew FeatherWing](https://hackaday.io/project/21578-pewpew-featherwing) | Buttons and a LED matrix display for simple games |
-| Dan Watson | [LoRaWAN FeatherWing](https://syncchannel.blogspot.com/2016/06/lorawan-featherwing-for-adafruit-feather.html) |  MicroChip RN2483/RN2903 LoRaWAN module |
+| Dan Watson | [LoRaWAN FeatherWing](https://syncchannel.blogspot.com/2016/06/lorawan-featherwing-for-adafruit-feather.html) |  Microchip RN2483/RN2903 LoRaWAN module |
 | Dan Watson | [LoRa FeatherWing IOX](http://syncchannel.blogspot.com/2016/03/lora-featherwing-iox-for-adafruit.html) | RFM95/96(W) with MCP23008 8-bit I/O expander |
 | Dan Cogliano | [e-Paper FeatherWing](https://danthegeek.com/2019/02/04/iot-calendar-creating-a-custom-featherwing/) | Add a Waveshare e-Paper display and two buttons |
 | PatternAgents | [Agent-DRV2605](http://www.patternagents.com/store/index.html#!/FeatherWing-Haptic-DRV2605L/p/130591584/category=33456145) | TI DRV2605L Haptic Driver and ADI ADXL345 Accelerometer |
 | PatternAgents | [Agent-DA7280](http://www.patternagents.com/store/index.html#!/FeatherWing-Haptic-DA7280/p/130591623/category=33456145) | DialogSemi DA7280L Haptic Driver and ADI ADXL345 Accelerometer |
 | [Justin Nesselrotte](https://twitter.com/jnesselr/status/1097276091901726720) | [Snack Machine Controller](https://github.com/Jnesselr/Vending-Machine) | Wireless snack machine controller board |
-| [MCCI](https://mcci.com/) | [Catena 4450](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4450-lorawan-iot-device) | FRAM, BME-280 Sensor, lux sensor, I2C multiplexer, LoRaWAN |
+| [MCCI](https://mcci.com/) | [Catena 4450](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4450-lorawan-iot-device) | FRAM, BME280 Sensor, lux sensor, I2C multiplexer, LoRaWAN |
 | MCCI | [Catena 4460](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4460-sensor-wing-w-bme680) | LoRaWAN 1.0/1.1, BME680 Sensor, lux sensor, FRAM, I2C Multiplexer |
 | MCCI | [Catena 4470](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4470-modbus-node-for-lorawan-technology) | LoRaWAN 1.0.2/1.1, RS-485, BME-280 Sensor, lux sensor, FRAM, SPI Flash |
 | [SparkFun](https://www.sparkfun.com/) | [ESP32 Thing Plus DMX to LED Shield](https://www.sparkfun.com/products/15110) | DMX board with XLR-3 and ArtNet jacks |
@@ -310,8 +310,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | sirmylesavery | [u-blox SAM-M8Q GPS Featherwing](https://hackaday.io/project/168430-u-blox-sam-m8q-gps-featherwing) | GPS FeatherWing using the ublox SAM-M8Q GPS module |
 | [Analog Devices](https://www.analog.com/) | [MAX30101WING](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/max30101wing.html) | MAX30101 pulse oximetry sensor development board |
 | Analog Devices | [MAX86150EVSYS](https://www.analog.com/en/products/max86150.html#product-evaluationkit) | MAX86150 BioSensor Module development board |
-| [Actinius](https://www.actinius.com/) | [Environmental Sensor FeatherWing](https://www.actinius.com/environmental-sensor-featherwing) | features the Bosch BME280, AMS CCS811, TI OPT3002 and SI SI7060 sensors. |
-| [Whatnick](https://www.tindie.com/stores/whatnick/) | [ATM90E26 FeatherWing](https://www.pcbway.com/project/gifts_detail/ATM90E26_FeatherWing.html) | ATMEL E9026 Energy monitor with power supply |
+| [Actinius](https://www.actinius.com/) | [Environmental Sensor FeatherWing v2](https://www.actinius.com/environmental-sensor-featherwing) | Features the Bosch BME688, TI OPT3002 and SI SI7060 sensors. |
 | [n°Garage](https://www.tindie.com/stores/ndgarage/) | [Hippo](https://www.tindie.com/products/ndgarage/hippo/) | A hippo PCB with twelve NeoPixel LEDs |
 | AbleGamers | [Freedom Wing Adapter](https://www.youtube.com/watch?v=FgKNWc-EpHQ) | Connect a power wheelchair joystick to Feather and the Xbox Adaptive Controller |
 | [Omron](https://www.omron.co.jp/ecb) | [2JCIE-EV01-FT1](https://www.omron.co.jp/ecb/sensor/evaluation-board/2jcie) | Temperature, humidity, ambient light, MEMS pressure/motion/microphone multisensor board for HUZZAH32 |
