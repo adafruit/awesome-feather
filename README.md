@@ -125,7 +125,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SD4Projects | [MiniMega2560 Adapter](https://github.com/Sd4Projects/MiniMega2560_Adapter) | Adapt the MiniMega256 to Feather for Wing compatibility |
 | [Groboards](https://groboards.com/) | [Giant Board](https://www.crowdsupply.com/groboards/giant-board) | ATSAMA5D27C-D1G Linux system in Feather form factor |
 | Wilderness Labs | [Meadow](https://www.kickstarter.com/projects/meadow/meadow-full-stack-net-standard-iot-platform) | STM32F7 .NET with WiFi and Bluetooth |
-| Analog Devices | [MAX32620FTHR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/max32620fthr.html) | Cortex M4 Darwin MCU |
+| [Analog Devices](https://www.analog.com) | [MAX32620FTHR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/max32620fthr.html) | Cortex M4 Darwin MCU |
 | Analog Devices | [MAX32630FTHR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/max32630fthr.html) | Cortex M4F with PMIC |
 | minh7a6 | [MINHF4](https://hackaday.io/project/163853-minhf4-an-stm32f4-arduino-compatible-board) | STM32F411CE, Cortex M4F, Arduino Compatible |
 | [Accumulatos](https://www.accumulatos.com/) | [AWS Re:Invent Lanyard](https://github.com/accumulatos/lanyard/tree/master/hardware) | Mongoose OS, AWS, ESP32 ([info](https://twitter.com/accumulatos/status/936156099484442624)) |
@@ -134,7 +134,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | MCCI | [Catena 4612](https://mcci.com/lorawan/products/catena-4612/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.0/1.1 865-923 MHz, FRAM |
 | MCCI | [Catena 4801](https://mcci.com/lorawan/products/catena-4801/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.02/1.1 865-923 MHz, RS-485/Modbus | 
 | MCCI | [Catena 4618](https://mcci.com/lorawan/products/catena-4618/) | Murata CMWX1ZZABZ-078. LoRaWAN 1.1 865-923 MHz, SHT31-DIS-F Temp/Humidity, Si1133 IR/light/UV sensor |
-| SparkFun | [ESP32 Thing Plus](https://www.sparkfun.com/products/14689) | Espressif ESP32 WROOM, WiFi, Bluetooth, Qwiic connector |
+| [SparkFun](https://www.sparkfun.com/) | [ESP32 Thing Plus](https://www.sparkfun.com/products/14689) | Espressif ESP32 WROOM, WiFi, Bluetooth, Qwiic connector |
 | SparkFun | [ESP32 Thing Plus - ESP32 WROOM (U.FL)](https://www.sparkfun.com/products/17381) | Espressif ESP32 WROOM, WiFi, Bluetooth, Qwiic connector, U.FL antenna connector |
 | SparkFun | [ESP32 Thing Plus SkeleBoard - ESP32 WROOM (U.FL)](https://www.sparkfun.com/products/18581) | Espressif ESP32 WROOM, WiFi, Bluetooth, Qwiic connector, U.FL antenna connector |
 | SparkFun | [Thing Plus - SAMD51](https://www.sparkfun.com/products/14713) | SAMD51 in a Feather size board with Qwiic |
@@ -150,11 +150,11 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SparkFun / QuickLogic | [SparkFun Thing Plus - QuickLogic EOS S3](https://www.crowdsupply.com/sparkfun/thing-plus-quicklogic-eos-s3) | EOS S3 MCU + eFPGA SoC, LIS2DH12TR & PDM mic |
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [TinyLoRa SAMR34 LoRA](https://www.tindie.com/products/makertronika-labs/tinylora-samr34-based-lora-devboard/) | ATSAMR34J18 based LoRA DevBoard |
-| [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino Feather 4260](https://www.tindie.com/products/makertronika-labs/penguino-feather-4260-samr34-lora-dev-board/) | ATSAMR34J18 based LoRa DevBoard - uses the RAK4260 module from @RAKWireless |
-| [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino STM32WL MAMWLE-C1](https://www.tindie.com/products/makertronika-labs/penguino-stm32wl-mamwle-c1-lora-dev-board/) | STM32WLE5JC Wireless SoC based LoRa DevBoard |
+| Makertronika Labs | [Penguino Feather 4260](https://www.tindie.com/products/makertronika-labs/penguino-feather-4260-samr34-lora-dev-board/) | ATSAMR34J18 based LoRa DevBoard - uses the RAK4260 module from @RAKWireless |
+| Makertronika Labs | [Penguino STM32WL MAMWLE-C1](https://www.tindie.com/products/makertronika-labs/penguino-stm32wl-mamwle-c1-lora-dev-board/) | STM32WLE5JC Wireless SoC based LoRa DevBoard |
 | [Actinius](https://www.actinius.com/) | [Icarus IoT Board](https://www.actinius.com/icarus) | nRF91: ARM Cortex M33, modem, low power, GPS and Cellular data (LTE-M / NB-IoT), accelerometer | 
 | [Seeed](https://www.seeedstudio.com/) | [Wio Lite W600](https://www.seeedstudio.com/Wio-Lite-W600-p-4155.html) | W600 module and SAMD21, WiFi, Arduino compatible |
-| [Seeed](https://www.seeedstudio.com/) | [Wio Lite RISC-V (GD32VF103) with ESP8266](https://www.seeedstudio.com/Wio-Lite-RISC-V-GD32VF103-p-4293.html) | RISC-V development board with RISC-V GD32VF103 and onboard ESP8266 Wio Core |
+| Seeed | [Wio Lite RISC-V (GD32VF103) with ESP8266](https://www.seeedstudio.com/Wio-Lite-RISC-V-GD32VF103-p-4293.html) | RISC-V development board with RISC-V GD32VF103 and onboard ESP8266 Wio Core |
 | [Wilderness Labs](https://store.wildernesslabs.co/) | [Meadow F7](https://store.wildernesslabs.co/products/meadow-f7) | STM32F7 uC with WiFi, BLE, 216MHz, 16MB RAM, 32MB Flash, 2D graphics and JPEG acceleration |
 | Jed Hodson | [UWB Localization Feather](https://prototypingcorner.io/projects/uwb-feather/) | Decawave DWM1000 module and ATSAMD21 ARM Cortex M0 |
 | Gregory Davill | [Orange Crab](https://github.com/gregdavill/OrangeCrab/) | Lattice ECP5 FPGA |
@@ -162,7 +162,6 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [MakerTronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino Feather SAMR34 LoRa Dev-Board](https://www.tindie.com/products/makertronika-labs/penguino-feather-samr34-lora-dev-board/) | ATSAMR34J18 System-in-Package (SiP) based MCU+LoRA RF module |
 | Deshipu | [Fluff M0](https://hackaday.io/project/171381-fluff-m0) | A minimal SAMD21 M0 board in the Feather form factor |
 | [Jared Wolff](https://www.jaredwolff.com.com/) | [nRF9160 Feather](https://www.jaredwolff.com/store/nrf91-feather/) | nRF9160: ARM Cortex M33, modem, low power, Cellular data (LTE-M / NB-IoT), active GPS antenna support, onboard flash, high efficency power supply | 
-| Unexpected Maker | [FeatherS2](https://unexpectedmaker.com/shop/feathers2-esp32-s2) | ESP32-S2, 8MB PSRAM, 16MB SPI Flash, WiFi, STEMMA QT |
 | Seth Kerr | [MSP432 Feather](https://github.com/skerr92/msp432-feather) | Feather using an MSP432P401R |
 | PCB Arts | [Zynq Feather](https://www.pcb-arts.com/en/zynq_feather) | Zync systemn on chip in Feather form factor |
 | [Reclaimer Labs](https://www.reclaimerlabs.com/) | [STM32WB Feather](https://www.reclaimerlabs.com/stm32wb-feather) | STM32WB Bluetooth SoC |
