@@ -125,8 +125,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SD4Projects | [MiniMega2560 Adapter](https://github.com/Sd4Projects/MiniMega2560_Adapter) | Adapt the MiniMega256 to Feather for Wing compatibility |
 | [Groboards](https://groboards.com/) | [Giant Board](https://www.crowdsupply.com/groboards/giant-board) | ATSAMA5D27C-D1G Linux system in Feather form factor |
 | Wilderness Labs | [Meadow](https://www.kickstarter.com/projects/meadow/meadow-full-stack-net-standard-iot-platform) | STM32F7 .NET with WiFi and Bluetooth |
-| Maxim | [MAX32620FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32620FTHR.html) | Cortex M4 Darwin MCU |
-| Maxim | [MAX32630FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32630FTHR.html) | Cortex M4F with PMIC |
+| Analog Devices | [MAX32620FTHR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/max32620fthr.html) | Cortex M4 Darwin MCU |
+| Analog Devices | [MAX32630FTHR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/max32630fthr.html) | Cortex M4F with PMIC |
 | minh7a6 | [MINHF4](https://hackaday.io/project/163853-minhf4-an-stm32f4-arduino-compatible-board) | STM32F411CE, Cortex M4F, Arduino Compatible |
 | [Accumulatos](https://www.accumulatos.com/) | [AWS Re:Invent Lanyard](https://github.com/accumulatos/lanyard/tree/master/hardware) | Mongoose OS, AWS, ESP32 ([info](https://twitter.com/accumulatos/status/936156099484442624)) |
 | Max Holliday | [SAM32](https://github.com/maholli/SAM32) | SAMD51, ESP32, SD Card, Camera Interface |
@@ -310,8 +310,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Mikroe](https://www.mikroe.com/) | [Feather Click Shield](https://www.mikroe.com/blog/feather-click-shield) | Feather to dual mikroBUS Click board adapter |
 | [Binho](https://binho.io/) | [Feather Interface Board](https://binho.io/collections/accessories/products/feather-interface-board) | Provides UART and Qwiic interfaces, primarily for using the Binho Multi-Protocol USB Host Adapter |
 | sirmylesavery | [u-blox SAM-M8Q GPS Featherwing](https://hackaday.io/project/168430-u-blox-sam-m8q-gps-featherwing) | GPS FeatherWing using the ublox SAM-M8Q GPS module |
-| [Maxim Integrated](https://www.maximintegrated.com/) | [MAX30101WING](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX30101WING.html) | MAX30101 pulse oximetry sensor development board |
-| [Maxim Integrated](https://www.maximintegrated.com/) | [MAX86150](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX86150.html) | MAX86150 BioSensor Module development board |
+| [Analog Devices](https://www.analog.com/) | [MAX30101WING](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/max30101wing.html) | MAX30101 pulse oximetry sensor development board |
+| Analog Devices | [MAX86150EVSYS](https://www.analog.com/en/products/max86150.html#product-evaluationkit) | MAX86150 BioSensor Module development board |
 | [Actinius](https://www.actinius.com/) | [Environmental Sensor FeatherWing](https://www.actinius.com/environmental-sensor-featherwing) | features the Bosch BME280, AMS CCS811, TI OPT3002 and SI SI7060 sensors. |
 | [Whatnick](https://www.tindie.com/stores/whatnick/) | [ATM90E26 FeatherWing](https://www.pcbway.com/project/gifts_detail/ATM90E26_FeatherWing.html) | ATMEL E9026 Energy monitor with power supply |
 | [n°Garage](https://www.tindie.com/stores/ndgarage/) | [Hippo](https://www.tindie.com/products/ndgarage/hippo/) | A hippo PCB with twelve NeoPixel LEDs |
