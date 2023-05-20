@@ -119,7 +119,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 | Company | Board | Features |
 |---|---|---|
-| Particle | [Xenon](https://www.adafruit.com/product/3999) | nRF52840 with BLE and Mesh  |
+| [Particle](https://www.particle.io/) | [Xenon](https://www.adafruit.com/product/3999) | nRF52840 with BLE and Mesh  |
 | Particle | [Argon](https://www.adafruit.com/product/3997) | nRF52840 with Mesh and WiFi |
 | Particle | [Boron LTE](https://www.adafruit.com/product/3998) | nRF52840 with Mesh and LTE Cellular Modem |
 | SD4Projects | [MiniMega2560 Adapter](https://github.com/Sd4Projects/MiniMega2560_Adapter) | Adapt the MiniMega256 to Feather for Wing compatibility |
@@ -260,9 +260,9 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 |---|---|--------|
 | [Pimoroni](https://shop.pimoroni.com/) | [Enviro+ FeatherWing](https://shop.pimoroni.com/products/enviro-plus-featherwing) | Color LCD, 3 sensors and microphone for air quality |
 | Capable Robot Components | [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp) | Four-channel temperature sensor for instrumenting electronics |
-| Particle | [Ethernet FeatherWing](https://www.adafruit.com/product/4003) | Ethernet with two Feather slots |
+| [Particle](https://www.particle.io/) | [Ethernet FeatherWing](https://www.adafruit.com/product/4003) | Ethernet with two Feather slots |
 | Particle | [Particle Classic Adapter](https://store.particle.io/) | Use classic Photon accessories with Feather Footprint |
-| Seeed | [Grove Shield for Particle Mesh](https://www.seeedstudio.com/Grove-Shield-for-Particle-Mesh-p-4080.html) | Large FeatherWing with eight Grove sensor connections |
+| [Seeed](https://www.seeedstudio.com/) | [Grove Shield for Particle Mesh](https://www.seeedstudio.com/Grove-Shield-for-Particle-Mesh-p-4080.html) | Large FeatherWing with eight Grove sensor connections |
 | Seeed | [Grove Shield FeatherWing - Wio Lite](https://www.adafruit.com/product/4357) | 10 Grove Connectors |
 | davedarko | [USB Host FeatherWing](https://hackaday.io/project/161845-max3421e-featherwing) | USB Host add-on for MAX3421E |
 | armin.von_collrepp | [CAN Bus FeatherWing](https://easyeda.com/armin.von_collrepp/Adafruit_CAN_FeatherWing-0YRL3lfxP) | MCP2515 based CAN controller with an 3.3V CAN transceiver |
@@ -281,7 +281,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [MCCI](https://mcci.com/) | [Catena 4450](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4450-lorawan-iot-device) | FRAM, BME-280 Sensor, lux sensor, I2C multiplexer, LoRaWAN |
 | MCCI | [Catena 4460](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4460-sensor-wing-w-bme680) | LoRaWAN 1.0/1.1, BME680 Sensor, lux sensor, FRAM, I2C Multiplexer |
 | MCCI | [Catena 4470](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4470-modbus-node-for-lorawan-technology) | LoRaWAN 1.0.2/1.1, RS-485, BME-280 Sensor, lux sensor, FRAM, SPI Flash |
-| SparkFun | [ESP32 Thing Plus DMX to LED Shield](https://www.sparkfun.com/products/15110) | DMX board with XLR-3 and ArtNet jacks |
+| [SparkFun](https://www.sparkfun.com/) | [ESP32 Thing Plus DMX to LED Shield](https://www.sparkfun.com/products/15110) | DMX board with XLR-3 and ArtNet jacks |
 | SparkFun | [SparkFun Qwiic Shield for Thing Plus](https://www.sparkfun.com/products/16138) | Provides 4 Qwiic/STEMMA QT sockets |
 | SparkFun | [SparkFun Thing Plus Dual-Port Logging Shield](https://www.sparkfun.com/products/19217) | SD Card for logging with USB-C access |
 | SparkFun | [SparkFun Qwiic / Stemma QT FeatherWing (Shield for Thing Plus)](https://www.adafruit.com/product/4515) | Four Qwiic / STEMMA QT Ports |
@@ -325,10 +325,10 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [DTRONIXS](https://www.tindie.com/stores/DTronixs/) | [Prototyping / Breadboard board for Adafruit Feather](https://zuzebox.wordpress.com/2020/08/30/a-prototyping-breadboard-board-for-adafruit-feather-modules/) | Prototyping: header, buttons, LEDs, breadboard area |
 | David Bershadsky and Alexander Kirillov | [RoverWing](https://www.crowdsupply.com/alexander-kirillov/roverwing) | Robotics Wing similar to Crickit, handles 6-12 volt motors |
 | [SK Pang](http://skpang.co.uk/catalog/) | [CAN-Bus FeatherWing for ESP32](http://skpang.co.uk/catalog/canbus-featherwing-for-esp32-p-1556.html) | CAN-Bus FeatherWing for an ESP32 Feather. Uses the SN65HVD231 CAN transceiver with PESD1CAN ESD protection |
-| [Würth Elektronik](https://www.we-online.de/katalog/de/SENSOR_FEATHERWING) | [Sensor FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/SensorFeatherWing) | 4-sensor FeatherWing with temperature, humidity, absolute pressure, 3-axis acceleration sensors |
-| [Würth Elektronik](https://www.we-online.de/katalog/de/THYONE-I_FEATHERWING) | [Thyone Wireless FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/ThyoneWirelessFeatherWing) | 2.4 GHz proprietary wireless connectivity with integrated secure element |
-| [Würth Elektronik](https://www.we-online.de/catalog/de/CALYPSO_FEATHERWING) | [Calypso Wi-Fi FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/CalypsoWiFiFeatherWing) | 2.4 GHz WiFi connectivity with support for SNTP, HTTP(S), MQTT(S) and cloud connectivity |
-| [Würth Elektronik](https://www.we-online.de/katalog/de/pm) | [MagI³C Power FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/MagI3CPowerFeatherWing) | 5 V and 3.3 V power supply with a range of industrial input voltages (5 V, 9 V, 12 V, 15 V, 18 V and 24 V) |
+| [Würth Elektronik](https://www.we-online.de/) | [Sensor FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/SensorFeatherWing) | 4-sensor FeatherWing with temperature, humidity, absolute pressure, 3-axis acceleration sensors |
+| Würth Elektronik | [Thyone Wireless FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/ThyoneWirelessFeatherWing) | 2.4 GHz proprietary wireless connectivity with integrated secure element |
+| Würth Elektronik | [Calypso Wi-Fi FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/CalypsoWiFiFeatherWing) | 2.4 GHz WiFi connectivity with support for SNTP, HTTP(S), MQTT(S) and cloud connectivity |
+| Würth Elektronik | [MagI³C Power FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/MagI3CPowerFeatherWing) | 5 V and 3.3 V power supply with a range of industrial input voltages (5 V, 9 V, 12 V, 15 V, 18 V and 24 V) |
 | [tinyledmatrix](https://twitter.com/tinyledmatrix)| [NeoPixel_HD Feather Wing](https://hackaday.io/project/168448-neopixelhd-feather-wing) | High density neoPixel RGB-Matrix using 198 neoPixels |
 | Spudworks | [DynaFeather](https://www.tindie.com/products/spudworks/dynafeather/) | Connect to Dynamixel brand smart servo motors with power |
 | [Glen Akins](https://twitter.com/bikerglen) | [Sushi FeatherWing](https://github.com/bikerglen/sushi-featherwing) | The Sushi FeatherWing is a board to inteface the Adafruit HUZZAH ESP32 Feather to the slim 640x48 LCDs found in the various dragon, wizard, and fairy magic wand toys. |
