@@ -7,7 +7,6 @@
 
 https://user-images.githubusercontent.com/1685947/115119851-7dc6bb00-9f78-11eb-99d4-84d2bf5fea2d.mp4
 
-
 Adafruit [Feather](https://www.adafruit.com/category/943) is a complete line of development boards from [Adafruit](https://www.adafruit.com/) and other developers that are both standalone and stackable. They're able to be powered by LiPo batteries for on-the-go use or by their micro-USB plugs for stationary projects. Feathers are flexible, portable, and as light as their namesake.
 
 FeatherWings are stacking boards and add functionality and room for prototyping. At its core, the Adafruit Feather is a complete ecosystem of products - and the best way to get your project flying. 
@@ -47,7 +46,7 @@ Feathers may be programmed in various languages which may vary by board. Here ar
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) - The developer's documentation for Mu.
 - [CircuitPython (latest)](https://github.com/adafruit/circuitpython/releases/latest)
-- [CircuitPython 8.0.0](https://blog.adafruit.com/2023/02/06/circuitpython-8-0-0-released/) 
+- [CircuitPython 8.0.0](https://blog.adafruit.com/2023/02/06/circuitpython-8-0-0-released/)
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) - A list of functions and documentation available for CircuitPython.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 - [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 400 libraries available.
@@ -120,14 +119,14 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 
 | Company | Board | Features |
 |---|---|---|
-| Particle | [Xenon](https://www.adafruit.com/product/3999) | nRF52840 with BLE and Mesh  |
+| [Particle](https://www.particle.io/) | [Xenon](https://www.adafruit.com/product/3999) | nRF52840 with BLE and Mesh  |
 | Particle | [Argon](https://www.adafruit.com/product/3997) | nRF52840 with Mesh and WiFi |
 | Particle | [Boron LTE](https://www.adafruit.com/product/3998) | nRF52840 with Mesh and LTE Cellular Modem |
 | SD4Projects | [MiniMega2560 Adapter](https://github.com/Sd4Projects/MiniMega2560_Adapter) | Adapt the MiniMega256 to Feather for Wing compatibility |
 | [Groboards](https://groboards.com/) | [Giant Board](https://www.crowdsupply.com/groboards/giant-board) | ATSAMA5D27C-D1G Linux system in Feather form factor |
 | Wilderness Labs | [Meadow](https://www.kickstarter.com/projects/meadow/meadow-full-stack-net-standard-iot-platform) | STM32F7 .NET with WiFi and Bluetooth |
-| Maxim | [MAX32620FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32620FTHR.html) | Cortex M4 Darwin MCU |
-| Maxim | [MAX32630FTHR](https://www.maximintegrated.com/en/products/microcontrollers/MAX32630FTHR.html) | Cortex M4F with PMIC |
+| [Analog Devices](https://www.analog.com) | [MAX32620FTHR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/max32620fthr.html) | Cortex M4 Darwin MCU |
+| Analog Devices | [MAX32630FTHR](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/max32630fthr.html) | Cortex M4F with PMIC |
 | minh7a6 | [MINHF4](https://hackaday.io/project/163853-minhf4-an-stm32f4-arduino-compatible-board) | STM32F411CE, Cortex M4F, Arduino Compatible |
 | [Accumulatos](https://www.accumulatos.com/) | [AWS Re:Invent Lanyard](https://github.com/accumulatos/lanyard/tree/master/hardware) | Mongoose OS, AWS, ESP32 ([info](https://twitter.com/accumulatos/status/936156099484442624)) |
 | Max Holliday | [SAM32](https://github.com/maholli/SAM32) | SAMD51, ESP32, SD Card, Camera Interface |
@@ -135,7 +134,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | MCCI | [Catena 4612](https://mcci.com/lorawan/products/catena-4612/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.0/1.1 865-923 MHz, FRAM |
 | MCCI | [Catena 4801](https://mcci.com/lorawan/products/catena-4801/) | Murata CMWX1ZZABZ-078, LoRaWAN 1.02/1.1 865-923 MHz, RS-485/Modbus | 
 | MCCI | [Catena 4618](https://mcci.com/lorawan/products/catena-4618/) | Murata CMWX1ZZABZ-078. LoRaWAN 1.1 865-923 MHz, SHT31-DIS-F Temp/Humidity, Si1133 IR/light/UV sensor |
-| SparkFun | [ESP32 Thing Plus](https://www.sparkfun.com/products/14689) | Espressif ESP32 WROOM, WiFi, Bluetooth, Qwiic connector |
+| [SparkFun](https://www.sparkfun.com/) | [ESP32 Thing Plus](https://www.sparkfun.com/products/14689) | Espressif ESP32 WROOM, WiFi, Bluetooth, Qwiic connector |
 | SparkFun | [ESP32 Thing Plus - ESP32 WROOM (U.FL)](https://www.sparkfun.com/products/17381) | Espressif ESP32 WROOM, WiFi, Bluetooth, Qwiic connector, U.FL antenna connector |
 | SparkFun | [ESP32 Thing Plus SkeleBoard - ESP32 WROOM (U.FL)](https://www.sparkfun.com/products/18581) | Espressif ESP32 WROOM, WiFi, Bluetooth, Qwiic connector, U.FL antenna connector |
 | SparkFun | [Thing Plus - SAMD51](https://www.sparkfun.com/products/14713) | SAMD51 in a Feather size board with Qwiic |
@@ -149,16 +148,13 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SparkFun | [MicroMod Thing Plus](https://www.sparkfun.com/products/18027) | Feather form factor MicroMod CPU board with USB-C and Qwiic port |
 | SparkFun | [SparkFun Thing Plus Matter - MGM240P](https://www.sparkfun.com/products/20270) | BLE, 802.15.4 Mesh, Matter IoT Protocol, Qwiic Connector |
 | SparkFun / QuickLogic | [SparkFun Thing Plus - QuickLogic EOS S3](https://www.crowdsupply.com/sparkfun/thing-plus-quicklogic-eos-s3) | EOS S3 MCU + eFPGA SoC, LIS2DH12TR & PDM mic |
-| [Quicklogic](https://www.quicklogic.com/) | [QuickFeather](https://www.quicklogic.com/products/eos-s3/quickfeather-development-kit/) | S3 Low Power MCU with embedded FPGA |
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
-| Ingenuity | [Micro Kea](http://www.ingenuity.co.nz/) | STM32F411 plus flash and ESP32 Pico-D-4 |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [TinyLoRa SAMR34 LoRA](https://www.tindie.com/products/makertronika-labs/tinylora-samr34-based-lora-devboard/) | ATSAMR34J18 based LoRA DevBoard |
-| [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino Feather 4260](https://www.tindie.com/products/makertronika-labs/penguino-feather-4260-samr34-lora-dev-board/) | ATSAMR34J18 based LoRa DevBoard - uses the RAK4260 module from @RAKWireless |
-| [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino STM32WL MAMWLE-C1](https://www.tindie.com/products/makertronika-labs/penguino-stm32wl-mamwle-c1-lora-dev-board/) | STM32WLE5JC Wireless SoC based LoRa DevBoard |
+| Makertronika Labs | [Penguino Feather 4260](https://www.tindie.com/products/makertronika-labs/penguino-feather-4260-samr34-lora-dev-board/) | ATSAMR34J18 based LoRa DevBoard - uses the RAK4260 module from @RAKWireless |
+| Makertronika Labs | [Penguino STM32WL MAMWLE-C1](https://www.tindie.com/products/makertronika-labs/penguino-stm32wl-mamwle-c1-lora-dev-board/) | STM32WLE5JC Wireless SoC based LoRa DevBoard |
 | [Actinius](https://www.actinius.com/) | [Icarus IoT Board](https://www.actinius.com/icarus) | nRF91: ARM Cortex M33, modem, low power, GPS and Cellular data (LTE-M / NB-IoT), accelerometer | 
 | [Seeed](https://www.seeedstudio.com/) | [Wio Lite W600](https://www.seeedstudio.com/Wio-Lite-W600-p-4155.html) | W600 module and SAMD21, WiFi, Arduino compatible |
-| [Seeed](https://www.seeedstudio.com/) | [Wio Lite RISC-V (GD32VF103) with ESP8266](https://www.seeedstudio.com/Wio-Lite-RISC-V-GD32VF103-p-4293.html) | RISC-V development board with RISC-V GD32VF103 and onboard ESP8266 Wio Core |
-| [Ingenuity Micro](https://store.ingenuitymicro.com/) | [Kea](https://store.ingenuitymicro.com/kea) | STM32F411 based NETMF Feather board with a ESP32 coprocessor |
+| Seeed | [Wio Lite RISC-V (GD32VF103) with ESP8266](https://www.seeedstudio.com/Wio-Lite-RISC-V-GD32VF103-p-4293.html) | RISC-V development board with RISC-V GD32VF103 and onboard ESP8266 Wio Core |
 | [Wilderness Labs](https://store.wildernesslabs.co/) | [Meadow F7](https://store.wildernesslabs.co/products/meadow-f7) | STM32F7 uC with WiFi, BLE, 216MHz, 16MB RAM, 32MB Flash, 2D graphics and JPEG acceleration |
 | Jed Hodson | [UWB Localization Feather](https://prototypingcorner.io/projects/uwb-feather/) | Decawave DWM1000 module and ATSAMD21 ARM Cortex M0 |
 | Gregory Davill | [Orange Crab](https://github.com/gregdavill/OrangeCrab/) | Lattice ECP5 FPGA |
@@ -166,11 +162,10 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [MakerTronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [Penguino Feather SAMR34 LoRa Dev-Board](https://www.tindie.com/products/makertronika-labs/penguino-feather-samr34-lora-dev-board/) | ATSAMR34J18 System-in-Package (SiP) based MCU+LoRA RF module |
 | Deshipu | [Fluff M0](https://hackaday.io/project/171381-fluff-m0) | A minimal SAMD21 M0 board in the Feather form factor |
 | [Jared Wolff](https://www.jaredwolff.com.com/) | [nRF9160 Feather](https://www.jaredwolff.com/store/nrf91-feather/) | nRF9160: ARM Cortex M33, modem, low power, Cellular data (LTE-M / NB-IoT), active GPS antenna support, onboard flash, high efficency power supply | 
-| Unexpected Maker | [FeatherS2](https://unexpectedmaker.com/shop/feathers2-esp32-s2) | ESP32-S2, 8MB PSRAM, 16MB SPI Flash, WiFi, STEMMA QT |
 | Seth Kerr | [MSP432 Feather](https://github.com/skerr92/msp432-feather) | Feather using an MSP432P401R |
 | PCB Arts | [Zynq Feather](https://www.pcb-arts.com/en/zynq_feather) | Zync systemn on chip in Feather form factor |
 | [Reclaimer Labs](https://www.reclaimerlabs.com/) | [STM32WB Feather](https://www.reclaimerlabs.com/stm32wb-feather) | STM32WB Bluetooth SoC |
-| [QuickLogic Corp.](https://www.quicklogic.com/) | [QuickFeather Dev Kit](https://shop.quicklogic.com/product/quickfeather-development-kit-uart-cable/) | Powered by QuickLogic’s EOS™ S3, the first FPGA-enabled Arm Cortex®-M4F MCU, fully supports Zephyr RTOS. 16-Mbit of flash memory, mCube MC3635 accelerometer, Infineon DPS310 pressure sensor, Infineon IM69D130 PDM digital microphone |
+| [QuickLogic](https://www.quicklogic.com/) | [QuickFeather Dev Kit](https://shop.quicklogic.com/product/quickfeather-development-kit-uart-cable/) | Powered by QuickLogic’s EOS™ S3, the first FPGA-enabled Arm Cortex®-M4F MCU, fully supports Zephyr RTOS. 16-Mbit of flash memory, mCube MC3635 accelerometer, Infineon DPS310 pressure sensor, Infineon IM69D130 PDM digital microphone |
 | Invector Labs | [Challenger Model 2040](https://site.invector.se/produkt/challenger-2040/) | RP2040, ESP8285 WiFi, USB-C connector |
 | Move Solutions | [Penguino – MAMWLExx Breakout Board](https://www.movesolutions.it/2021/04/09/mamwlexx-breakout-board/) | STM32WLE5JB SoC, SX1262 RF Transceiver 150-960 MHz, LoRa (G)FSK, (G)MSK, BPSK |
 | [Melopero](https://www.melopero.com/) | [Shake RP2040](https://www.melopero.com/shop/development-boards/melopero-shake-rp2040/) | RP2040 uC, 16MB Flash, Qwiic/Stemma QT |
@@ -265,28 +260,28 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 |---|---|--------|
 | [Pimoroni](https://shop.pimoroni.com/) | [Enviro+ FeatherWing](https://shop.pimoroni.com/products/enviro-plus-featherwing) | Color LCD, 3 sensors and microphone for air quality |
 | Capable Robot Components | [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp) | Four-channel temperature sensor for instrumenting electronics |
-| Particle | [Ethernet FeatherWing](https://www.adafruit.com/product/4003) | Ethernet with two Feather slots |
+| [Particle](https://www.particle.io/) | [Ethernet FeatherWing](https://www.adafruit.com/product/4003) | Ethernet with two Feather slots |
 | Particle | [Particle Classic Adapter](https://store.particle.io/) | Use classic Photon accessories with Feather Footprint |
-| Seeed | [Grove Shield for Particle Mesh](https://www.seeedstudio.com/Grove-Shield-for-Particle-Mesh-p-4080.html) | Large FeatherWing with eight Grove sensor connections |
+| [Seeed](https://www.seeedstudio.com/) | [Grove Shield for Particle Mesh](https://www.seeedstudio.com/Grove-Shield-for-Particle-Mesh-p-4080.html) | Large FeatherWing with eight Grove sensor connections |
 | Seeed | [Grove Shield FeatherWing - Wio Lite](https://www.adafruit.com/product/4357) | 10 Grove Connectors |
 | davedarko | [USB Host FeatherWing](https://hackaday.io/project/161845-max3421e-featherwing) | USB Host add-on for MAX3421E |
 | armin.von_collrepp | [CAN Bus FeatherWing](https://easyeda.com/armin.von_collrepp/Adafruit_CAN_FeatherWing-0YRL3lfxP) | MCP2515 based CAN controller with an 3.3V CAN transceiver |
 | [Argo](https://twitter.com/olygineer) | [CANbus FeatherWing](https://twitter.com/olygineer/status/1146133929235308544) | CAN Bus, regulated DC in, I2C STEMMA/Grove/Qwiic connection |
 | [IAmOrion](https://www.tindie.com/stores/iamorion/) | [Feather CANBus Shield](https://www.tindie.com/products/iamorion/feather-canbus-shield/) | CAN Bus FeatherWing (PCB Only) |
-| Tisham Dhar | [ADS1115 Featherwing](http://whatnicklife.blogspot.com/2016/01/extending-energy-monitoring-ads1115.html) | Energy monitoring specific ADS1115 breakout |
+| Tisham Dhar | [ADS1115 FeatherWing](http://whatnicklife.blogspot.com/2016/01/extending-energy-monitoring-ads1115.html) | Energy monitoring specific ADS1115 breakout |
 | Tisham Dhar | [ATM90E26 FeatherWing](https://www.tindie.com/products/whatnick/atm90e26-featherwing/) | ATM90E26 Utility Grade Energy Monitor |
 | Justin Jordan | [1-Wire Wing Data Logger](https://www.hackster.io/justin-jordan/1-wire-wing-data-logger-w-max32630fthr-ada46a?ref=part&ref_id=31815&offset=1) | DS2484 I2C to 1-Wire master, RJ-11 Connector, Sharp LS012B7DD01 LCD, 4 push buttons |
 | Radomir Dopieralski | [PewPew FeatherWing](https://hackaday.io/project/21578-pewpew-featherwing) | Buttons and a LED matrix display for simple games |
-| Dan Watson | [LoRaWAN FeatherWing](https://syncchannel.blogspot.com/2016/06/lorawan-featherwing-for-adafruit-feather.html) |  MicroChip RN2483/RN2903 LoRaWAN module |
+| Dan Watson | [LoRaWAN FeatherWing](https://syncchannel.blogspot.com/2016/06/lorawan-featherwing-for-adafruit-feather.html) |  Microchip RN2483/RN2903 LoRaWAN module |
 | Dan Watson | [LoRa FeatherWing IOX](http://syncchannel.blogspot.com/2016/03/lora-featherwing-iox-for-adafruit.html) | RFM95/96(W) with MCP23008 8-bit I/O expander |
 | Dan Cogliano | [e-Paper FeatherWing](https://danthegeek.com/2019/02/04/iot-calendar-creating-a-custom-featherwing/) | Add a Waveshare e-Paper display and two buttons |
 | PatternAgents | [Agent-DRV2605](http://www.patternagents.com/store/index.html#!/FeatherWing-Haptic-DRV2605L/p/130591584/category=33456145) | TI DRV2605L Haptic Driver and ADI ADXL345 Accelerometer |
 | PatternAgents | [Agent-DA7280](http://www.patternagents.com/store/index.html#!/FeatherWing-Haptic-DA7280/p/130591623/category=33456145) | DialogSemi DA7280L Haptic Driver and ADI ADXL345 Accelerometer |
 | [Justin Nesselrotte](https://twitter.com/jnesselr/status/1097276091901726720) | [Snack Machine Controller](https://github.com/Jnesselr/Vending-Machine) | Wireless snack machine controller board |
-| [MCCI](https://mcci.com/) | [Catena 4450](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4450-lorawan-iot-device) | FRAM, BME-280 Sensor, lux sensor, I2C multiplexer, LoRaWAN |
+| [MCCI](https://mcci.com/) | [Catena 4450](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4450-lorawan-iot-device) | FRAM, BME280 Sensor, lux sensor, I2C multiplexer, LoRaWAN |
 | MCCI | [Catena 4460](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/catena-4460-sensor-wing-w-bme680) | LoRaWAN 1.0/1.1, BME680 Sensor, lux sensor, FRAM, I2C Multiplexer |
 | MCCI | [Catena 4470](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4470-modbus-node-for-lorawan-technology) | LoRaWAN 1.0.2/1.1, RS-485, BME-280 Sensor, lux sensor, FRAM, SPI Flash |
-| SparkFun | [ESP32 Thing Plus DMX to LED Shield](https://www.sparkfun.com/products/15110) | DMX board with XLR-3 and ArtNet jacks |
+| [SparkFun](https://www.sparkfun.com/) | [ESP32 Thing Plus DMX to LED Shield](https://www.sparkfun.com/products/15110) | DMX board with XLR-3 and ArtNet jacks |
 | SparkFun | [SparkFun Qwiic Shield for Thing Plus](https://www.sparkfun.com/products/16138) | Provides 4 Qwiic/STEMMA QT sockets |
 | SparkFun | [SparkFun Thing Plus Dual-Port Logging Shield](https://www.sparkfun.com/products/19217) | SD Card for logging with USB-C access |
 | SparkFun | [SparkFun Qwiic / Stemma QT FeatherWing (Shield for Thing Plus)](https://www.adafruit.com/product/4515) | Four Qwiic / STEMMA QT Ports |
@@ -313,10 +308,9 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Mikroe](https://www.mikroe.com/) | [Feather Click Shield](https://www.mikroe.com/blog/feather-click-shield) | Feather to dual mikroBUS Click board adapter |
 | [Binho](https://binho.io/) | [Feather Interface Board](https://binho.io/collections/accessories/products/feather-interface-board) | Provides UART and Qwiic interfaces, primarily for using the Binho Multi-Protocol USB Host Adapter |
 | sirmylesavery | [u-blox SAM-M8Q GPS Featherwing](https://hackaday.io/project/168430-u-blox-sam-m8q-gps-featherwing) | GPS FeatherWing using the ublox SAM-M8Q GPS module |
-| [Maxim Integrated](https://www.maximintegrated.com/) | [MAX30101WING](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX30101WING.html) | MAX30101 pulse oximetry sensor development board |
-| [Maxim Integrated](https://www.maximintegrated.com/) | [MAX86150](https://www.maximintegrated.com/en/products/interface/sensor-interface/MAX86150.html) | MAX86150 BioSensor Module development board |
-| [Actinius](https://www.actinius.com/) | [Environmental Sensor FeatherWing](https://www.actinius.com/environmental-sensor-featherwing) | features the Bosch BME280, AMS CCS811, TI OPT3002 and SI SI7060 sensors. |
-| PCBWay | [ATM90E26 FeatherWing](https://www.pcbway.com/project/gifts_detail/ATM90E26_FeatherWing.html) | ATMEL E9026 Energy monitor with power supply |
+| [Analog Devices](https://www.analog.com/) | [MAX30101WING](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/max30101wing.html) | MAX30101 pulse oximetry sensor development board |
+| Analog Devices | [MAX86150EVSYS](https://www.analog.com/en/products/max86150.html#product-evaluationkit) | MAX86150 BioSensor Module development board |
+| [Actinius](https://www.actinius.com/) | [Environmental Sensor FeatherWing v2](https://www.actinius.com/environmental-sensor-featherwing) | Features the Bosch BME688, TI OPT3002 and SI SI7060 sensors. |
 | [n°Garage](https://www.tindie.com/stores/ndgarage/) | [Hippo](https://www.tindie.com/products/ndgarage/hippo/) | A hippo PCB with twelve NeoPixel LEDs |
 | AbleGamers | [Freedom Wing Adapter](https://www.youtube.com/watch?v=FgKNWc-EpHQ) | Connect a power wheelchair joystick to Feather and the Xbox Adaptive Controller |
 | [Omron](https://www.omron.co.jp/ecb) | [2JCIE-EV01-FT1](https://www.omron.co.jp/ecb/sensor/evaluation-board/2jcie) | Temperature, humidity, ambient light, MEMS pressure/motion/microphone multisensor board for HUZZAH32 |
@@ -330,16 +324,15 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [DTRONIXS](https://www.tindie.com/stores/DTronixs/) | [Prototyping / Breadboard board for Adafruit Feather](https://zuzebox.wordpress.com/2020/08/30/a-prototyping-breadboard-board-for-adafruit-feather-modules/) | Prototyping: header, buttons, LEDs, breadboard area |
 | David Bershadsky and Alexander Kirillov | [RoverWing](https://www.crowdsupply.com/alexander-kirillov/roverwing) | Robotics Wing similar to Crickit, handles 6-12 volt motors |
 | [SK Pang](http://skpang.co.uk/catalog/) | [CAN-Bus FeatherWing for ESP32](http://skpang.co.uk/catalog/canbus-featherwing-for-esp32-p-1556.html) | CAN-Bus FeatherWing for an ESP32 Feather. Uses the SN65HVD231 CAN transceiver with PESD1CAN ESD protection |
-| [Würth Elektronik](https://www.we-online.de/katalog/de/SENSOR_FEATHERWING) | [Sensor FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/SensorFeatherWing) | 4-sensor FeatherWing with temperature, humidity, absolute pressure, 3-axis acceleration sensors |
-| [Würth Elektronik](https://www.we-online.de/katalog/de/THYONE-I_FEATHERWING) | [Thyone Wireless FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/ThyoneWirelessFeatherWing) | 2.4 GHz proprietary wireless connectivity with integrated secure element |
-| [Würth Elektronik](https://www.we-online.de/catalog/de/CALYPSO_FEATHERWING) | [Calypso Wi-Fi FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/CalypsoWiFiFeatherWing) | 2.4 GHz WiFi connectivity with support for SNTP, HTTP(S), MQTT(S) and cloud connectivity |
-| [Würth Elektronik](https://www.we-online.de/katalog/de/pm) | [MagI³C Power FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/MagI3CPowerFeatherWing) | 5 V and 3.3 V power supply with a range of industrial input voltages (5 V, 9 V, 12 V, 15 V, 18 V and 24 V) |
+| [Würth Elektronik](https://www.we-online.de/) | [Sensor FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/SensorFeatherWing) | 4-sensor FeatherWing with temperature, humidity, absolute pressure, 3-axis acceleration sensors |
+| Würth Elektronik | [Thyone Wireless FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/ThyoneWirelessFeatherWing) | 2.4 GHz proprietary wireless connectivity with integrated secure element |
+| Würth Elektronik | [Calypso Wi-Fi FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/CalypsoWiFiFeatherWing) | 2.4 GHz WiFi connectivity with support for SNTP, HTTP(S), MQTT(S) and cloud connectivity |
+| Würth Elektronik | [MagI³C Power FeatherWing](https://github.com/WurthElektronik/FeatherWings/tree/main/MagI3CPowerFeatherWing) | 5 V and 3.3 V power supply with a range of industrial input voltages (5 V, 9 V, 12 V, 15 V, 18 V and 24 V) |
 | [tinyledmatrix](https://twitter.com/tinyledmatrix)| [NeoPixel_HD Feather Wing](https://hackaday.io/project/168448-neopixelhd-feather-wing) | High density neoPixel RGB-Matrix using 198 neoPixels |
 | Spudworks | [DynaFeather](https://www.tindie.com/products/spudworks/dynafeather/) | Connect to Dynamixel brand smart servo motors with power |
 | [Glen Akins](https://twitter.com/bikerglen) | [Sushi FeatherWing](https://github.com/bikerglen/sushi-featherwing) | The Sushi FeatherWing is a board to inteface the Adafruit HUZZAH ESP32 Feather to the slim 640x48 LCDs found in the various dragon, wizard, and fairy magic wand toys. |
 | Blues Wireless | [Feather Starter Kit](https://shop.blues.io/products/feather-starter-kit) | Feather to Quectel cellular modem, Integrated GPS and Accelerometer |
 | Oddly Specific Objects | [LCD FeatherWing](https://www.adafruit.com/product/5581) | I²C-driven LCD display |
-| Binho | [Feather / Stemma QT Interface Board](https://www.adafruit.com/product/4461) | Interface a Binho Nova host adapter with any Feather form-factor device. I2C, SPI, and UART interfaces |
 
 ## Accessories
 
