@@ -333,6 +333,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Glen Akins](https://twitter.com/bikerglen) | [Sushi FeatherWing](https://github.com/bikerglen/sushi-featherwing) | The Sushi FeatherWing is a board to inteface the Adafruit HUZZAH ESP32 Feather to the slim 640x48 LCDs found in the various dragon, wizard, and fairy magic wand toys. |
 | Blues Wireless | [Feather Starter Kit](https://shop.blues.io/products/feather-starter-kit) | Feather to Quectel cellular modem, Integrated GPS and Accelerometer |
 | Oddly Specific Objects | [LCD FeatherWing](https://www.adafruit.com/product/5581) | I²C-driven LCD display |
+| Zihatec GmbH | [MBUS Slave FeatherWing](https://www.hwhardsoft.de/english/projects/m-bus-featherwing) | M-BUS slave interface for smartmetering |
+| Zihatec GmbH | [AZ-Touch Feather](https://www.hwhardsoft.de/english/projects/az-touch-feather) | 2.8 inch wallmount touch screen |
 
 ## Accessories
 
@@ -350,6 +352,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 - [Adafruit Feather ESP8266 / ESP32 cases](https://www.thingiverse.com/thing:2581394) - by keyglitch (Thingiverse)
 - [Adafruit Featherbox](https://www.thingiverse.com/thing:2139358) - by pouyak (Thingiverse)
 - [Tall Adafruit Feather Box Components](https://www.thingiverse.com/thing:2438577) - by rcolbert (Thingiverse)
+- [ArduiBox Feather din rail enclosure kit](https://www.hwhardsoft.de/english/projects/arduibox-feather) - by Zihatec GmbH
 - [Additional items on Thingiverse](https://www.thingiverse.com/search?q=Feather&dwh=175c7d2f63b0faf)
 
 ## News
