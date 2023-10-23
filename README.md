@@ -384,7 +384,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 - [Feather tagged on Reddit](https://www.reddit.com/search?q=adafruit%20feather) - Reddit posts relating to Adafruit Feather.
 - [Feather on Hackaday.io](https://hackaday.io/search?term=Adafruit+Feather) - List of projects on hackaday.io
 - [Feather on hackster.io](https://www.hackster.io/search?i=projects&q=Adafruit%20Feather) - Adafruit Feathere projects on hackster.io.
-- [Feather on Instructables](https://www.instructables.com/howto/Adafruit+Feather/) - How-tos, guides, and more, using Feather on Autodesk's Instructables.
+- [Feather on Instructables](https://www.instructables.com/search/?q=adafruit%20feather&projects=all) - How-tos, guides, and more, using Feather on Autodesk's Instructables.
 
 ## Contributing
 
