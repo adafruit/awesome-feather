@@ -174,6 +174,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Unexpected Maker | [FeatherS2](https://www.adafruit.com/product/4769) | ESP32-S2, 16MB Flash, 8MB PSRAM, STEMMA QT |
 | Unexpected Maker | [FeatherS3](https://www.adafruit.com/product/5399) | ESP32-S3, 16MB Flash, 8MB PSRAM, 2xSTEMMA QT |
 | Oak Development Technologies | [IcyBlue Feather](https://www.oakdev.tech/store/p17/icyblue-feather.html) | ICE5LP4K FPGA Feather Development Board |
+| ThingPulse | [ePulse Feather C6](https://thingpulse.com/product/epulse-feather-low-power-esp32-c6/) | ESP32-C6 board supporting WiFi, BLE, Zigbee, Thread and Matter |
 
 ## FeatherWings
 
@@ -183,7 +184,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [FeatherWing Doubler - Prototyping Add-on](https://www.adafruit.com/product/2890) | Two side-by-side Feather sockets |
 | [FeatherWing Tripler Mini Kit - Prototyping Add-on](https://www.adafruit.com/product/3417)  | Three side-by-side feather sockets |
 | [Adafruit Quad 2x2 FeatherWing Kit with Headers](https://www.adafruit.com/product/4253) | Base holding 4 FeatherWings 2x2 |
-| [Adafruit Quad Side-By-Side FeatherWing Kit with Headers](https://www.adafruit.com/product/4254) | Base  holding 4 FeatherWings 1x4 |
+| [Adafruit Quad Side-By-Side FeatherWing Kit with Headers](https://www.adafruit.com/product/4254) | Base holding 4 FeatherWings 1x4 |
 | [Assembled Terminal Block Breakout FeatherWing](https://www.adafruit.com/product/2926) | Fully assembled |
 | [Adafruit Prop-Maker FeatherWing](https://www.adafruit.com/product/3988) | Multiple drivers for props |
 | [Adafruit Ultimate GPS FeatherWing](https://www.adafruit.com/product/3133) | GPS receiver with battery backup |
@@ -396,4 +397,4 @@ Contributions and suggestions are always welcome! Please make pull requests to m
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Updated October 23, 2023
+Updated March 6, 2024
