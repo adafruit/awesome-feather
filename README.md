@@ -106,6 +106,7 @@ Setup of Adafruit Feather boards:
 | [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) | RP2040 chip | - | 264KB | 4MB | 125 MHz | Yes | Yes | - |
 | [Adafruit Feather RP2040 SCORPIO](https://www.adafruit.com/product/5650) | 8 channel NeoPixel Driver | - | 264KB | 4MB | 125 MHz | Yes | Yes | - |
 | [Adafruit Feather RP2040 PropMaker](https://www.adafruit.com/product/5768) | Amplifier, NeoPixel driver, accelerometer, servo port | - | 264KB | 8MB | 125 MHz | Yes | Yes | - |
+| [Adafruit Feather RP2040 ThinkInk](https://www.adafruit.com/product/5727) | ThinkInk eInk interface | - | 264KB | 8MB | 125 MHz | Yes | Yes | - |
 | [Adafruit M0 Express](https://www.adafruit.com/product/3403) | 1.44" display, sensors, amp | 256 KB | 32 KB | 2 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit HalloWing M0 Express](https://www.adafruit.com/product/3900) | 1.44" display, sensors, amp | 256 KB | 32 KB | 8 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
