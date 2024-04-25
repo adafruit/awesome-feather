@@ -184,7 +184,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Oak Development Technologies | [IcyBlue Feather](https://www.oakdev.tech/store/p17/icyblue-feather.html) | ICE5LP4K FPGA Feather Development Board |
 | ThingPulse | [ePulse Feather C6](https://thingpulse.com/product/epulse-feather-low-power-esp32-c6/) | ESP32-C6 board supporting WiFi, BLE, Zigbee, Thread and Matter |
 
-## FeatherWings
+## FeatherWings (Adafruit)
 
 | Name  | Features  |
 |---|---|
@@ -299,6 +299,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Sean Hodgins | [WIND Project Development Board](https://github.com/IdleHandsProject/wind_breakout) | Breakout board for Feather, sensor, and 18650 battery |
 | John Sartzetakis | [Scale FeatherWing](https://gitlab.com/jousis/scale-featherwing) | RC Filter and LDO for Load Cell Excitation (ADS1232 24-bit ADC) |
 | [Dan O'Shea (uXe)](https://twitter.com/uXeBoy) | [uXeBoy GBA Cartridge FeatherWing](https://community.arduboy.com/t/arduino-gameboy-cartridge/7057/90) | Lattice FPGA interface from a Feather to the GameBoy Advance. [Code](https://github.com/uXeBoy/GBArduboy). |
+| Oak Developmennt Technologies | [Lattice FeatherWing](https://www.oakdev.tech/store/p23/Lattice-FeatherWing.html#/) | Lattice iCE5LP4K FPGA |
 | [Pier42 Design](https://www.tindie.com/stores/pier42/) | [Watt-a-Live](https://www.tindie.com/products/pier42/watt-a-live-currentpowervoltage-monitor-sensor/) | INA209 Power Monitoring FeatherWing |
 | Cedar Grove Studios | [Classic MIDI FeatherWing](https://github.com/CedarGroveStudios/Classic_MIDI_FeatherWing) | MIDI interface with provisions for DIN-5 and TRS Type B connectors |
 | Cedar Grove Studios | [AD9833 FeatherWing](https://github.com/CedarGroveStudios/AD9833_FeatherWing) | Waveform Generator using the Analog Devices AD9833, 0 to 300 kHz, 0.1Hz resolution |
