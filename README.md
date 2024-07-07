@@ -183,6 +183,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Unexpected Maker | [FeatherS3](https://www.adafruit.com/product/5399) | ESP32-S3, 16MB Flash, 8MB PSRAM, 2xSTEMMA QT |
 | Oak Development Technologies | [IcyBlue Feather](https://www.oakdev.tech/store/p17/icyblue-feather.html) | ICE5LP4K FPGA Feather Development Board |
 | ThingPulse | [ePulse Feather C6](https://thingpulse.com/product/epulse-feather-low-power-esp32-c6/) | ESP32-C6 board supporting WiFi, BLE, Zigbee, Thread and Matter |
+| PowerFeather | [ESP32-S3 PowerFeather](https://powerfeather.dev/) | ESP32-S3, 8 MB Flash, 2 MB PSRAM, STEMMA QT. Low-power; onboard TI BQ25628E and Onsemi LC709204F, for LiPo/Li-Ion & Solar Powered IoT. |
 
 ## FeatherWings (Adafruit)
 
