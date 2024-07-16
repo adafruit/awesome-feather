@@ -78,6 +78,7 @@ Setup of Adafruit Feather boards:
 | [Adafruit Feather HUZZAH with ESP8266](https://www.adafruit.com/product/2821) | WiFi support | 4 MB | 32KB 80KB | - | 80 MHz | - | Yes | WiFi |
 | [Adafruit Feather HUZZAH32 with ESP32](https://www.adafruit.com/product/3405) | WiFi and Bluetooth | 4 MB | 520 KB | - | 240 MHz | - | Yes | WiFi / BTLE |
 | [Adafruit ESP32 Feather V2](https://www.adafruit.com/product/5400) | WiFi, Bluetooth, STEMMA QT, Low Power | 8MB | 2MB | - | 240 MHz | - | Yes | WiFi and Bluetooth |
+| [Adafruit ESP32-C6 Feather (soon)](https://www.adafruit.com/product/5933) | WiFi 6, Bluetooth 5 (LE) & 802.15.4 protocol | - | - | - | - | - | WiFi, BTLE 5, 802.15.4 |
 | [Adafruit ESP32-S2 Feather](https://www.adafruit.com/product/5000) | WiFi, STEMMA QT | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi |
 | [Adafruit ESP32-S2 Feather with BME280 Sensor](https://www.adafruit.com/product/5303) | WiFi, STEMMA QT, Sensor | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi |
 | [Adafruit ESP32-S2 TFT Feather](https://www.adafruit.com/product/5300) | WiFi, STEMMA QT, Display | 4MB | 2MB | - | 240 MHz | Yes | Yes | WiFi |
