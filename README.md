@@ -205,6 +205,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Adafruit Ethernet FeatherWing](https://www.adafruit.com/product/3201) | WIZ5500 Ethernet Client |
 | [Adafruit DC Motor + Stepper FeatherWing](https://www.adafruit.com/product/2927) | 4 DC Motors or 2 Steppers |
 | [Adafruit INA219 FeatherWing](https://www.adafruit.com/product/3650) | Power monitoring |
+| [Adafruit USB Host FeatherWing with MAX3421E](https://www.adafruit.com/product/5858) | USB Host Interface |
 | [Adafruit Power Relay FeatherWing](https://www.adafruit.com/product/3191) | Relay rated to 250V AC |
 | [Adafruit Latching Mini Relay FeatherWing](https://www.adafruit.com/product/2923) |  Latching Relay 250V AC |
 | [Adafruit Non-Latching Mini Relay FeatherWing](https://www.adafruit.com/product/2895) | Non-latching relay 250V AC |
