@@ -113,6 +113,7 @@ Setup of Adafruit Feather boards:
 | [Adafruit Feather RP2040 USB Type A Host](https://www.adafruit.com/product/5723) | USB type A host port | - | 264KB | 8MB | 125 MHz | Yes | Yes | - |
 | [Adafruit Feather RP2040 CAN Bus](https://www.adafruit.com/product/5724) | CAN controller & transceiver | - | 264KB | 8MB | 125 MHz | Yes | Yes | - |
 | [Adafruit Feather RP2040 DVI Port](https://www.adafruit.com/product/5710) | DVI Video Output Port | - | 264KB | 8MB | 125 MHz | Yes | Yes | - |
+| [Adafruit Feather RP2040 Adalogger - 8MB Flash with microSD Card](https://www.adafruit.com/product/5980) | microSD reader and STEMMA QT | - | 264KB | 8MB | 125 MHz | Yes | Yes | - |
 | [Adafruit M0 Express](https://www.adafruit.com/product/3403) | 1.44" display, sensors, amp | 256 KB | 32 KB | 2 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit HalloWing M0 Express](https://www.adafruit.com/product/3900) | 1.44" display, sensors, amp | 256 KB | 32 KB | 8 MB | 48 MHz | Yes | Yes | - |
 | [Adafruit Feather M4 Express Cortex M4](https://www.adafruit.com/product/3857) | Proto area | 512 KB | 192 KB | 2 MB | 120 MHz | Yes | Yes | - |
