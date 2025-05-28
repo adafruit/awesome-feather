@@ -103,6 +103,7 @@ Setup of Adafruit Feather boards:
 | [Adafruit Feather M0 RFM96 LoRa Radio - 433MHz - RadioFruit](https://www.adafruit.com/product/3179) | RF Radio Support | 32 KB | 2 KB | - | 48 MHz | Reduced  | Yes | LoRa |
 | [Adafruit Feather RP2040 RFM95 LoRa Radio - 868/915 MHz - RadioFruit](https://www.adafruit.com/product/5714) | RF Radio Support | - | 264KB | 8MB | 125 MHz | Yes | Yes | LoRa |
 | [Adafruit Feather RP2040 RFM69 Packet Radio - 868/915 MHz - RadioFruit](https://www.adafruit.com/product/5712) | RF Radio Support | - | 264KB | 8MB | 125 MHz | Yes | Yes | Racket |
+| [Adafruit Feather RP2350 with HSTX Port](https://www.adafruit.com/product/6000) | - | 520k | 8MB | 150 MHz | Yes | Yes | - |
 | [Adafruit Feather nRF52 Bluefruit LE - nRF52832](https://www.adafruit.com/product/3406) | Bluetooth support | 512 KB | 64 KB | - | 64 MHz | - | Yes | BTLE |
 | [Adafruit Feather nRF52832 Pro with myNewt Bootloader](https://www.adafruit.com/product/3574) | Bluetooth support | 512 KB | 64 KB |  | 64 MHz | - | Yes | BTLE |
 | [Adafruit Feather nRF52840 Express](https://www.adafruit.com/product/4062) | Bluetooth support | 1 MB  | 256 KB | - | 64 MHz | Yes | Yes | BTLE |
