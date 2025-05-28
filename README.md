@@ -226,7 +226,8 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | [Adafruit Radio FeatherWing - RFM69HCW 900MHz - RadioFruit](https://www.adafruit.com/product/3229) | RFM69 radio at 900 MHz | 
 | [Adafruit FeatherWing OLED - Loose Headers](https://www.adafruit.com/product/2900) | 128x32 OLED Display |
 | [Adafruit FeatherWing OLED - Soldered Headers](https://www.adafruit.com/product/3045) | 128x32 OLED Display |
-| [Adafruit FeatherWing OLED](https://www.adafruit.com/product/4650) | 128x64 OLED Display, 3 Buttons, STEMMA QT |
+| [Adafruit FeatherWing OLED](https://www.adafruit.com/product/4650) | 128x64 OLED Display, 3 Buttons, STEMMA QT, loose headers |
+| [Adafruit FeatherWing OLED](https://www.adafruit.com/product/6313) | 128x64 OLED Display, 3 Buttons, STEMMA QT, soldered headers|
 | [Adafruit Mini Color TFT with Joystick FeatherWing](https://www.adafruit.com/product/3321) | 0.96" 160x80 Color TFT Display with 16-bit full color |
 | [Adafruit TFT FeatherWing](https://www.adafruit.com/product/3315) | LCD 320x200 2.4" with touchscreen |
 | [Adafruit TFT FeatherWing](https://www.adafruit.com/product/3651) | LCD 480x320 3.5" with touchscreen |
