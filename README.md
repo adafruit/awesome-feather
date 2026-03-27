@@ -193,6 +193,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | Technoblogy | [AVR128DA32 Feather Board](http://www.technoblogy.com/show?3V6B) | AVR128DA32, microSD card socket, mini NeoPixel |
 | Technoblogy | [ESP32-P4 Feather Board](http://www.technoblogy.com/show?5AII) | ESP32-P4, 768KB SRAM, 32Mbytes PSRAM, up to 32Mbytes of external flash |
 | Zalmotek | [Renesas RA8M1 Feather SoM](https://github.com/Zalmotek/renesas-RA8M1-feather) | Renesas RA8M1, 360MHz |
+| Ohmlab LTD | [Neuro N6](https://www.kickstarter.com/projects/ohmlab-ltd/neuro-n6) | STM32N6, 64MB PSRAM, Micrpphone, 6DOF IMU, 32MB Flash |
 
 ## FeatherWings (Adafruit)
 
