@@ -191,6 +191,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | PowerFeather | [ESP32-S3 PowerFeather](https://powerfeather.dev/) | ESP32-S3, 8 MB Flash, 2 MB PSRAM, STEMMA QT. Low-power; onboard TI BQ25628E and Onsemi LC709204F, for LiPo/Li-Ion & Solar Powered IoT. |
 | [Phyx](https://phyx.be/) | [TESS](https://github.com/phyx-be/TESS) | Allwinner T113, 512MB Flash, ESP32-C3, high power battery charger, MIPI CSI (Raspberry Pi Touch Display 2 compatible), Microphone & Analog Audio |
 | Technoblogy | [AVR128DA32 Feather Board](http://www.technoblogy.com/show?3V6B) | AVR128DA32, microSD card socket, mini NeoPixel |
+| Technoblogy | [ESP32-P4 Feather Board](http://www.technoblogy.com/show?5AII) | ESP32-P4, 768KB SRAM, 32Mbytes PSRAM, up to 32Mbytes of external flash |
 | Zalmotek | [Renesas RA8M1 Feather SoM](https://github.com/Zalmotek/renesas-RA8M1-feather) | Renesas RA8M1, 360MHz |
 
 ## FeatherWings (Adafruit)
