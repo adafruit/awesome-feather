@@ -159,6 +159,7 @@ Note: See the [Introduction to Feather Guide](https://learn.adafruit.com/adafrui
 | SparkFun | [SparkFun Thing Plus - STM32](https://www.sparkfun.com/products/17712) | STM32F405 Processor with a 32-bit ARM Cortex®-M4 core, Qwiic connector |
 | SparkFun | [MicroMod Thing Plus](https://www.sparkfun.com/products/18027) | Feather form factor MicroMod CPU board with USB-C and Qwiic port |
 | SparkFun | [SparkFun Thing Plus Matter - MGM240P](https://www.sparkfun.com/products/20270) | BLE, 802.15.4 Mesh, Matter IoT Protocol, Qwiic Connector |
+| SparkFun | [SparkFun Thing Plus - ESP32-C5](https://www.sparkfun.com/sparkfun-thing-plus-esp32-c5.html) | Dual-Band WiFi 6, Bluetooth 5, 8MB Flash, and 8MB PSRAM |
 | SparkFun / QuickLogic | [SparkFun Thing Plus - QuickLogic EOS S3](https://www.crowdsupply.com/sparkfun/thing-plus-quicklogic-eos-s3) | EOS S3 MCU + eFPGA SoC, LIS2DH12TR & PDM mic |
 | The Things Network Sevilla | [T.O.G Mk1](https://twitter.com/ttn_sevilla/status/1117725090693767168) | Feather M0 clone with LoRaWAN |
 | [Makertronika Labs](https://www.tindie.com/stores/makertronika-labs/) | [TinyLoRa SAMR34 LoRA](https://www.tindie.com/products/makertronika-labs/tinylora-samr34-based-lora-devboard/) | ATSAMR34J18 based LoRA DevBoard |
